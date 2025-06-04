@@ -16,3 +16,9 @@
   - [] Choisir le nombre de pokémons à randomizer
   - [] Numéro de pokédex uniquement
 - [] Randomizer capacité
+
+---
+
+## Utilitaires
+### /dataloader
+Utilitaire pour aller récupérer les données dans PokeAPI
