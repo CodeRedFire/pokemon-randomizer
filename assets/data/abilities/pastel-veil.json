@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "パステルベール",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "파스텔베일",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "粉彩護幕",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Voile Pastel",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pastellhülle",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Velo Pastel",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pastelvelo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pastel Veil",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "パステルベール",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "粉彩护幕",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ねつぼうそう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "열폭주",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "受熱激升",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Rage Brûlure",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hitzewahn",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ímpetu Ardiente",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Bruciaimpeto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Flare Boost",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ねつぼうそう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "受热激升",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

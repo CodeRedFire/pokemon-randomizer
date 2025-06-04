@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "よわき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "무기력",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "軟弱",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Défaitiste",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schwächling",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Flaqueza",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sconforto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Defeatist",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "よわき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "软弱",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

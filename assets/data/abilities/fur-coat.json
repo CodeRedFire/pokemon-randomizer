@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ファーコート",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "퍼코트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "毛皮大衣",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Toison Épaisse",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Fellkleid",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pelaje Recio",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Foltopelo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Fur Coat",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ファーコート",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "毛皮大衣",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "スコルピ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Scorpi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "스콜피",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鉗尾蠍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Rapion",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pionskora",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Skorupi",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Skorupi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Skorupi",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "スコルピ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "钳尾蝎",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "bug"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 30
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png"
+}

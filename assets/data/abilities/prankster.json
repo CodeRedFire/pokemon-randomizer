@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "いたずらごころ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "짓궂은마음",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "惡作劇之心",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Farceur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Strolch",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Bromista",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Burla",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Prankster",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "いたずらごころ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "恶作剧之心",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

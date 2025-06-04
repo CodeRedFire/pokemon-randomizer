@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "しょうりのほし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "승리의별",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "勝利之星",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Victorieux",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Triumphstern",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tinovictoria",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Vittorstella",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Victory Star",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "しょうりのほし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "胜利之星",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

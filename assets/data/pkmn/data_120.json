@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ヒトデマン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Hitodeman",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "별가사리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "海星星",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Stari",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sterndu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Staryu",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Staryu",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Staryu",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヒトデマン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "海星星",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 30
+        },
+        {
+            "name": "attack",
+            "value": 45
+        },
+        {
+            "name": "defense",
+            "value": 55
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png"
+}

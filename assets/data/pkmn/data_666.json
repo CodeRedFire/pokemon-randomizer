@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ビビヨン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Viviyon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "비비용",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "彩粉蝶",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Prismillon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Vivillon",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Vivillon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Vivillon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Vivillon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ビビヨン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "彩粉蝶",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 52
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 90
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 89
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666.png"
+}

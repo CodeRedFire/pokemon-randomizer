@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "おもてなし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "대접",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "款待",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Aux Petits Soins",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Gastlichkeit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hospitalidad",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ospitalità",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Hospitality",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "おもてなし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "款待",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

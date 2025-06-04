@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "サンドパン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Sandpan",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "고지",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "穿山王",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sablaireau",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sandamer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sandslash",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sandslash",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sandslash",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "サンドパン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "穿山王",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 110
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
+}

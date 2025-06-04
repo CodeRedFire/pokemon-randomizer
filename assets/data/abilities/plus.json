@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "プラス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "플러스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "正電",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Plus",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Plus",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Más",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Più",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Plus",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "プラス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "正电",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

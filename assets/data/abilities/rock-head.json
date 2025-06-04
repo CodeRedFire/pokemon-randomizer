@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "いしあたま",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "돌머리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "堅硬腦袋",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tête de Roc",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Steinhaupt",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cabeza Roca",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Testadura",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rock Head",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "いしあたま",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "坚硬脑袋",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

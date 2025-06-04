@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "きんしのちから",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Force Fongique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Myzelienkraft",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Poder Fúngico",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Micoforza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mycelium Might",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "きんしのちから",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

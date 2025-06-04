@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ジャラランガ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Jyararanga",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "짜랑고우거",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "杖尾鱗甲龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ékaïser",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Grandiras",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Kommo-o",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Kommo-o",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Kommo-o",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ジャラランガ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "杖尾鳞甲龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 110
+        },
+        {
+            "name": "defense",
+            "value": 125
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 105
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png"
+}

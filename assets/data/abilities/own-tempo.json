@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "マイペース",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "마이페이스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "我行我素",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tempo Perso",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tempomacher",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ritmo Propio",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mente Locale",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Own Tempo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マイペース",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "我行我素",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

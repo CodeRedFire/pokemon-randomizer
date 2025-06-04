@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ゴルバット",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Golbat",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "골뱃",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大嘴蝠",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Nosferalto",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Golbat",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Golbat",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Golbat",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Golbat",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゴルバット",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大嘴蝠",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png"
+}

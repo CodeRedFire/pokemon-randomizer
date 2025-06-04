@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "カブルモ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kaburumo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "딱정곤",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蓋蓋蟲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Carabing",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Laukaps",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Karrablast",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Karrablast",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Karrablast",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カブルモ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "盖盖虫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png"
+}

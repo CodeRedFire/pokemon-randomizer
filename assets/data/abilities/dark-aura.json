@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ダークオーラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "다크오라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "暗黑氣場",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Aura Ténébreuse",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Dunkelaura",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Aura Oscura",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Auratetra",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dark Aura",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ダークオーラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "暗黑气场",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

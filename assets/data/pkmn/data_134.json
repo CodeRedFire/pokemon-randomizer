@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "シャワーズ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Showers",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "샤미드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "水伊布",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Aquali",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Aquana",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Vaporeon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Vaporeon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Vaporeon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シャワーズ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "水伊布",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 130
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 110
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png"
+}

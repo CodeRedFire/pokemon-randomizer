@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ウオチルドン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Uochilldon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "어치르돈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鰓魚海獸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Hydragla",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pescryodon",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Arctovish",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Arctovish",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Arctovish",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ウオチルドン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "鳃鱼海兽",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 90
+        },
+        {
+            "name": "attack",
+            "value": 90
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 55
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/883.png"
+}

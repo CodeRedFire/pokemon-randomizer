@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "アイスフェイス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "아이스페이스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "結凍頭",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tête de Gel",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tiefkühlkopf",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cara de Hielo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Gelofaccia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ice Face",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アイスフェイス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "结冻头",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ガチグマ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Gachiguma",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "다투곰",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "月月熊",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ursaking",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Ursaluna",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ursaluna",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ursaluna",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ursaluna",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ガチグマ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "月月熊",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground",
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 130
+        },
+        {
+            "name": "attack",
+            "value": 140
+        },
+        {
+            "name": "defense",
+            "value": 105
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/901.png"
+}

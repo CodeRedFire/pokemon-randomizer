@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "マッシブーン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Massivoon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "매시붕",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "爆肌蚊",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mouscoto",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Masskito",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Buzzwole",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Buzzwole",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Buzzwole",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マッシブーン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "爆肌蚊",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 107
+        },
+        {
+            "name": "attack",
+            "value": 139
+        },
+        {
+            "name": "defense",
+            "value": 139
+        },
+        {
+            "name": "special-attack",
+            "value": 53
+        },
+        {
+            "name": "special-defense",
+            "value": 53
+        },
+        {
+            "name": "speed",
+            "value": 79
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/794.png"
+}

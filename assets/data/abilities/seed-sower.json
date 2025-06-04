@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "こぼれダネ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Semencier",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Streusaat",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Disemillar",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spargisemi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Seed Sower",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "こぼれダネ",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

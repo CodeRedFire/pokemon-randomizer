@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "キャモメ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Camome",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "갈모매",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "長翅鷗",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Goélise",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wingull",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Wingull",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Wingull",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Wingull",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "キャモメ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "长翅鸥",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 30
+        },
+        {
+            "name": "defense",
+            "value": 30
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 30
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png"
+}

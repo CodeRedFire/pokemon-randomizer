@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "すりぬけ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "틈새포착",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "穿透",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Infiltration",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schwebedurch",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Allanamiento",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Intrapasso",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Infiltrator",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "すりぬけ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "穿透",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

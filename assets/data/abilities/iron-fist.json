@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "てつのこぶし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "철주먹",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鐵拳",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Poing de Fer",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Eisenfaust",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Puño Férreo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ferropugno",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Iron Fist",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "てつのこぶし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铁拳",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

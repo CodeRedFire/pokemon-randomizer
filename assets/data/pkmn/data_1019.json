@@ -1,0 +1,95 @@
+{
+    "names": [
+        {
+            "name": "カミツオロチ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "과미드라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蜜集大蛇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pomdorochi",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hydrapfel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hydrapple",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Hydrapple",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Hydrapple",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カミツオロチ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蜜集大蛇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 106
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 110
+        },
+        {
+            "name": "special-attack",
+            "value": 120
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 44
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1019.png"
+}

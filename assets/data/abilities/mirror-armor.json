@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ミラーアーマー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "미러아머",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鏡甲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Armure Miroir",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Spiegelrüstung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Coraza Reflejo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Blindospecchio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mirror Armor",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ミラーアーマー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "镜甲",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

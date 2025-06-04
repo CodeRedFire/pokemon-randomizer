@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "きれあじ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Incisif",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Scharfkantig",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cortante",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Affilama",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sharpness",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "きれあじ",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "イワパレス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Iwapalace",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "암팰리스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "岩殿居蟹",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Crabaraque",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Castellith",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Crustle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Crustle",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Crustle",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "イワパレス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "岩殿居蟹",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 105
+        },
+        {
+            "name": "defense",
+            "value": 125
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png"
+}

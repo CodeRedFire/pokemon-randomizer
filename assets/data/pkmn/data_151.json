@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ミュウ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mew",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "뮤",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "夢幻",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mew",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mew",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mew",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mew",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mew",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ミュウ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "梦幻",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png"
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ゴルダック",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Golduck",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "골덕",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "哥達鴨",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Akwakwak",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Entoron",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Golduck",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Golduck",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Golduck",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゴルダック",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "哥达鸭",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 82
+        },
+        {
+            "name": "defense",
+            "value": 78
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png"
+}

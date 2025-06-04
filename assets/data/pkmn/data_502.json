@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "フタチマル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Futachimaru",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "쌍검자비",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雙刃丸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mateloutre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zwottronin",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Dewott",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Dewott",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dewott",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フタチマル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "双刃丸",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 83
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png"
+}

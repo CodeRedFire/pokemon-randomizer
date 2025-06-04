@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ゼニガメ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Zenigame",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "꼬부기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "傑尼龜",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Carapuce",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schiggy",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Squirtle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Squirtle",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Squirtle",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゼニガメ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "杰尼龟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 44
+        },
+        {
+            "name": "attack",
+            "value": 48
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 64
+        },
+        {
+            "name": "speed",
+            "value": 43
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+}

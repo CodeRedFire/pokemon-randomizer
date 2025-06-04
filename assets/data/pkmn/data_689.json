@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ガメノデス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Gamenodes",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "거북손데스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "龜足巨鎧",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Golgopathe",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Thanathora",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Barbaracle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Barbaracle",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Barbaracle",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ガメノデス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "龟足巨铠",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 72
+        },
+        {
+            "name": "attack",
+            "value": 105
+        },
+        {
+            "name": "defense",
+            "value": 115
+        },
+        {
+            "name": "special-attack",
+            "value": 54
+        },
+        {
+            "name": "special-defense",
+            "value": 86
+        },
+        {
+            "name": "speed",
+            "value": 68
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/689.png"
+}

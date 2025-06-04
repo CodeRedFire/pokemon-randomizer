@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "アナライズ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "애널라이즈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "分析",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Analyste",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Analyse",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cálculo Final",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ponderazione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Analytic",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アナライズ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "分析",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "コレクレー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Collecurei",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "모으령",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "索財靈",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mordudor",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Gierspenst",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Gimmighoul",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Gimmighoul",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gimmighoul",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "コレクレー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "索财灵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 30
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 75
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 10
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/999.png"
+}

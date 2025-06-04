@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "エアロック",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "에어록",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "氣閘",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Air Lock",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Klimaschutz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Bucle Aire",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Riparo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Air Lock",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エアロック",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "气闸",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

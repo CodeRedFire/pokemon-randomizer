@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ノーてんき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "날씨부정",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "無關天氣",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ciel Gris",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wolke Sieben",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Aclimatación",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Antimeteo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cloud Nine",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ノーてんき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "无关天气",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

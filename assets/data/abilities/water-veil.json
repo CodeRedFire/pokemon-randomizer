@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "みずのベール",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "수의베일",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "水幕",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ignifu-Voile",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Aquahülle",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Velo Agua",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Idrovelo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Water Veil",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "みずのベール",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "水幕",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

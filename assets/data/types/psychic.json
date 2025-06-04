@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "エスパー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "에스퍼",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "超能力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Psy",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Psycho",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Psíquico",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Psico",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Psychic",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エスパー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "超能力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/14.png"
+}

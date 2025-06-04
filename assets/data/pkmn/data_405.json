@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "レントラー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Rentorar",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "렌트라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "倫琴貓",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Luxray",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Luxtra",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Luxray",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Luxray",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Luxray",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "レントラー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "伦琴猫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 79
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 79
+        },
+        {
+            "name": "speed",
+            "value": 70
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png"
+}

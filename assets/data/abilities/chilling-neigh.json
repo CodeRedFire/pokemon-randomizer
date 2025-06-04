@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "しろのいななき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "백의울음",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蒼白嘶鳴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Blanche Ruade",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Helles Wiehern",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Relincho Blanco",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Nitrito Bianco",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Chilling Neigh",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "しろのいななき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "苍白嘶鸣",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

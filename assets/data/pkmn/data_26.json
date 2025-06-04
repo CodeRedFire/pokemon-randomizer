@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ライチュウ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Raichu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "라이츄",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雷丘",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Raichu",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Raichu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Raichu",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Raichu",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Raichu",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ライチュウ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "雷丘",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 90
+        },
+        {
+            "name": "defense",
+            "value": 55
+        },
+        {
+            "name": "special-attack",
+            "value": 90
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 110
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+}

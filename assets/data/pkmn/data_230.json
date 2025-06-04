@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "キングドラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kingdra",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "킹드라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "刺龍王",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Hyporoi",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Seedraking",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Kingdra",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Kingdra",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Kingdra",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "キングドラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "刺龙王",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 95
+        },
+        {
+            "name": "defense",
+            "value": 95
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png"
+}

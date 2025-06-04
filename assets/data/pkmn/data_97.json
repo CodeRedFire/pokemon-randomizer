@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "スリーパー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Sleeper",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "슬리퍼",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "引夢貘人",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Hypnomade",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hypno",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hypno",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Hypno",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Hypno",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "スリーパー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "引梦貘人",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 85
+        },
+        {
+            "name": "attack",
+            "value": 73
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 73
+        },
+        {
+            "name": "special-defense",
+            "value": 115
+        },
+        {
+            "name": "speed",
+            "value": 67
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png"
+}

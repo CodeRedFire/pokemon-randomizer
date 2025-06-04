@@ -1,0 +1,95 @@
+{
+    "names": [
+        {
+            "name": "ヤバソチャ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "그우린차",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "來悲粗茶",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Théffroyable",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Fatalitcha",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sinistcha",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sinistcha",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sinistcha",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヤバソチャ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "来悲粗茶",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 71
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 106
+        },
+        {
+            "name": "special-attack",
+            "value": 121
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 70
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1013.png"
+}

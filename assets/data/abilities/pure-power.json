@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ヨガパワー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "순수한힘",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "瑜伽之力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Force Pure",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mentalkraft",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Energía Pura",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Forzapura",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pure Power",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヨガパワー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "瑜伽之力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

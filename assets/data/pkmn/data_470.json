@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "リーフィア",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Leafia",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "리피아",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "葉伊布",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Phyllali",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Folipurba",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Leafeon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Leafeon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Leafeon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "リーフィア",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "叶伊布",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 110
+        },
+        {
+            "name": "defense",
+            "value": 130
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 95
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png"
+}

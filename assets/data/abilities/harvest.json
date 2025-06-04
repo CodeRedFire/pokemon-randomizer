@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "しゅうかく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "수확",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "收穫",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Récolte",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Reiche Ernte",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cosecha",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Coglibacche",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Harvest",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "しゅうかく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "收获",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

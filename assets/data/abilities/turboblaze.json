@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ターボブレイズ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "터보블레이즈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "渦輪火焰",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Turbo Brasier",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Turbobrand",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Turbollama",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Piroturbina",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Turboblaze",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ターボブレイズ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "涡轮火焰",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

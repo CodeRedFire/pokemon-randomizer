@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "シンクロ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "싱크로",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "同步",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Synchro",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Synchro",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sincronía",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sincronismo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Synchronize",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シンクロ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "同步",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

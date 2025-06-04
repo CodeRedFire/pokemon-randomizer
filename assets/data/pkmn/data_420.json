@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "チェリンボ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Cherinbo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "체리버",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "櫻花寶",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ceribou",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kikugi",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cherubi",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cherubi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cherubi",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "チェリンボ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "樱花宝",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 35
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 62
+        },
+        {
+            "name": "special-defense",
+            "value": 53
+        },
+        {
+            "name": "speed",
+            "value": 35
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png"
+}

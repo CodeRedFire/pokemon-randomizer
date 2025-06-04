@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ムクホーク",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mukuhawk",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "찌르호크",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "姆克鷹",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Étouraptor",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Staraptor",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Staraptor",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Staraptor",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Staraptor",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ムクホーク",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "姆克鹰",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 85
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png"
+}

@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "ハドロンエンジン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Moteur à Hadrons",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hadronen-Motor",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Motor Hadrónico",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Motore Adronico",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Hadron Engine",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ハドロンエンジン",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

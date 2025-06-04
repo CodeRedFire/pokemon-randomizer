@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "さめはだ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "까칠한피부",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "粗糙皮膚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Peau Dure",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rauhaut",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Piel Tosca",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cartavetro",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rough Skin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "さめはだ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "粗糙皮肤",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ぶきよう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "서투름",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "笨拙",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Maladresse",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tollpatsch",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Zoquete",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Impaccio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Klutz",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ぶきよう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "笨拙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

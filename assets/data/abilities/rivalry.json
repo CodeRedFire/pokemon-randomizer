@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "とうそうしん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "투쟁심",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鬥爭心",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Rivalité",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rivalität",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rivalidad",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Antagonismo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rivalry",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "とうそうしん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "斗争心",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

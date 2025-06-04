@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ユクシー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Yuxie",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "유크시",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "由克希",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Créhelf",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Selfe",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Uxie",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Uxie",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Uxie",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ユクシー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "由克希",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 130
+        },
+        {
+            "name": "special-attack",
+            "value": 75
+        },
+        {
+            "name": "special-defense",
+            "value": 130
+        },
+        {
+            "name": "speed",
+            "value": 95
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png"
+}

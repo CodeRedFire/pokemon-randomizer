@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "もふもふ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "복슬복슬",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "毛茸茸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Boule de Poils",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Flauschigkeit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Peluche",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Morbidone",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Fluffy",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "もふもふ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "毛茸茸",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

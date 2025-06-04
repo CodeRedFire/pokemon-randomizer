@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "そうだいしょう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Général Suprême",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Feldherr",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "General Supremo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Generale Supremo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Supreme Overlord",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "そうだいしょう",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

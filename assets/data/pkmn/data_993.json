@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "テツノコウベ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tetsunokoube",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "무쇠머리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鐵脖頸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Têtes-de-Fer",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Eisenhals",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ferrocuello",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Colloferreo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Iron Jugulis",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テツノコウベ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铁脖颈",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 94
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 86
+        },
+        {
+            "name": "special-attack",
+            "value": 122
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 108
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/993.png"
+}

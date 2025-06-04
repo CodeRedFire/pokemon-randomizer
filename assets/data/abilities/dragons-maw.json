@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "りゅうのあぎと",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "용의턱",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "龍顎",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Dent de Dragon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Drachenkiefer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mandíbula Dragón",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Dragomascelle",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dragon’s Maw",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "りゅうのあぎと",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "龙颚",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

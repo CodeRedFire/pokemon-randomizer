@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "だっぴ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "탈피",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蛻皮",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mue",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Expidermis",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mudar",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Muta",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Shed Skin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "だっぴ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蜕皮",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

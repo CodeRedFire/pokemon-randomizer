@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "カラミンゴ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Karamingo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "꼬이밍고",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "纏紅鶴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Flamenroule",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Flaminkno",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Flamigo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Flamigo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Flamigo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カラミンゴ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "纏红鹤",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "flying",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 82
+        },
+        {
+            "name": "attack",
+            "value": 115
+        },
+        {
+            "name": "defense",
+            "value": 74
+        },
+        {
+            "name": "special-attack",
+            "value": 75
+        },
+        {
+            "name": "special-defense",
+            "value": 64
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/973.png"
+}

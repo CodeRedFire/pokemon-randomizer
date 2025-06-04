@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "オトスパス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Otosupus",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "케오퍼스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "八爪武師",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Krakos",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kaocto",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Grapploct",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Grapploct",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Grapploct",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "オトスパス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "八爪武师",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 118
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 42
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/853.png"
+}

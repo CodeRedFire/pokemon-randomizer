@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "イーブイ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Eievui",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "이브이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "伊布",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Évoli",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Evoli",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Eevee",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Eevee",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Eevee",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "イーブイ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "伊布",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 55
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 55
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"
+}

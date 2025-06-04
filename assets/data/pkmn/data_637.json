@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ウルガモス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Ulgamoth",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "불카모스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "火神蛾",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pyrax",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Ramoth",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Volcarona",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Volcarona",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Volcarona",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ウルガモス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "火神蛾",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 85
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 135
+        },
+        {
+            "name": "special-defense",
+            "value": 105
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png"
+}

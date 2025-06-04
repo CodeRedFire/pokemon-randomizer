@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "クレセリア",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Crecelia",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "크레세리아",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "克雷色利亞",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cresselia",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Cresselia",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cresselia",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cresselia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cresselia",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "クレセリア",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "克雷色利亚",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 120
+        },
+        {
+            "name": "attack",
+            "value": 70
+        },
+        {
+            "name": "defense",
+            "value": 110
+        },
+        {
+            "name": "special-attack",
+            "value": 75
+        },
+        {
+            "name": "special-defense",
+            "value": 120
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png"
+}

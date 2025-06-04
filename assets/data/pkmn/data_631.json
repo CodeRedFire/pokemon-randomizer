@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "クイタラン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kuitaran",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "앤티골",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "熔蟻獸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Aflamanoir",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Furnifraß",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Heatmor",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Heatmor",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Heatmor",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "クイタラン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "熔蚁兽",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 85
+        },
+        {
+            "name": "attack",
+            "value": 97
+        },
+        {
+            "name": "defense",
+            "value": 66
+        },
+        {
+            "name": "special-attack",
+            "value": 105
+        },
+        {
+            "name": "special-defense",
+            "value": 66
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png"
+}

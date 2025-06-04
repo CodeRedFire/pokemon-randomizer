@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ハリボーグ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Hariborg",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "도치보구",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "胖胖哈力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Boguérisse",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Igastarnish",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Quilladin",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Quilladin",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Quilladin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ハリボーグ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "胖胖哈力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 61
+        },
+        {
+            "name": "attack",
+            "value": 78
+        },
+        {
+            "name": "defense",
+            "value": 95
+        },
+        {
+            "name": "special-attack",
+            "value": 56
+        },
+        {
+            "name": "special-defense",
+            "value": 58
+        },
+        {
+            "name": "speed",
+            "value": 57
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/651.png"
+}

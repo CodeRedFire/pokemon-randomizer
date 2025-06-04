@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ナゲキ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nageki",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "던지미",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "投摔鬼",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Judokrak",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Jiutesto",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Throh",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Throh",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Throh",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ナゲキ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "投摔鬼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 120
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 85
+        },
+        {
+            "name": "special-attack",
+            "value": 30
+        },
+        {
+            "name": "special-defense",
+            "value": 85
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png"
+}

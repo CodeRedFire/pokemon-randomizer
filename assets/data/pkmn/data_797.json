@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "テッカグヤ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tekkaguya",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "철화구야",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鐵火輝夜",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Bamboiselle",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kaguron",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Celesteela",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Celesteela",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Celesteela",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テッカグヤ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铁火辉夜",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "steel",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 97
+        },
+        {
+            "name": "attack",
+            "value": 101
+        },
+        {
+            "name": "defense",
+            "value": 103
+        },
+        {
+            "name": "special-attack",
+            "value": 107
+        },
+        {
+            "name": "special-defense",
+            "value": 101
+        },
+        {
+            "name": "speed",
+            "value": 61
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/797.png"
+}

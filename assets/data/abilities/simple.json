@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "たんじゅん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "단순",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "單純",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Simple",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wankelmut",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Simple",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Disinvoltura",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Simple",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "たんじゅん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "单纯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

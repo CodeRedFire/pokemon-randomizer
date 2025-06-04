@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "タネボー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Taneboh",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "도토링",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "橡實果",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Grainipiot",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Samurzel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Seedot",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Seedot",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Seedot",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "タネボー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "橡实果",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 30
+        },
+        {
+            "name": "special-defense",
+            "value": 30
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png"
+}

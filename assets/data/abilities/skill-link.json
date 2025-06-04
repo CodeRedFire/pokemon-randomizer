@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "スキルリンク",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "스킬링크",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "連續攻擊",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Multi-Coups",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wertelink",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Encadenado",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Abillegame",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Skill Link",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "スキルリンク",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "连续攻击",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

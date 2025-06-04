@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "アゲハント",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Agehunt",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "뷰티플라이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "狩獵鳳蝶",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Charmillon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Papinella",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Beautifly",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Beautifly",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Beautifly",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アゲハント",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "狩猎凤蝶",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 70
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png"
+}

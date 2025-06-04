@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "バッテリー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "배터리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蓄電池",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Batterie",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Batterie",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Batería",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Batteria",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Battery",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バッテリー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蓄电池",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

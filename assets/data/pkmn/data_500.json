@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "エンブオー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Enbuoh",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "염무왕",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "炎武王",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Roitiflam",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Flambirex",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Emboar",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Emboar",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Emboar",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エンブオー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "炎武王",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 110
+        },
+        {
+            "name": "attack",
+            "value": 123
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png"
+}

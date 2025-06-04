@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "いわはこび",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Porte-Roche",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Steinträger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Transportarrocas",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Portamassi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rocky Payload",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "いわはこび",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

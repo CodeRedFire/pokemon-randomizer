@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "キュワワー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Cuwawa",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "큐아링",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "花療環環",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Guérilande",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Curelei",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Comfey",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Comfey",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Comfey",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "キュワワー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "花疗环环",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 51
+        },
+        {
+            "name": "attack",
+            "value": 52
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 82
+        },
+        {
+            "name": "special-defense",
+            "value": 110
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png"
+}

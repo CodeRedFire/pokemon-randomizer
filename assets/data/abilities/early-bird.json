@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "はやおき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "일찍기상",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "早起",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Matinal",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Frühwecker",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Madrugar",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sveglialampo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Early Bird",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "はやおき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "早起",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ノクタス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Noctus",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "밤선인",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "夢歌仙人掌",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cacturne",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Noktuska",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cacturne",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cacturne",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cacturne",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ノクタス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "梦歌仙人掌",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "dark"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 115
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 115
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 55
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png"
+}

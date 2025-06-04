@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ミラクルスキン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "미라클스킨",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "奇跡皮膚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Peau Miracle",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wunderhaut",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Piel Milagro",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Splendicute",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Wonder Skin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ミラクルスキン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "奇迹皮肤",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

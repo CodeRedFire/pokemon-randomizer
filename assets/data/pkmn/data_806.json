@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ズガドーン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Zugadoon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "두파팡",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "砰頭小丑",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pierroteknik",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kopplosio",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Blacephalon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Blacephalon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Blacephalon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ズガドーン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "砰头小丑",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 53
+        },
+        {
+            "name": "attack",
+            "value": 127
+        },
+        {
+            "name": "defense",
+            "value": 53
+        },
+        {
+            "name": "special-attack",
+            "value": 151
+        },
+        {
+            "name": "special-defense",
+            "value": 79
+        },
+        {
+            "name": "speed",
+            "value": 107
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ネイティ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Naty",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "네이티",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "天然雀",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Natu",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Natu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Natu",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Natu",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Natu",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ネイティ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "天然雀",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 70
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png"
+}

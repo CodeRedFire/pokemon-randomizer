@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ネクロズマ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Necrozma",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "네크로즈마",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "奈克洛茲瑪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Necrozma",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Necrozma",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Necrozma",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Necrozma",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Necrozma",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ネクロズマ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "奈克洛兹玛",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 97
+        },
+        {
+            "name": "attack",
+            "value": 107
+        },
+        {
+            "name": "defense",
+            "value": 101
+        },
+        {
+            "name": "special-attack",
+            "value": 127
+        },
+        {
+            "name": "special-defense",
+            "value": 89
+        },
+        {
+            "name": "speed",
+            "value": 79
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png"
+}

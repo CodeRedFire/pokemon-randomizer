@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ゆきかき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "눈치우기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "撥雪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chasse-Neige",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schneescharrer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Quitanieves",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spalaneve",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Slush Rush",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゆきかき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "拨雪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

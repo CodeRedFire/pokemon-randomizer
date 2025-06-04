@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "テラキオン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Terrakion",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "테라키온",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "代拉基翁",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Terrakium",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Terrakium",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Terrakion",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Terrakion",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Terrakion",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テラキオン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "代拉基翁",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 91
+        },
+        {
+            "name": "attack",
+            "value": 129
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 72
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 108
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png"
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ニャオニクス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nyaonix",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "냐오닉스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "超能妙喵",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mistigrix",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Psiaugon",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Meowstic",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Meowstic",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Meowstic",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ニャオニクス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "超能妙喵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 74
+        },
+        {
+            "name": "attack",
+            "value": 48
+        },
+        {
+            "name": "defense",
+            "value": 76
+        },
+        {
+            "name": "special-attack",
+            "value": 83
+        },
+        {
+            "name": "special-defense",
+            "value": 81
+        },
+        {
+            "name": "speed",
+            "value": 104
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png"
+}

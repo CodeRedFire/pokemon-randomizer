@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "クォークチャージ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Charge Quantique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Quantenantrieb",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Carga Cuark",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Carica Quark",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Quark Drive",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "クォークチャージ",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

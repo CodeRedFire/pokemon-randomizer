@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "シンボラー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Symboler",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "심보러",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "象徵鳥",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cryptéro",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Symvolara",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sigilyph",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sigilyph",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sigilyph",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シンボラー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "象征鸟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 72
+        },
+        {
+            "name": "attack",
+            "value": 58
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 103
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 97
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/561.png"
+}

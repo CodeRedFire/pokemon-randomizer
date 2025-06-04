@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "はりこみ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "잠복",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "監視",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Filature",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Beschattung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Vigilante",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sorveglianza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Stakeout",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "はりこみ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蹲守",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

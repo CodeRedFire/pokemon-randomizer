@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "エルレイド",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Erlade",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "엘레이드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "艾路雷朵",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Gallame",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Galagladi",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Gallade",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Gallade",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gallade",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エルレイド",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "艾路雷朵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 68
+        },
+        {
+            "name": "attack",
+            "value": 125
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 115
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png"
+}

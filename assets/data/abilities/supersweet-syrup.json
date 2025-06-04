@@ -1,0 +1,83 @@
+{
+    "names": [
+        {
+            "name": "かんろなミツ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "감미로운꿀",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "甘露之蜜",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Nectar Mielleux",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "かんろなミツ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "감미로운꿀",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "甘露之蜜",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Nectar Mielleux",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Süßer Nektar",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Néctar Dulce",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sciroppo Sublime",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Supersweet Syrup",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "甘露之蜜",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

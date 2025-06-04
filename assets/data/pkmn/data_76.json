@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ゴローニャ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Golonya",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "딱구리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "隆隆岩",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Grolem",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Geowaz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Golem",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Golem",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Golem",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゴローニャ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "隆隆岩",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 130
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png"
+}

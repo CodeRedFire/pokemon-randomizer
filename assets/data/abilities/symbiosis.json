@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "きょうせい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "공생",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "共生",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Symbiose",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Nutznießer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Simbiosis",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Simbiosi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Symbiosis",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "きょうせい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "共生",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

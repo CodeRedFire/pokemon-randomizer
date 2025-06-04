@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ホルード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Horudo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "파르토",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "掘地兔",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Excavarenne",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Grebbit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Diggersby",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Diggersby",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Diggersby",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ホルード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "掘地兔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 85
+        },
+        {
+            "name": "attack",
+            "value": 56
+        },
+        {
+            "name": "defense",
+            "value": 77
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 77
+        },
+        {
+            "name": "speed",
+            "value": 78
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ボスゴドラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Bossgodora",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "보스로라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "波士可多拉",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Galeking",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Stolloss",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Aggron",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Aggron",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Aggron",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ボスゴドラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "波士可多拉",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "steel",
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 110
+        },
+        {
+            "name": "defense",
+            "value": 180
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png"
+}

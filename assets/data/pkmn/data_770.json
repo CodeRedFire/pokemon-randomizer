@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "シロデスナ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Sirodethna",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "모래성이당",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "噬沙堡爺",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Trépassable",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Colossand",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Palossand",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Palossand",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Palossand",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シロデスナ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "噬沙堡爷",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost",
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 85
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 110
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 35
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png"
+}

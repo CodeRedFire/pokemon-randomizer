@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ハッサム",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Hassam",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "핫삼",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "巨鉗螳螂",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cizayox",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Scherox",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Scizor",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Scizor",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Scizor",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ハッサム",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "巨钳螳螂",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 130
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png"
+}

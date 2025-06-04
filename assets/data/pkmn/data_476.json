@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ダイノーズ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dainose",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "대코파스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大朝北鼻",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tarinorme",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Voluminas",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Probopass",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Probopass",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Probopass",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ダイノーズ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大朝北鼻",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 145
+        },
+        {
+            "name": "special-attack",
+            "value": 75
+        },
+        {
+            "name": "special-defense",
+            "value": 150
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png"
+}

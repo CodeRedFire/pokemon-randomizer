@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "カミツルギ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kamiturugi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "종이신도",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "紙御劍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Katagami",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Katagami",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Kartana",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Kartana",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Kartana",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カミツルギ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "纸御剑",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 59
+        },
+        {
+            "name": "attack",
+            "value": 181
+        },
+        {
+            "name": "defense",
+            "value": 131
+        },
+        {
+            "name": "special-attack",
+            "value": 59
+        },
+        {
+            "name": "special-defense",
+            "value": 31
+        },
+        {
+            "name": "speed",
+            "value": 109
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png"
+}

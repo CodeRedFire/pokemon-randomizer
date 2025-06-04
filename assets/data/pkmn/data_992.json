@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "テツノカイナ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tetsunokaina",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "무쇠손",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鐵臂膀",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Paume-de-Fer",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Eisenhand",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ferropalmas",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Manoferrea",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Iron Hands",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テツノカイナ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铁臂膀",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting",
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 154
+        },
+        {
+            "name": "attack",
+            "value": 140
+        },
+        {
+            "name": "defense",
+            "value": 108
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 68
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/992.png"
+}

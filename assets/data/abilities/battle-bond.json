@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "きずなへんげ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "유대변화",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "牽絆變身",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Synergie",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Freundschaftsakt",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Fuerte Afecto",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Morfosintonia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Battle Bond",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "きずなへんげ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "牵绊变身",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

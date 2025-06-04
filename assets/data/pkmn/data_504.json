@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ミネズミ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Minezumi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "보르쥐",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "探探鼠",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ratentif",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Nagelotz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Patrat",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Patrat",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Patrat",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ミネズミ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "探探鼠",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 39
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 39
+        },
+        {
+            "name": "speed",
+            "value": 42
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png"
+}

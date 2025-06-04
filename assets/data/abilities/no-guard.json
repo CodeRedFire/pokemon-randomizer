@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ノーガード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "노가드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "無防守",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Annule Garde",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schildlos",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Indefenso",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Nullodifesa",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "No Guard",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ノーガード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "无防守",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

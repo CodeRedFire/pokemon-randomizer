@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "リーフガード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "리프가드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "葉子防守",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Feuille Garde",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Floraschild",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Defensa Hoja",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fogliamanto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Leaf Guard",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "リーフガード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "叶子防守",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

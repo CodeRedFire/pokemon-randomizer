@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "げきりゅう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "급류",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "激流",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Torrent",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sturzbach",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Torrente",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Acquaiuto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Torrent",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "げきりゅう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "激流",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "せいしんりょく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "정신력",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "精神力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Attention",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Konzentrator",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Foco Interno",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Forza Interiore",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Inner Focus",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "せいしんりょく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "精神力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

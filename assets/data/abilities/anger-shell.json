@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "いかりのこうら",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Courroupace",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wutpanzer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Coraza Ira",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Iraguscio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Anger Shell",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "いかりのこうら",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

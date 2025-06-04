@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "こだいかっせい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Paléosynthèse",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Paläosynthese",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Paleosíntesis",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Paleoattivazione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Protosynthesis",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "こだいかっせい",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

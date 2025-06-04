@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "はんすう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Ruminant",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wiederkäuer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rumia",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ruminante",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cud Chew",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "はんすう",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

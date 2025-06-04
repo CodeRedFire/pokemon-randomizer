@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "きけんよち",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "위험예지",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "危險預知",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Anticipation",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Vorahnung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Anticipación",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Presagio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Anticipation",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "きけんよち",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "危险预知",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

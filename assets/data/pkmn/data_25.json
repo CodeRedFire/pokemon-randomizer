@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ピカチュウ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Pikachu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "피카츄",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "皮卡丘",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pikachu",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pikachu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pikachu",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pikachu",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pikachu",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ピカチュウ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "皮卡丘",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 35
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "はやあし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "속보",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "飛毛腿",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pied Véloce",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rasanz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pies Rápidos",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Piedisvelti",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Quick Feet",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "はやあし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "飞毛腿",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

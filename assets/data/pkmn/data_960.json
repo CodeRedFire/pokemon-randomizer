@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ウミディグダ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Umidigda",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "바다그다",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "海地鼠",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Taupikeau",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schligda",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Wiglett",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Wiglett",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Wiglett",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ウミディグダ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "海地鼠",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 10
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 25
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 25
+        },
+        {
+            "name": "speed",
+            "value": 95
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/960.png"
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ルクシオ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Luxio",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "럭시오",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "勒克貓",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Luxio",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Luxio",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Luxio",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Luxio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Luxio",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ルクシオ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "勒克猫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 49
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 49
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png"
+}

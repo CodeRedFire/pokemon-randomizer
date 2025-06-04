@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ピチュー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Pichu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "피츄",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "皮丘",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pichu",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pichu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pichu",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pichu",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pichu",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ピチュー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "皮丘",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 20
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 15
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 35
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png"
+}

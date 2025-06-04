@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "はらぺこスイッチ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "꼬르륵스위치",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "飽了又餓",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Déclic Fringale",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Heißhunger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mutapetito",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pancialterna",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Hunger Switch",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "はらぺこスイッチ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "饱了又饿",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

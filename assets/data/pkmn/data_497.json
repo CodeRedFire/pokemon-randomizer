@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ジャローダ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Jalorda",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "샤로다",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "君主蛇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Majaspic",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Serpiroyal",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Serperior",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Serperior",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Serperior",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ジャローダ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "君主蛇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 95
+        },
+        {
+            "name": "special-attack",
+            "value": 75
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 113
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png"
+}

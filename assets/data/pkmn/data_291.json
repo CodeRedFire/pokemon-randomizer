@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "テッカニン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tekkanin",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "아이스크",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鐵面忍者",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ninjask",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Ninjask",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ninjask",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ninjask",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ninjask",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テッカニン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铁面忍者",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 61
+        },
+        {
+            "name": "attack",
+            "value": 90
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 160
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png"
+}

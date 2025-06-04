@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "かぜのり",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Aéroporté",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Windreiter",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Surcavientos",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Vento Propizio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Wind Rider",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かぜのり",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

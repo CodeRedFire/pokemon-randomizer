@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ヒンバス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Hinbass",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "빈티나",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "醜醜魚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Barpau",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Barschwa",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Feebas",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Feebas",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Feebas",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヒンバス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "丑丑鱼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 20
+        },
+        {
+            "name": "attack",
+            "value": 15
+        },
+        {
+            "name": "defense",
+            "value": 20
+        },
+        {
+            "name": "special-attack",
+            "value": 10
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png"
+}

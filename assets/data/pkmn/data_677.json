@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ニャスパー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nyasper",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "냐스퍼",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "妙喵",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Psystigri",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Psiau",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Espurr",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Espurr",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Espurr",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ニャスパー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "妙喵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 62
+        },
+        {
+            "name": "attack",
+            "value": 48
+        },
+        {
+            "name": "defense",
+            "value": 54
+        },
+        {
+            "name": "special-attack",
+            "value": 63
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 68
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/677.png"
+}

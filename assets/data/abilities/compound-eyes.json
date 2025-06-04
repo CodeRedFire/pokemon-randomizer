@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ふくがん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "복안",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "複眼",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Œil Composé",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Facettenauge",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ojo Compuesto",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Insettocchi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Compound Eyes",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ふくがん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "复眼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

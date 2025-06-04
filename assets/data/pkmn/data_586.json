@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "メブキジカ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mebukijika",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "바라철록",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "萌芽鹿",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Haydaim",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kronjuwild",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sawsbuck",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sawsbuck",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sawsbuck",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "メブキジカ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "萌芽鹿",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 95
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png"
+}

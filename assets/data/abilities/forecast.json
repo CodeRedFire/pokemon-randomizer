@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "てんきや",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "기분파",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "陰晴不定",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Météo",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Prognose",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Predicción",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Previsioni",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Forecast",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "てんきや",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "阴晴不定",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

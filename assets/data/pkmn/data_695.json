@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "エレザード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Elezard",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "일레도리자드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "光電傘蜥",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Iguolta",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Elezard",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Heliolisk",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Heliolisk",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Heliolisk",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エレザード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "光电伞蜥",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric",
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 62
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 52
+        },
+        {
+            "name": "special-attack",
+            "value": 109
+        },
+        {
+            "name": "special-defense",
+            "value": 94
+        },
+        {
+            "name": "speed",
+            "value": 109
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/695.png"
+}

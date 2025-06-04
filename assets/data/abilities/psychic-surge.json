@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "サイコメイカー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "사이코메이커",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "精神製造者",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Créa-Psy",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Psycho-Erzeuger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Psicogénesis",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Psicogenesi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Psychic Surge",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "サイコメイカー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "精神制造者",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

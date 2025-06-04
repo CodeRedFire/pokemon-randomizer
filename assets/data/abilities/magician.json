@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "マジシャン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "매지션",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "魔術師",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Magicien",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zauberer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Prestidigitador",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Prestigiatore",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Magician",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マジシャン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "魔术师",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

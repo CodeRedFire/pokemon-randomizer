@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "かたいツメ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "단단한발톱",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "硬爪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Griffe Dure",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Krallenwucht",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Garra Dura",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Unghiedure",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tough Claws",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かたいツメ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "硬爪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

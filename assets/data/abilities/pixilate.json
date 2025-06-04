@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "フェアリースキン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "페어리스킨",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "妖精皮膚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Peau Féérique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Feenschicht",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Piel Feérica",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pellefolletto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pixilate",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フェアリースキン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "妖精皮肤",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

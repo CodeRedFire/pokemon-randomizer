@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "スワームチェンジ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "스웜체인지",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "群聚變形",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Rassemblement",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Scharwandel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Agrupamiento",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sciamefusione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Power Construct",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "スワームチェンジ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "群聚变形",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

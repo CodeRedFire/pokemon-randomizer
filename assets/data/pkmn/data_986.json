@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "アラブルタケ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Araburutake",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "사나운버섯",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "猛惡菇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Fongus-Furie",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wutpilz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Furioseta",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fungofurioso",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Brute Bonnet",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アラブルタケ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "猛恶菇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "dark"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 111
+        },
+        {
+            "name": "attack",
+            "value": 127
+        },
+        {
+            "name": "defense",
+            "value": 99
+        },
+        {
+            "name": "special-attack",
+            "value": 79
+        },
+        {
+            "name": "special-defense",
+            "value": 99
+        },
+        {
+            "name": "speed",
+            "value": 55
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/986.png"
+}

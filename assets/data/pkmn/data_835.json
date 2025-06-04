@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ワンパチ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Wanpachi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "멍파치",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "來電汪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Voltoutou",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Voldi",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Yamper",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Yamper",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Yamper",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ワンパチ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "来电汪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 59
+        },
+        {
+            "name": "attack",
+            "value": 45
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 26
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/835.png"
+}

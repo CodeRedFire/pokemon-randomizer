@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ワカシャモ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Wakasyamo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "영치코",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "力壯雞",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Galifeu",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Jungglut",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Combusken",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Combusken",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Combusken",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ワカシャモ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "力壮鸡",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 85
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 55
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png"
+}

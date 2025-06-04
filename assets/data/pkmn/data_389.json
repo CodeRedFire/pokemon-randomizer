@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ドダイトス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dodaitose",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "토대부기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "土台龜",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Torterra",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Chelterrar",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Torterra",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Torterra",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Torterra",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ドダイトス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "土台龟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 95
+        },
+        {
+            "name": "attack",
+            "value": 109
+        },
+        {
+            "name": "defense",
+            "value": 105
+        },
+        {
+            "name": "special-attack",
+            "value": 75
+        },
+        {
+            "name": "special-defense",
+            "value": 85
+        },
+        {
+            "name": "speed",
+            "value": 56
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png"
+}

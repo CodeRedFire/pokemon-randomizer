@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "バケッチャ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Bakeccha",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "호바귀",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "南瓜精",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pitrouille",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Irrbis",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pumpkaboo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pumpkaboo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pumpkaboo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バケッチャ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "南瓜精",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 49
+        },
+        {
+            "name": "attack",
+            "value": 66
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 44
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 51
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/710.png"
+}

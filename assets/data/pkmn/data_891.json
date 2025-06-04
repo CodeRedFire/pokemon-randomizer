@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ダクマ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dakuma",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "치고마",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "熊徒弟",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Wushours",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Dakuma",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Kubfu",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Kubfu",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Kubfu",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ダクマ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "熊徒弟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 90
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 53
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 72
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/891.png"
+}

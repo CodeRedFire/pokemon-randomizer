@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "スイートベール",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "스위트베일",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "甜幕",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Gluco-Voile",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zuckerhülle",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Velo Dulce",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Dolcevelo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sweet Veil",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "スイートベール",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "甜幕",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

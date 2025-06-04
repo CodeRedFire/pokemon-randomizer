@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ツタージャ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tsutarja",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "주리비얀",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "藤藤蛇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Vipélierre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Serpifeu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Snivy",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Snivy",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Snivy",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ツタージャ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "藤藤蛇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 45
+        },
+        {
+            "name": "defense",
+            "value": 55
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 63
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png"
+}

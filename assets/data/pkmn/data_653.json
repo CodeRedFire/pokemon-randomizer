@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "フォッコ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Fokko",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "푸호꼬",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "火狐狸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Feunnec",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Fynx",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Fennekin",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fennekin",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Fennekin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フォッコ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "火狐狸",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 45
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 62
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png"
+}

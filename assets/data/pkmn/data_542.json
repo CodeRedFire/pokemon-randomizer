@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ハハコモリ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Hahakomori",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "모아머",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "保母蟲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Manternel",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Matrifol",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Leavanny",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Leavanny",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Leavanny",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ハハコモリ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "保姆虫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 103
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 92
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png"
+}

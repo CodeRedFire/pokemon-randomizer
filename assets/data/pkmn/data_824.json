@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "サッチムシ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Sacchimushi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "두루지벌레",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "索偵蟲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Larvadar",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sensect",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Blipbug",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Blipbug",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Blipbug",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "サッチムシ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "索侦虫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 25
+        },
+        {
+            "name": "attack",
+            "value": 20
+        },
+        {
+            "name": "defense",
+            "value": 20
+        },
+        {
+            "name": "special-attack",
+            "value": 25
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/824.png"
+}

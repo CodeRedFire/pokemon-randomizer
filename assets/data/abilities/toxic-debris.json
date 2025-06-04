@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "どくげしょう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dépôt Toxique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Giftbelag",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Capa Tóxica",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mantossina",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Toxic Debris",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "どくげしょう",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

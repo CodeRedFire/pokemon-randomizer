@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "カラナクシ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Karanakushi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "깝질무",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "無殼海兔",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sancoki",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schalellos",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Shellos",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Shellos",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Shellos",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カラナクシ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "无壳海兔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 76
+        },
+        {
+            "name": "attack",
+            "value": 48
+        },
+        {
+            "name": "defense",
+            "value": 48
+        },
+        {
+            "name": "special-attack",
+            "value": 57
+        },
+        {
+            "name": "special-defense",
+            "value": 62
+        },
+        {
+            "name": "speed",
+            "value": 34
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png"
+}

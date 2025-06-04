@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "かげふみ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "그림자밟기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "踩影",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Marque Ombre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wegsperre",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sombra Trampa",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pedinombra",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Shadow Tag",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かげふみ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "踩影",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

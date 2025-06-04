@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "きもったま",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "배짱",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "膽量",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Querelleur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rauflust",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Intrépido",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Nervisaldi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Scrappy",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "きもったま",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "胆量",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

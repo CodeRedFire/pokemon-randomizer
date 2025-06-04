@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "アーボック",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Arbok",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "아보크",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "阿柏怪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Arbok",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Arbok",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Arbok",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Arbok",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Arbok",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アーボック",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "阿柏怪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 95
+        },
+        {
+            "name": "defense",
+            "value": 69
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 79
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
+}

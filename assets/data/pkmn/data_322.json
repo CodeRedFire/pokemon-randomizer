@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ドンメル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Donmel",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "둔타",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "呆火駝",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chamallot",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Camaub",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Numel",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Numel",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Numel",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ドンメル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "呆火驼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 35
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png"
+}

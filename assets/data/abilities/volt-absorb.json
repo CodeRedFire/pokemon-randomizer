@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ちくでん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "축전",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蓄電",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Absorbe-Volt",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Voltabsorber",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Absorbe Elec",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Assorbivolt",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Volt Absorb",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ちくでん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蓄电",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

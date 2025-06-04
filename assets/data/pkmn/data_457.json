@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ネオラント",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Neolant",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "네오라이트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "霓虹魚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Luminéon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Lumineon",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Lumineon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Lumineon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Lumineon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ネオラント",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "霓虹鱼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 69
+        },
+        {
+            "name": "attack",
+            "value": 69
+        },
+        {
+            "name": "defense",
+            "value": 76
+        },
+        {
+            "name": "special-attack",
+            "value": 69
+        },
+        {
+            "name": "special-defense",
+            "value": 86
+        },
+        {
+            "name": "speed",
+            "value": 91
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png"
+}

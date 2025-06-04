@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "メガニウム",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Meganium",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "메가니움",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大竺葵",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Méganium",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Meganie",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Meganium",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Meganium",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Meganium",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "メガニウム",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大竺葵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 82
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 83
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png"
+}

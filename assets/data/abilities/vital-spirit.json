@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "やるき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "의기양양",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "幹勁",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Esprit Vital",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Munterkeit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Espíritu Vital",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spiritovivo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Vital Spirit",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "やるき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "干劲",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

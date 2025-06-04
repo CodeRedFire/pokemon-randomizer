@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ビードル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Beedle",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "뿔충이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "獨角蟲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Aspicot",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hornliu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Weedle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Weedle",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Weedle",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ビードル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "独角虫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 35
+        },
+        {
+            "name": "defense",
+            "value": 30
+        },
+        {
+            "name": "special-attack",
+            "value": 20
+        },
+        {
+            "name": "special-defense",
+            "value": 20
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+}

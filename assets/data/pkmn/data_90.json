@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "シェルダー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Shellder",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "셀러",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大舌貝",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Kokiyas",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Muschas",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Shellder",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Shellder",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Shellder",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シェルダー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大舌贝",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 30
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 25
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png"
+}

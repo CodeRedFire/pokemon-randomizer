@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "スナヘビ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Sunahebi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "모래뱀",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "沙包蛇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Dunaja",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Salanga",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Silicobra",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Silicobra",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Silicobra",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "スナヘビ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "沙包蛇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 52
+        },
+        {
+            "name": "attack",
+            "value": 57
+        },
+        {
+            "name": "defense",
+            "value": 75
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 46
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/843.png"
+}

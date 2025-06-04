@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ヤンチャム",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Yancham",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "판짱",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "頑皮熊貓",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pandespiègle",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pam-Pam",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pancham",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pancham",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pancham",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヤンチャム",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "顽皮熊猫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 67
+        },
+        {
+            "name": "attack",
+            "value": 82
+        },
+        {
+            "name": "defense",
+            "value": 62
+        },
+        {
+            "name": "special-attack",
+            "value": 46
+        },
+        {
+            "name": "special-defense",
+            "value": 48
+        },
+        {
+            "name": "speed",
+            "value": 43
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/674.png"
+}

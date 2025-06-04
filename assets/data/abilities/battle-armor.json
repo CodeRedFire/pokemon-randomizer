@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "カブトアーマー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "전투무장",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "戰鬥盔甲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Armurbaston",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kampfpanzer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Armadura Batalla",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Lottascudo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Battle Armor",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カブトアーマー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "战斗盔甲",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "わざわいのうつわ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Urne du Fléau",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Unheilsgefäß",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Caldero Debacle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Vaso Nefasto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Vessel of Ruin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "わざわいのうつわ",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

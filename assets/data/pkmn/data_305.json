@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "コドラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kodora",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "갱도라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "可多拉",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Galegon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Stollrak",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Lairon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Lairon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Lairon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "コドラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "可多拉",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "steel",
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 90
+        },
+        {
+            "name": "defense",
+            "value": 140
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png"
+}

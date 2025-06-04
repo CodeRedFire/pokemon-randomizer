@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "かわりもの",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "괴짜",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "變身者",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Imposteur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Doppelgänger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Impostor",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sosia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Imposter",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かわりもの",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "变身者",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

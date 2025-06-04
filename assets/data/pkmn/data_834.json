@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "カジリガメ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kajirigame",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "갈가부기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "暴噬龜",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Torgamord",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kamalm",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Drednaw",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Drednaw",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Drednaw",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カジリガメ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "暴噬龟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 90
+        },
+        {
+            "name": "attack",
+            "value": 115
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 48
+        },
+        {
+            "name": "special-defense",
+            "value": 68
+        },
+        {
+            "name": "speed",
+            "value": 74
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/834.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "こおりのりんぷん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "얼음인분",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "冰鱗粉",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Écailles Glacées",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Eisflügelstaub",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Escama de Hielo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Geloscaglie",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ice Scales",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "こおりのりんぷん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "冰鳞粉",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

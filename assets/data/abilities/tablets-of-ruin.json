@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "わざわいのおふだ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Bois du Fléau",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Unheilstafeln",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tablilla Debacle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Amuleto Nefasto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tablets of Ruin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "わざわいのおふだ",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

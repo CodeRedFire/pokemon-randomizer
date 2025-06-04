@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "Purugly",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "ブニャット",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Bunyat",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "몬냥이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "東施喵",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chaffreux",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Shnurgarst",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Purugly",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Purugly",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ブニャット",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "东施喵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 71
+        },
+        {
+            "name": "attack",
+            "value": 82
+        },
+        {
+            "name": "defense",
+            "value": 64
+        },
+        {
+            "name": "special-attack",
+            "value": 64
+        },
+        {
+            "name": "special-defense",
+            "value": 59
+        },
+        {
+            "name": "speed",
+            "value": 112
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png"
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "カイオーガ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kyogre",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "가이오가",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蓋歐卡",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Kyogre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kyogre",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Kyogre",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Kyogre",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Kyogre",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カイオーガ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "盖欧卡",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 150
+        },
+        {
+            "name": "special-defense",
+            "value": 140
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png"
+}

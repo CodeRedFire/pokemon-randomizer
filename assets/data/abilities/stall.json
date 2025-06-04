@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "あとだし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "시간벌기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "慢出",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Frein",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zeitspiel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rezagado",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Rallentatore",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Stall",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "あとだし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "慢出",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

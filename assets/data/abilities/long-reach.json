@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "えんかく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "원격",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "遠隔",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Longue Portée",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Langstrecke",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Remoto",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Distacco",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Long Reach",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "えんかく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "远隔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

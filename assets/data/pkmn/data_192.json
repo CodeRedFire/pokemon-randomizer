@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "キマワリ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kimawari",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "해루미",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "向日花怪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Héliatronc",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sonnflora",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sunflora",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sunflora",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sunflora",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "キマワリ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "向日花怪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 55
+        },
+        {
+            "name": "special-attack",
+            "value": 105
+        },
+        {
+            "name": "special-defense",
+            "value": 85
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png"
+}

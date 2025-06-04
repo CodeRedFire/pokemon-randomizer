@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ハガネール",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Haganeil",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "강철톤",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大鋼蛇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Steelix",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Stahlos",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Steelix",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Steelix",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Steelix",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ハガネール",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大钢蛇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "steel",
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 200
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png"
+}

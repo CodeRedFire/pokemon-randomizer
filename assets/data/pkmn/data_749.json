@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ドロバンコ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dorobanko",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "머드나기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "泥驢仔",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tiboudet",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pampuli",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mudbray",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mudbray",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mudbray",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ドロバンコ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "泥驴仔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/749.png"
+}

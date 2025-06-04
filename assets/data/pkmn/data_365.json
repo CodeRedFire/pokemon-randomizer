@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "トドゼルガ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Todoseruga",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "씨카이저",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "帝牙海獅",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Kaimorse",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Walraisa",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Walrein",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Walrein",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Walrein",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "トドゼルガ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "帝牙海狮",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ice",
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 110
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png"
+}

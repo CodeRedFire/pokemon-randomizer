@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ぎょぐん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "어군",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "魚群",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Banc",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Fischschwarm",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Banco",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Banco",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Schooling",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ぎょぐん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "鱼群",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

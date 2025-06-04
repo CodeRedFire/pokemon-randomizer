@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "スナイパー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "스나이퍼",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "狙擊手",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sniper",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Superschütze",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Francotirador",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cecchino",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sniper",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "スナイパー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "狙击手",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

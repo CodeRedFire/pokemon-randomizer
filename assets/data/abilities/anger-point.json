@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "いかりのつぼ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "분노의경혈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "憤怒穴位",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Colérique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kurzschluss",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Irascible",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Grancollera",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Anger Point",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "いかりのつぼ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "愤怒穴位",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

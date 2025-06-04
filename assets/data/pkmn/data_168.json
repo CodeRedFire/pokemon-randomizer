@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "アリアドス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Ariados",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "아리아도스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "阿利多斯",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Migalos",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Ariados",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ariados",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ariados",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ariados",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アリアドス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "阿利多斯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 90
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png"
+}

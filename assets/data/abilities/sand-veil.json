@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "すながくれ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "모래숨기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "沙隱",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Voile Sable",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sandschleier",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Velo Arena",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sabbiavelo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sand Veil",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "すながくれ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "沙隐",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

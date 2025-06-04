@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "アイスボディ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "아이스바디",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "冰凍之軀",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Corps Gel",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Eishaut",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Gélido",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Corpogelo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ice Body",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アイスボディ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "冰冻之躯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

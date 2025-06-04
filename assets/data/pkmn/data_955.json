@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ヒラヒナ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Hirahina",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "하느라기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "飄飄雛",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Flotillon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Flattutu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Flittle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Flittle",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Flittle",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヒラヒナ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "飘飘雏",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 30
+        },
+        {
+            "name": "attack",
+            "value": 35
+        },
+        {
+            "name": "defense",
+            "value": 30
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 30
+        },
+        {
+            "name": "speed",
+            "value": 75
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/955.png"
+}

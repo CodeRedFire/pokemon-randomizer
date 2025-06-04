@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "グソクムシャ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Gusokumusha",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "갑주무사",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "具甲武者",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sarmuraï",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tectass",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Golisopod",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Golisopod",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Golisopod",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "グソクムシャ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "具甲武者",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 125
+        },
+        {
+            "name": "defense",
+            "value": 140
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png"
+}

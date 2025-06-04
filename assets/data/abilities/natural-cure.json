@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "しぜんかいふく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "자연회복",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "自然回復",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Médic Nature",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Innere Kraft",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cura Natural",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Alternacura",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Natural Cure",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "しぜんかいふく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "自然回复",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

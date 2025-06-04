@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "キリンリキ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kirinriki",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "키링키",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "麒麟奇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Girafarig",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Girafarig",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Girafarig",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Girafarig",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Girafarig",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "キリンリキ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "麒麟奇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 90
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "かがくへんかガス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "화학변화가스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "化學變化氣體",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Gaz Inhibiteur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Reaktionsgas",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Gas Reactivo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Gas Reagente",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Neutralizing Gas",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かがくへんかガス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "化学变化气体",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

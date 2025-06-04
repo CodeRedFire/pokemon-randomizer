@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "あついしぼう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "두꺼운지방",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "厚脂肪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Isograisse",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Speckschicht",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sebo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Grassospesso",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Thick Fat",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "あついしぼう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "厚脂肪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

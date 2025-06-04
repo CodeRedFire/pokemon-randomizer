@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ごりむちゅう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "무아지경",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "一猩一意",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Entêtement",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Affenfokus",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Monotema",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Vigorilla",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gorilla Tactics",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ごりむちゅう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "一猩一意",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

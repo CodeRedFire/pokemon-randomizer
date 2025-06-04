@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ポットデス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Potdeath",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "포트데스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "怖思壺",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Polthégeist",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mortipot",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Polteageist",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Polteageist",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Polteageist",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ポットデス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "怖思壶",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 134
+        },
+        {
+            "name": "special-defense",
+            "value": 114
+        },
+        {
+            "name": "speed",
+            "value": 70
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/855.png"
+}

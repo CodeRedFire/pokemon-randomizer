@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "はやてのつばさ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "질풍날개",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "疾風之翼",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ailes Bourrasque",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Orkanschwingen",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Alas Vendaval",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Aliraffica",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gale Wings",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "はやてのつばさ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "疾风之翼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

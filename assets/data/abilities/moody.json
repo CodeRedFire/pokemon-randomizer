@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ムラっけ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "변덕쟁이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "心情不定",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lunatique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Gefühlswippe",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Veleta",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Altalena",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Moody",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ムラっけ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "心情不定",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

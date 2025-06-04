@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "バドレックス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Budrex",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "버드렉스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蕾冠王",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sylveroy",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Coronospa",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Calyrex",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Calyrex",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Calyrex",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バドレックス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蕾冠王",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic",
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/898.png"
+}

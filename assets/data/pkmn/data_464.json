@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ドサイドン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dosydon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "거대코뿌리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "超甲狂犀",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Rhinastoc",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rihornior",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rhyperior",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Rhyperior",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rhyperior",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ドサイドン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "超甲狂犀",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground",
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 115
+        },
+        {
+            "name": "attack",
+            "value": 140
+        },
+        {
+            "name": "defense",
+            "value": 130
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png"
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ナックラー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nuckrar",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "톱치",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大顎蟻",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Kraknoix",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Knacklion",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Trapinch",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Trapinch",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Trapinch",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ナックラー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大颚蚁",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 10
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png"
+}

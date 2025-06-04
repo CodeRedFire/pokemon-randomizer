@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "イオルブ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Eolb",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "이올브",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "以歐路普",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Astronelle",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Maritellit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Orbeetle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Orbeetle",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Orbeetle",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "イオルブ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "以欧路普",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 45
+        },
+        {
+            "name": "defense",
+            "value": 110
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 120
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/826.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "おわりのだいち",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "끝의대지",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "終結之地",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Terre Finale",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Endland",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tierra del Ocaso",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Terra Estrema",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Desolate Land",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "おわりのだいち",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "终结之地",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

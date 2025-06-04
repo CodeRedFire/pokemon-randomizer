@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ダイオウドウ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Daioudou",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "대왕끼리동",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大王銅象",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pachyradjah",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Patinaraja",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Copperajah",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Copperajah",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Copperajah",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ダイオウドウ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大王铜象",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 122
+        },
+        {
+            "name": "attack",
+            "value": 130
+        },
+        {
+            "name": "defense",
+            "value": 69
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 69
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/879.png"
+}

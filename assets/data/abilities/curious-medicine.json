@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "きみょうなくすり",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "기묘한약",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "怪藥",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Breuvage Suspect",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kuriose Arznei",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Medicina Extraña",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Stranofarmaco",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Curious Medicine",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "きみょうなくすり",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "怪药",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ジャランゴ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Jyarango",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "짜랑고우",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鱗甲龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Écaïd",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mediras",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hakamo-o",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Hakamo-o",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Hakamo-o",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ジャランゴ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "鳞甲龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 55
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/783.png"
+}

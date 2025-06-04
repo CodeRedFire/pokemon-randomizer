@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ブレインフォース",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "브레인포스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "腦核之力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cérébro-Force",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zerebralmacht",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Fuerza Cerebral",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cerebroforza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Neuroforce",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ブレインフォース",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "脑核之力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

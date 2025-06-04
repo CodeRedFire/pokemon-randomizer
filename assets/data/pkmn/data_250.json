@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ホウオウ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Houou",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "칠색조",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鳳王",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ho-Oh",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Ho-Oh",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ho-Oh",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ho-Oh",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ho-Oh",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ホウオウ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "凤王",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 106
+        },
+        {
+            "name": "attack",
+            "value": 130
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 110
+        },
+        {
+            "name": "special-defense",
+            "value": 154
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png"
+}

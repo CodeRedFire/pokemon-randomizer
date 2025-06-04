@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "きゅうばん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "흡반",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "吸盤",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ventouse",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Saugnapf",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ventosas",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ventose",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Suction Cups",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "きゅうばん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "吸盘",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

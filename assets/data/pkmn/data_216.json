@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ヒメグマ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Himeguma",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "깜지곰",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "熊寶寶",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Teddiursa",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Teddiursa",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Teddiursa",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Teddiursa",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Teddiursa",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヒメグマ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "熊宝宝",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ちょすい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "저수",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "儲水",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Absorbe-Eau",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "H2O-Absorber",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Absorbe Agua",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Assorbacqua",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Water Absorb",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ちょすい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "储水",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ヘヴィメタル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "헤비메탈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "重金屬",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Heavy Metal",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schwermetall",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Metal Pesado",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Metalpesante",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Heavy Metal",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヘヴィメタル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "重金属",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

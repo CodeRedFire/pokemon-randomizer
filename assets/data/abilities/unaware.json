@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "てんねん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "천진",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "純樸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Inconscient",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Unkenntnis",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ignorante",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Imprudenza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Unaware",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "てんねん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "纯朴",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ヒードラン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Heatran",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "히드런",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "席多藍恩",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Heatran",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Heatran",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Heatran",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Heatran",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Heatran",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヒードラン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "席多蓝恩",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 91
+        },
+        {
+            "name": "attack",
+            "value": 90
+        },
+        {
+            "name": "defense",
+            "value": 106
+        },
+        {
+            "name": "special-attack",
+            "value": 130
+        },
+        {
+            "name": "special-defense",
+            "value": 106
+        },
+        {
+            "name": "speed",
+            "value": 77
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/485.png"
+}

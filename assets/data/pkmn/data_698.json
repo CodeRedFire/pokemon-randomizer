@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "アマルス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Amarus",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "아마루스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "冰雪龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Amagara",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Amarino",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Amaura",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Amaura",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Amaura",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アマルス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "冰雪龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 77
+        },
+        {
+            "name": "attack",
+            "value": 59
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 67
+        },
+        {
+            "name": "special-defense",
+            "value": 63
+        },
+        {
+            "name": "speed",
+            "value": 46
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "マンムー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mammoo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "맘모꾸리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "象牙豬",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mammochon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mamutel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mamoswine",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mamoswine",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mamoswine",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マンムー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "象牙猪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ice",
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 110
+        },
+        {
+            "name": "attack",
+            "value": 130
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png"
+}

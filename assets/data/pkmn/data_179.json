@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "メリープ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Merriep",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "메리프",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "咩利羊",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Wattouat",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Voltilamm",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mareep",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mareep",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mareep",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "メリープ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "咩利羊",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 55
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 35
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png"
+}

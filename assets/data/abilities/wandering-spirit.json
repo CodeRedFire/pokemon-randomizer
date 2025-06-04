@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "さまようたましい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "떠도는영혼",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "遊魂",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Âme Vagabonde",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rastlose Seele",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Alma Errante",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Anima Errante",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Wandering Spirit",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "さまようたましい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "游魂",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

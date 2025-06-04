@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "マダツボミ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Madatsubomi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "모다피",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "喇叭芽",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chétiflor",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Knofensa",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Bellsprout",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Bellsprout",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Bellsprout",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マダツボミ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "喇叭芽",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 35
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 30
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png"
+}

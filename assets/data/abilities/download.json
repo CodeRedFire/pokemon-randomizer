@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ダウンロード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "다운로드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "下載",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Télécharge",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Download",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Descarga",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Download",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Download",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ダウンロード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "下载",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

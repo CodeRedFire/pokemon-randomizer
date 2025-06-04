@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ズバット",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Zubat",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "주뱃",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "超音蝠",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Nosferapti",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zubat",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Zubat",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Zubat",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Zubat",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ズバット",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "超音蝠",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 45
+        },
+        {
+            "name": "defense",
+            "value": 35
+        },
+        {
+            "name": "special-attack",
+            "value": 30
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 55
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ワルビアル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Waruvial",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "악비아르",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "流氓鱷",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Crocorible",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rabigator",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Krookodile",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Krookodile",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Krookodile",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ワルビアル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "流氓鳄",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground",
+        "dark"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 95
+        },
+        {
+            "name": "attack",
+            "value": 117
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 92
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png"
+}

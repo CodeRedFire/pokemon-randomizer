@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ペルシアン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Persian",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "페르시온",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "貓老大",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Persian",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Snobilikat",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Persian",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Persian",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Persian",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ペルシアン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "猫老大",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 70
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 115
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png"
+}

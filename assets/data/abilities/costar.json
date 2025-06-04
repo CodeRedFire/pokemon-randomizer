@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "きょうえん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Collab",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Synchronauftritt",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Unísono",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Coprotagonismo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Costar",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "きょうえん",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

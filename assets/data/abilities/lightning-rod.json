@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ひらいしん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "피뢰침",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "避雷針",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Paratonnerre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Blitzfänger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pararrayos",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Parafulmine",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Lightning Rod",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ひらいしん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "避雷针",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

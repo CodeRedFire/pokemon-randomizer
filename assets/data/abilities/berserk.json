@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ぎゃくじょう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "발끈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "怒火沖天",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Folle Furie",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wutausbruch",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cólera",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Furore",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Berserk",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ぎゃくじょう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "怒火冲天",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

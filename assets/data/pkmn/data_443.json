@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "フカマル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Fukamaru",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "딥상어동",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "圓陸鯊",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Griknot",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kaumalat",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Gible",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Gible",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gible",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フカマル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "圆陆鲨",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon",
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 58
+        },
+        {
+            "name": "attack",
+            "value": 70
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 42
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png"
+}

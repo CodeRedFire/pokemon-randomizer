@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "グラスメイカー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "그래스메이커",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "青草製造者",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Créa-Herbe",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Gras-Erzeuger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Herbogénesis",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Erbogenesi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Grassy Surge",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "グラスメイカー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "青草制造者",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

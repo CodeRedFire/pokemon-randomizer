@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "メロメロボディ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "헤롱헤롱바디",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "迷人之軀",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Joli Sourire",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Charmebolzen",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Gran Encanto",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Incantevole",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cute Charm",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "メロメロボディ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "迷人之躯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

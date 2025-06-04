@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "じょうききかん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "증기기관",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蒸汽機",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Turbine",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Dampfantrieb",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Combustible",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Vapormacchina",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Steam Engine",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "じょうききかん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蒸汽机",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

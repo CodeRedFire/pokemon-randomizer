@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "まけんき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "오기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "不服輸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Acharné",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Siegeswille",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Competitivo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Agonismo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Defiant",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "まけんき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "不服输",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

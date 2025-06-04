@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "タンドン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tandon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "탄동",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "小炭仔",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Charbi",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Klonkett",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rolycoly",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Rolycoly",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rolycoly",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "タンドン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "小炭仔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 30
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/837.png"
+}

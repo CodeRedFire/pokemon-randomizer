@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "くろのいななき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "흑의울음",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "漆黑嘶鳴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sombre Ruade",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Dunkles Wiehern",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Relincho Negro",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Nitrito Nero",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Grim Neigh",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "くろのいななき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "漆黑嘶鸣",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

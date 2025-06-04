@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "オタチ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Otachi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "꼬리선",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "尾立",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Fouinette",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wiesor",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sentret",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sentret",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sentret",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "オタチ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "尾立",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 35
+        },
+        {
+            "name": "attack",
+            "value": 46
+        },
+        {
+            "name": "defense",
+            "value": 34
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 20
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ニドキング",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nidoking",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "니드킹",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "尼多王",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Nidoking",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Nidoking",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Nidoking",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Nidoking",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Nidoking",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ニドキング",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "尼多王",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 81
+        },
+        {
+            "name": "attack",
+            "value": 102
+        },
+        {
+            "name": "defense",
+            "value": 77
+        },
+        {
+            "name": "special-attack",
+            "value": 85
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png"
+}

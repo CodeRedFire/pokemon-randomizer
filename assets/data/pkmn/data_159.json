@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "アリゲイツ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Alligates",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "엘리게이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "藍鱷",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Crocrodil",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tyracroc",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Croconaw",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Croconaw",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Croconaw",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アリゲイツ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蓝鳄",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 59
+        },
+        {
+            "name": "special-defense",
+            "value": 63
+        },
+        {
+            "name": "speed",
+            "value": 58
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png"
+}

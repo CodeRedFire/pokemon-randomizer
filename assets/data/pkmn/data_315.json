@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ロゼリア",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Roselia",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "로젤리아",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "毒薔薇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Rosélia",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Roselia",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Roselia",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Roselia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Roselia",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ロゼリア",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "毒蔷薇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png"
+}

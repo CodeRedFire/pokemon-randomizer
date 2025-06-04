@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "でんきエンジン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "전기엔진",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "電氣引擎",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Motorisé",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Starthilfe",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Electromotor",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Elettrorapid",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Motor Drive",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "でんきエンジン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "电气引擎",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

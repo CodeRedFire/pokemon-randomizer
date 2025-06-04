@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "タマザラシ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tamazarashi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "대굴레오",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "海豹球",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Obalie",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Seemops",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Spheal",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spheal",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Spheal",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "タマザラシ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "海豹球",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ice",
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 25
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png"
+}

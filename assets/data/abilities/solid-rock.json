@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ハードロック",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "하드록",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "堅硬岩石",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Solide Roc",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Felskern",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Roca Sólida",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Solidroccia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Solid Rock",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ハードロック",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "坚硬岩石",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

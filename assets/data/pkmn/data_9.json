@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "カメックス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kamex",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "거북왕",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "水箭龜",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tortank",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Turtok",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Blastoise",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Blastoise",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Blastoise",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カメックス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "水箭龟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 79
+        },
+        {
+            "name": "attack",
+            "value": 83
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 85
+        },
+        {
+            "name": "special-defense",
+            "value": 105
+        },
+        {
+            "name": "speed",
+            "value": 78
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+}

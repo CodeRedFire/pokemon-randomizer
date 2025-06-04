@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "くだけるよろい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "깨어진갑옷",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "碎裂鎧甲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Armurouillée",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Bruchrüstung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Armadura Frágil",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sottilguscio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Weak Armor",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "くだけるよろい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "碎裂铠甲",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

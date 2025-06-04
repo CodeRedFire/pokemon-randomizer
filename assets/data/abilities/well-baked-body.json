@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "こんがりボディ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Bien Cuit",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Knusperkruste",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cuerpo Horneado",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Bentostato",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Well-Baked Body",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "こんがりボディ",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

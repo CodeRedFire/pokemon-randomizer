@@ -1,0 +1,95 @@
+{
+    "names": [
+        {
+            "name": "タケルライコ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "날뛰는우레",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "猛雷鼓",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ire-Foudre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Furienblitz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Electrofuria",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Furiatonante",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Raging Bolt",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "タケルライコ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "猛雷鼓",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 125
+        },
+        {
+            "name": "attack",
+            "value": 73
+        },
+        {
+            "name": "defense",
+            "value": 91
+        },
+        {
+            "name": "special-attack",
+            "value": 137
+        },
+        {
+            "name": "special-defense",
+            "value": 89
+        },
+        {
+            "name": "speed",
+            "value": 75
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1021.png"
+}

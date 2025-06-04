@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ふしぎなまもり",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "불가사의부적",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "神奇守護",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Garde Mystik",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wunderwache",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Superguarda",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Magidifesa",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Wonder Guard",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ふしぎなまもり",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "神奇守护",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "アメタマ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Ametama",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "비구술",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "溜溜糖球",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Arakdo",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Gehweiher",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Surskit",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Surskit",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Surskit",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アメタマ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "溜溜糖球",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 30
+        },
+        {
+            "name": "defense",
+            "value": 32
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 52
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png"
+}

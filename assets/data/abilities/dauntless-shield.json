@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ふくつのたて",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "불굴의방패",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "不屈之盾",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Égide Inflexible",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wackerer Schild",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Escudo Recio",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Scudo Saldo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dauntless Shield",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ふくつのたて",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "不屈之盾",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

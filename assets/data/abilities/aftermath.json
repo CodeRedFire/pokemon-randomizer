@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ゆうばく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "유폭",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "引爆",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Boom Final",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Finalschlag",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Detonación",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Scoppio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Aftermath",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゆうばく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "引爆",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

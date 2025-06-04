@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ゾウドウ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Zoudou",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "끼리동",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "銅象",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Charibari",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kupfanti",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cufant",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cufant",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cufant",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゾウドウ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铜象",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 72
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 49
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 49
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/878.png"
+}

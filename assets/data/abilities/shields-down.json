@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "リミットシールド",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "리밋실드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "界限盾殼",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Bouclier-Carcan",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Limitschild",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Escudo Limitado",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Scudosoglia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Shields Down",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "リミットシールド",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "界限盾壳",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

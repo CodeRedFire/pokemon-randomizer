@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ポカブ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Pokabu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "뚜꾸리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "暖暖豬",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Gruikui",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Floink",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tepig",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tepig",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tepig",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ポカブ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "暖暖猪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 63
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png"
+}

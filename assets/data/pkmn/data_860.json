@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ギモー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Gimoh",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "쏘겨모",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "詐唬魔",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Fourbelin",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pelzebub",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Morgrem",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Morgrem",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Morgrem",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ギモー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "诈唬魔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 75
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 70
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/860.png"
+}

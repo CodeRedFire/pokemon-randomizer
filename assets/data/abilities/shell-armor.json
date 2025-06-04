@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "シェルアーマー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "조가비갑옷",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "硬殼盔甲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Coque Armure",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Panzerhaut",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Caparazón",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Guscioscudo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Shell Armor",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シェルアーマー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "硬壳盔甲",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

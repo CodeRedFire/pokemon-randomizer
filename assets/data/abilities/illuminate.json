@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "はっこう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "발광",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "發光",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lumiattirance",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Erleuchtung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Iluminación",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Risplendi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Illuminate",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "はっこう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "发光",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

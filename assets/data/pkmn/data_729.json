@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "オシャマリ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Osyamari",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "키요공",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "花漾海獅",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Otarlette",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Marikeck",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Brionne",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Brionne",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Brionne",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "オシャマリ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "花漾海狮",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 69
+        },
+        {
+            "name": "defense",
+            "value": 69
+        },
+        {
+            "name": "special-attack",
+            "value": 91
+        },
+        {
+            "name": "special-defense",
+            "value": 81
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/729.png"
+}

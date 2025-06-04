@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "エレキメイカー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "일렉트릭메이커",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "電氣製造者",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Créa-Élec",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Elektro-Erzeuger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Electrogénesis",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Elettrogenesi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Electric Surge",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エレキメイカー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "电气制造者",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ホエルコ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Whalko",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "고래왕자",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "吼吼鯨",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Wailmer",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wailmer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Wailmer",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Wailmer",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Wailmer",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ホエルコ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "吼吼鲸",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 130
+        },
+        {
+            "name": "attack",
+            "value": 70
+        },
+        {
+            "name": "defense",
+            "value": 35
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 35
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png"
+}

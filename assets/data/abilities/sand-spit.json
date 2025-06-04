@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "すなはき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "모래뿜기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "吐沙",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Expul’Sable",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sandspeier",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Expulsarena",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sputasabbia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sand Spit",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "すなはき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "吐沙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

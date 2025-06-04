@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ポイズンヒール",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "포이즌힐",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "毒療",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Soin Poison",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Aufheber",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Antídoto",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Velencura",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Poison Heal",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ポイズンヒール",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "毒疗",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

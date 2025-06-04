@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "すいほう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "수포",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "水泡",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Aquabulle",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wasserblase",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pompa",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Bolladacqua",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Water Bubble",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "すいほう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "水泡",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

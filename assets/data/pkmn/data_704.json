@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ヌメラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Numera",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "미끄메라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "黏黏寶",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mucuscule",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Viscora",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Goomy",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Goomy",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Goomy",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヌメラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "黏黏宝",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 35
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/704.png"
+}

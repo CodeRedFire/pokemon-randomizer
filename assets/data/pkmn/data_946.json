@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "アノクサ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Anokusa",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "그푸리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "納噬草",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Virovent",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Weherba",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Bramblin",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Bramblin",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Bramblin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アノクサ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "纳噬草",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 30
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 35
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/946.png"
+}

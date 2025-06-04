@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "メレシー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Melecie",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "멜리시",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "小碎鑽",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Strassie",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rocara",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Carbink",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Carbink",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Carbink",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "メレシー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "小碎钻",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 150
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 150
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/703.png"
+}

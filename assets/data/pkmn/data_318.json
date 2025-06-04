@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "キバニア",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kibanha",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "샤프니아",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "利牙魚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Carvanha",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kanivanha",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Carvanha",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Carvanha",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Carvanha",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "キバニア",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "利牙鱼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "dark"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 90
+        },
+        {
+            "name": "defense",
+            "value": 20
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 20
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png"
+}

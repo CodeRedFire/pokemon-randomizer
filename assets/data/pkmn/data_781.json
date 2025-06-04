@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ダダリン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dadarin",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "타타륜",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "破破舵輪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sinistrail",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Moruda",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Dhelmise",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Dhelmise",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dhelmise",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ダダリン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "破破舵轮",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 131
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 86
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/781.png"
+}

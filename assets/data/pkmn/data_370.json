@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ラブカス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Lovecus",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "사랑동이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "愛心魚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lovdisc",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Liebiskus",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Luvdisc",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Luvdisc",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Luvdisc",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ラブカス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "爱心鱼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 43
+        },
+        {
+            "name": "attack",
+            "value": 30
+        },
+        {
+            "name": "defense",
+            "value": 55
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 97
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png"
+}

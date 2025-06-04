@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "はがねのせいしん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "강철정신",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鋼之意志",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Boost Acier",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Stählerner Wille",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Alma Acerada",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spiritoferreo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Steely Spirit",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "はがねのせいしん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "钢之意志",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

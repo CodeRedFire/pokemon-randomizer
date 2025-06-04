@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "じめん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "땅",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "地面",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sol",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Boden",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tierra",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Terra",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ground",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "じめん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "地面",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/5.png"
+}

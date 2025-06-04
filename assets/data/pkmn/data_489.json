@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "フィオネ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Phione",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "피오네",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "霏歐納",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Phione",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Phione",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Phione",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Phione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Phione",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フィオネ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "霏欧纳",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png"
+}

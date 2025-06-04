@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "すいすい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "쓱쓱",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "悠游自如",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Glissade",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wassertempo",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Nado Rápido",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Nuotovelox",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Swift Swim",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "すいすい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "悠游自如",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

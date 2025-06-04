@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "オノンド",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Onondo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "액슨도",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "斧牙龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Incisache",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sharfax",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Fraxure",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fraxure",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Fraxure",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "オノンド",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "斧牙龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 66
+        },
+        {
+            "name": "attack",
+            "value": 117
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 67
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png"
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ラビフット",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Rabbifuto",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "래비풋",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "騰蹴小將",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lapyro",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kickerlo",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Raboot",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Raboot",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Raboot",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ラビフット",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "腾蹴小将",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 86
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 94
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/814.png"
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ニドラン♂",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nidoran♂",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "니드런♂",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "尼多朗",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Nidoran♂",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Nidoran♂",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Nidoran♂",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Nidoran♂",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Nidoran♂",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ニドラン♂",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "尼多朗",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 46
+        },
+        {
+            "name": "attack",
+            "value": 57
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png"
+}

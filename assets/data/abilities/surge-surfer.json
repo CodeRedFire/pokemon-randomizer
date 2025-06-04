@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "サーフテール",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "서핑테일",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "衝浪之尾",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Surf Caudal",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Surf-Schweif",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cola Surf",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Codasurf",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Surge Surfer",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "サーフテール",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "冲浪之尾",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

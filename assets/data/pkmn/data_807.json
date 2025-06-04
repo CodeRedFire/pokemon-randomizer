@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ゼラオラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Zeraora",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "제라오라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "捷拉奧拉",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Zeraora",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zeraora",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Zeraora",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Zeraora",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Zeraora",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゼラオラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "捷拉奥拉",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 88
+        },
+        {
+            "name": "attack",
+            "value": 112
+        },
+        {
+            "name": "defense",
+            "value": 75
+        },
+        {
+            "name": "special-attack",
+            "value": 102
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 143
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/807.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "グレッグル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Gureggru",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "삐딱구리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "不良蛙",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cradopaud",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Glibunkel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Croagunk",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Croagunk",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Croagunk",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "グレッグル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "不良蛙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 48
+        },
+        {
+            "name": "attack",
+            "value": 61
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 61
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png"
+}

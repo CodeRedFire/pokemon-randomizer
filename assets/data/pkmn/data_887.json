@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ドラパルト",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dorapult",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "드래펄트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "多龍巴魯托",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lanssorien",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Katapuldra",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Dragapult",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Dragapult",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dragapult",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ドラパルト",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "多龙巴鲁托",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon",
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 88
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 75
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 142
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png"
+}

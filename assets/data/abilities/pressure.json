@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "プレッシャー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "프레셔",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "壓迫感",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pression",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Erzwinger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Presión",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pressione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pressure",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "プレッシャー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "压迫感",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

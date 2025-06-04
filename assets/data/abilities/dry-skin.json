@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "かんそうはだ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "건조피부",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "乾燥皮膚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Peau Sèche",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Trockenheit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Piel Seca",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pellearsa",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dry Skin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かんそうはだ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "干燥皮肤",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

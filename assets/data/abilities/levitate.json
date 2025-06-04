@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ふゆう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "부유",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "飄浮",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lévitation",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schwebe",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Levitación",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Levitazione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Levitate",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ふゆう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "飘浮",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "パウワウ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Pawou",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "쥬쥬",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "小海獅",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Otaria",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Jurob",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Seel",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Seel",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Seel",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "パウワウ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "小海狮",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 45
+        },
+        {
+            "name": "defense",
+            "value": 55
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png"
+}

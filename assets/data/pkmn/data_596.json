@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "デンチュラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dentula",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "전툴라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "電蜘蛛",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mygavolt",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Voltula",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Galvantula",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Galvantula",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Galvantula",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "デンチュラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "电蜘蛛",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 77
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 97
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 108
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png"
+}

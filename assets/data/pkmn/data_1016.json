@@ -1,0 +1,95 @@
+{
+    "names": [
+        {
+            "name": "キチキギス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "기로치",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "吉雉雞",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Favianos",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Beatori",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Fezandipiti",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fezandipiti",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Fezandipiti",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "キチキギス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "吉雉鸡",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 88
+        },
+        {
+            "name": "attack",
+            "value": 91
+        },
+        {
+            "name": "defense",
+            "value": 82
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 125
+        },
+        {
+            "name": "speed",
+            "value": 99
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1016.png"
+}

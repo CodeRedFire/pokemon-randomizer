@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "アメモース",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Amemoth",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "비나방",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雨翅蛾",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Maskadra",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Maskeregen",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Masquerain",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Masquerain",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Masquerain",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アメモース",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "雨翅蛾",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 62
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 82
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png"
+}

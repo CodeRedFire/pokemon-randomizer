@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "クラブ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Crab",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "크랩",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大鉗蟹",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Krabby",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Krabby",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Krabby",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Krabby",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Krabby",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "クラブ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大钳蟹",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 30
+        },
+        {
+            "name": "attack",
+            "value": 105
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 25
+        },
+        {
+            "name": "special-defense",
+            "value": 25
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png"
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "フリージオ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Freegeo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "프리지오",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "幾何雪花",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Hexagel",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Frigometri",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cryogonal",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cryogonal",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cryogonal",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フリージオ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "几何雪花",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 135
+        },
+        {
+            "name": "speed",
+            "value": 105
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png"
+}

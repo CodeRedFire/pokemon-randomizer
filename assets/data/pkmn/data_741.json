@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "オドリドリ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Odoridori",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "춤추새",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "花舞鳥",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Plumeline",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Choreogel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Oricorio",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Oricorio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Oricorio",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "オドリドリ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "花舞鸟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 70
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 98
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 93
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "チルット",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tyltto",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "파비코",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "青綿鳥",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tylton",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wablu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Swablu",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Swablu",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Swablu",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "チルット",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "青绵鸟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png"
+}

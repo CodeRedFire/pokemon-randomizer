@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ありじごく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "개미지옥",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "沙穴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Piège Sable",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Ausweglos",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Trampa Arena",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Trappoarena",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Arena Trap",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ありじごく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "沙穴",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

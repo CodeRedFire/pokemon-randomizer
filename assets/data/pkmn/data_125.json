@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "エレブー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Eleboo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "에레브",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "電擊獸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Élektek",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Elektek",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Electabuzz",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Electabuzz",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Electabuzz",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エレブー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "电击兽",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 83
+        },
+        {
+            "name": "defense",
+            "value": 57
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 85
+        },
+        {
+            "name": "speed",
+            "value": 105
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png"
+}

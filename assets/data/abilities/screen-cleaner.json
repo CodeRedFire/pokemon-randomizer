@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "バリアフリー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "배리어프리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "除障",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Brise-Barrière",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hemmungslos",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Antibarrera",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Annullabarriere",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Screen Cleaner",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バリアフリー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "除障",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

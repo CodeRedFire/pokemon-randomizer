@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ちどりあし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "갈지자걸음",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蹣跚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pieds Confus",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Fußangel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tumbos",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Intricopiedi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tangled Feet",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ちどりあし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蹒跚",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

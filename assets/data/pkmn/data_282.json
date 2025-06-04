@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "サーナイト",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Sirnight",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "가디안",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "沙奈朵",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Gardevoir",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Guardevoir",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Gardevoir",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Gardevoir",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gardevoir",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "サーナイト",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "沙奈朵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 68
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 125
+        },
+        {
+            "name": "special-defense",
+            "value": 115
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png"
+}

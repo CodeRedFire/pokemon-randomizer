@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "デルタストリーム",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "델타스트림",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "德爾塔氣流",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Souffle Delta",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Delta-Wind",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ráfaga Delta",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Flusso Delta",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Delta Stream",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "デルタストリーム",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "德尔塔气流",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "ふうりょくでんき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Turbine Éolienne",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Windkraft",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Energía Eólica",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Energia Eolica",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Wind Power",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ふうりょくでんき",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

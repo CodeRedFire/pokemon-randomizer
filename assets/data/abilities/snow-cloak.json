@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ゆきがくれ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "눈숨기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雪隱",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Rideau Neige",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schneemantel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Manto Níveo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mantelneve",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Snow Cloak",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゆきがくれ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "雪隐",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

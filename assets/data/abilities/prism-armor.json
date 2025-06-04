@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "プリズムアーマー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "프리즘아머",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "稜鏡裝甲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Prisme-Armure",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Prismarüstung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Armadura Prisma",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Scudoprisma",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Prism Armor",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "プリズムアーマー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "棱镜装甲",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

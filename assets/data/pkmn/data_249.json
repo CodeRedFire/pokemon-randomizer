@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ルギア",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Lugia",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "루기아",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "洛奇亞",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lugia",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Lugia",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Lugia",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Lugia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Lugia",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ルギア",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "洛奇亚",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 106
+        },
+        {
+            "name": "attack",
+            "value": 90
+        },
+        {
+            "name": "defense",
+            "value": 130
+        },
+        {
+            "name": "special-attack",
+            "value": 90
+        },
+        {
+            "name": "special-defense",
+            "value": 154
+        },
+        {
+            "name": "speed",
+            "value": 110
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png"
+}

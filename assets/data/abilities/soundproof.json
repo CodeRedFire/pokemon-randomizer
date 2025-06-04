@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ぼうおん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "방음",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "隔音",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Anti-Bruit",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Lärmschutz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Insonorizar",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Antisuono",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Soundproof",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ぼうおん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "隔音",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

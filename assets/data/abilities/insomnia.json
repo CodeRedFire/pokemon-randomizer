@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ふみん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "불면",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "不眠",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Insomnia",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Insomnia",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Insomnio",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Insonnia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Insomnia",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ふみん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "不眠",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

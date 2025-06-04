@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "マーイーカ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Maaiika",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "오케이징",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "好啦魷",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sepiatop",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Iscalar",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Inkay",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Inkay",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Inkay",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マーイーカ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "好啦鱿",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 53
+        },
+        {
+            "name": "attack",
+            "value": 54
+        },
+        {
+            "name": "defense",
+            "value": 53
+        },
+        {
+            "name": "special-attack",
+            "value": 37
+        },
+        {
+            "name": "special-defense",
+            "value": 46
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/686.png"
+}

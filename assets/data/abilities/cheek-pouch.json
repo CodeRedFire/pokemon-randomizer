@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ほおぶくろ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "볼주머니",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "頰囊",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Bajoues",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Backentaschen",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Carrillo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Guancegonfie",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cheek Pouch",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ほおぶくろ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "颊囊",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

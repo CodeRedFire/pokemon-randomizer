@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ぼうじん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "방진",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "防塵",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Envelocape",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Partikelschutz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Funda",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Copricapo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Overcoat",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ぼうじん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "防尘",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

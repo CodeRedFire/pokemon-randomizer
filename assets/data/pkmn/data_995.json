@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "テツノイバラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tetsunoibara",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "무쇠가시",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鐵荊棘",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Épine-de-Fer",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Eisendorn",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ferropúas",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spineferree",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Iron Thorns",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テツノイバラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铁荆棘",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 134
+        },
+        {
+            "name": "defense",
+            "value": 110
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 84
+        },
+        {
+            "name": "speed",
+            "value": 72
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/995.png"
+}

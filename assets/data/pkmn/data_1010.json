@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "テツノイサハ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tetsunoisaha",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "무쇠잎새",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鐵斑葉",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Vert-de-Fer",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Eisenblatt",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ferroverdor",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fogliaferrea",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Iron Leaves",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テツノイサハ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铁斑叶",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 90
+        },
+        {
+            "name": "attack",
+            "value": 130
+        },
+        {
+            "name": "defense",
+            "value": 88
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 108
+        },
+        {
+            "name": "speed",
+            "value": 104
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1010.png"
+}

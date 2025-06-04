@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ゴチルゼル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Gothiruselle",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "고디모아젤",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "哥德小姐",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sidérella",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Morbitesse",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Gothitelle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Gothitelle",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gothitelle",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゴチルゼル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "哥德小姐",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 95
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 110
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png"
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "チリーン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Chirean",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "치렁",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "風鈴鈴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Éoko",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Palimpalim",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Chimecho",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Chimecho",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Chimecho",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "チリーン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "风铃铃",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "スクリューおびれ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "스크루지느러미",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "螺旋尾鰭",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Propulseur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schraubflosse",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hélice Caudal",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Elicopinna",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Propeller Tail",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "スクリューおびれ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "螺旋尾鳍",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

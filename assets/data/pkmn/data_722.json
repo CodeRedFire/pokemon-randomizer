@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "モクロー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mokuroh",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "나몰빼미",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "木木梟",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Brindibou",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Bauz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rowlet",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Rowlet",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rowlet",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "モクロー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "木木枭",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 68
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 55
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 42
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png"
+}

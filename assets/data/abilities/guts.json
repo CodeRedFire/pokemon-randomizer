@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "こんじょう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "근성",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "毅力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cran",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Adrenalin",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Agallas",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Dentistretti",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Guts",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "こんじょう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "毅力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

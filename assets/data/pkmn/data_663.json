@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ファイアロー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Fiarrow",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "파이어로",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "烈箭鷹",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Flambusard",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Fiaro",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Talonflame",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Talonflame",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Talonflame",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ファイアロー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "烈箭鹰",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 78
+        },
+        {
+            "name": "attack",
+            "value": 81
+        },
+        {
+            "name": "defense",
+            "value": 71
+        },
+        {
+            "name": "special-attack",
+            "value": 74
+        },
+        {
+            "name": "special-defense",
+            "value": 69
+        },
+        {
+            "name": "speed",
+            "value": 126
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png"
+}

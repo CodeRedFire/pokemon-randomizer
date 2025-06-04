@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "じゅくせい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "숙성",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "熟成",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mûrissement",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Heranreifen",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Maduración",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Maturazione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ripen",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "じゅくせい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "熟成",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

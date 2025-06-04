@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "パッチール",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Patcheel",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "얼루기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "晃晃斑",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Spinda",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pandir",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Spinda",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spinda",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Spinda",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "パッチール",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "晃晃斑",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png"
+}

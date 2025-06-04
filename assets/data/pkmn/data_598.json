@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ナットレイ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nutrey",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "너트령",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "堅果啞鈴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Noacier",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tentantel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ferrothorn",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ferrothorn",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ferrothorn",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ナットレイ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "坚果哑铃",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 74
+        },
+        {
+            "name": "attack",
+            "value": 94
+        },
+        {
+            "name": "defense",
+            "value": 131
+        },
+        {
+            "name": "special-attack",
+            "value": 54
+        },
+        {
+            "name": "special-defense",
+            "value": 116
+        },
+        {
+            "name": "speed",
+            "value": 20
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png"
+}

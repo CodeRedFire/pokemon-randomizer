@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "かいりきバサミ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "괴력집게",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "怪力鉗",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Hyper Cutter",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Scherenmacht",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Corte Fuerte",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ipertaglio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Hyper Cutter",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かいりきバサミ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "怪力钳",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

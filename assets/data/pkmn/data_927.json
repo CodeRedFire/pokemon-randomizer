@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "バウッツェル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Bowtzel",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "바우첼",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "麻花犬",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Briochien",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Backel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Dachsbun",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Dachsbun",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dachsbun",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バウッツェル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "麻花犬",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 57
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 115
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 95
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/927.png"
+}

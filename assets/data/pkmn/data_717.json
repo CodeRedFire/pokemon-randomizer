@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "イベルタル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Yveltal",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "이벨타르",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "伊裴爾塔爾",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Yveltal",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Yveltal",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Yveltal",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Yveltal",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Yveltal",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "イベルタル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "伊裴尔塔尔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 126
+        },
+        {
+            "name": "attack",
+            "value": 131
+        },
+        {
+            "name": "defense",
+            "value": 95
+        },
+        {
+            "name": "special-attack",
+            "value": 131
+        },
+        {
+            "name": "special-defense",
+            "value": 98
+        },
+        {
+            "name": "speed",
+            "value": 99
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/717.png"
+}

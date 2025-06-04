@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "Steenee",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "アママイコ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Amamaiko",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "달무리나",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "甜舞妮",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Candine",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Frubaila",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Steenee",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Steenee",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アママイコ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "甜舞妮",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 52
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 48
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 48
+        },
+        {
+            "name": "speed",
+            "value": 62
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/762.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "てつのトゲ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "철가시",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鐵刺",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Épine de Fer",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Eisenstachel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Punta Acero",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spineferrate",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Iron Barbs",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "てつのトゲ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铁刺",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

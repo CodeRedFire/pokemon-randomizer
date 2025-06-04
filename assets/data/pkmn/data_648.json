@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "メロエッタ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Meloetta",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "메로엣타",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "美洛耶塔",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Meloetta",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Meloetta",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Meloetta",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Meloetta",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Meloetta",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "メロエッタ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "美洛耶塔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 77
+        },
+        {
+            "name": "defense",
+            "value": 77
+        },
+        {
+            "name": "special-attack",
+            "value": 128
+        },
+        {
+            "name": "special-defense",
+            "value": 128
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png"
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "コフーライ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kofuurai",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "분떠도리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "粉蝶蛹",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pérégrain",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Puponcho",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Spewpa",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spewpa",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Spewpa",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "コフーライ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "粉蝶蛹",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 22
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 27
+        },
+        {
+            "name": "special-defense",
+            "value": 30
+        },
+        {
+            "name": "speed",
+            "value": 29
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png"
+}

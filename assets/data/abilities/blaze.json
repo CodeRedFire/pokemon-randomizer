@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "もうか",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "맹화",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "猛火",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Brasier",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Großbrand",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mar Llamas",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Aiutofuoco",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Blaze",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "もうか",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "猛火",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

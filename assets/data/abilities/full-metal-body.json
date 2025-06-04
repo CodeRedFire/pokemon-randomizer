@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "メタルプロテクト",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "메탈프로텍트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "金屬防護",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Métallo-Garde",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Metallprotektor",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Guardia Metálica",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Metalprotezione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Full Metal Body",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "メタルプロテクト",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "金属防护",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

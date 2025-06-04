@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "マジックガード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "매직가드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "魔法防守",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Garde Magik",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Magieschild",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Muro Mágico",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Magicscudo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Magic Guard",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マジックガード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "魔法防守",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

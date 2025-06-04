@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "レシーバー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "리시버",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "接球手",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Receveur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Receiver",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Receptor",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ricezione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Receiver",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "レシーバー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "接球手",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

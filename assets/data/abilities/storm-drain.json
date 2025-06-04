@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "よびみず",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "마중물",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "引水",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lavabo",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sturmsog",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Colector",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Acquascolo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Storm Drain",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "よびみず",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "引水",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "バニプッチ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Vanipeti",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "바닐프티",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "迷你冰",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sorbébé",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Gelatini",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Vanillite",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Vanillite",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Vanillite",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バニプッチ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "迷你冰",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 36
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 44
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png"
+}

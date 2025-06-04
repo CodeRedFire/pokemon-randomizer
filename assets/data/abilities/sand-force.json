@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "すなのちから",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "모래의힘",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "沙之力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Force Sable",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sandgewalt",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Poder Arena",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Silicoforza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sand Force",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "すなのちから",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "沙之力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

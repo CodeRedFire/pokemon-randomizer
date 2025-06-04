@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ラッキー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Lucky",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "럭키",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "吉利蛋",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Leveinard",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Chaneira",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Chansey",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Chansey",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Chansey",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ラッキー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "吉利蛋",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 250
+        },
+        {
+            "name": "attack",
+            "value": 5
+        },
+        {
+            "name": "defense",
+            "value": 5
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 105
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png"
+}

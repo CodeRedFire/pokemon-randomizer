@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "めんえき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "면역",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "免疫",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Vaccin",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Immunität",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Inmunidad",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Immunità",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Immunity",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "めんえき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "免疫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

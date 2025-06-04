@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "カブト",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kabuto",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "투구",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "化石盔",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Kabuto",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kabuto",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Kabuto",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Kabuto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Kabuto",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カブト",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "化石盔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 30
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 55
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png"
+}

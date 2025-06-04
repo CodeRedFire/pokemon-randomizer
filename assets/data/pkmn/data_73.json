@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ドククラゲ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dokukurage",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "독파리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "毒刺水母",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tentacruel",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tentoxa",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tentacruel",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tentacruel",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tentacruel",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ドククラゲ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "毒刺水母",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 70
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 120
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png"
+}

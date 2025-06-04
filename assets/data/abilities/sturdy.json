@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "がんじょう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "옹골참",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "結實",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Fermeté",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Robustheit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Robustez",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Vigore",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sturdy",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "がんじょう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "结实",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

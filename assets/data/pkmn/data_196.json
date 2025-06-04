@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "エーフィ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Eifie",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "에브이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "太陽伊布",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mentali",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Psiana",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Espeon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Espeon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Espeon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エーフィ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "太阳伊布",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 130
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 110
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png"
+}

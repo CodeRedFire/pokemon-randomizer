@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "あめふらし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "잔비",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "降雨",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Crachin",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Niesel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Llovizna",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Piovischio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Drizzle",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "あめふらし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "降雨",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

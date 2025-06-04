@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "コモルー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Komoruu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "쉘곤",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "甲殼龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Drackhaus",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Draschel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Shelgon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Shelgon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Shelgon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "コモルー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "甲壳龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 95
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png"
+}

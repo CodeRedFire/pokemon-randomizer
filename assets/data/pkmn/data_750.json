@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "バンバドロ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Banbadoro",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "만마드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "重泥挽馬",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Bourrinos",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pampross",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mudsdale",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mudsdale",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mudsdale",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バンバドロ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "重泥挽马",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 125
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 85
+        },
+        {
+            "name": "speed",
+            "value": 35
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png"
+}

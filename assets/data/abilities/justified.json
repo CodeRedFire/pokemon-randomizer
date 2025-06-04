@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "せいぎのこころ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "정의의마음",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "正義之心",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cœur Noble",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Redlichkeit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Justiciero",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Giustizia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Justified",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "せいぎのこころ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "正义之心",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

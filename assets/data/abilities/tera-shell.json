@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "テラスシェル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "테라셸",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "太晶甲殼",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Téra-Carapace",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tera-Panzer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Teracaparazón",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Teraguscio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tera Shell",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テラスシェル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "太晶甲壳",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

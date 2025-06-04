@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ファントムガード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "스펙터가드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "幻影防守",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Spectro-Bouclier",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Phantomschutz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Guardia Espectro",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spettroguardia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Shadow Shield",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ファントムガード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "幻影防守",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

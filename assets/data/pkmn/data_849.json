@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ストリンダー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Strinder",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "스트린더",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "顫弦蠑螈",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Salarsen",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Riffex",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Toxtricity",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Toxtricity",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Toxtricity",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ストリンダー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "颤弦蝾螈",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 98
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 114
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 75
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849.png"
+}

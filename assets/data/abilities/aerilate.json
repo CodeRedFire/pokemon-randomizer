@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "スカイスキン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "스카이스킨",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "飛行皮膚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Peau Céleste",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zenithaut",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Piel Celeste",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pellecielo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Aerilate",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "スカイスキン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "飞行皮肤",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

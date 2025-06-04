@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "マルチスケイル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "멀티스케일",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "多重鱗片",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Multiécaille",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Multischuppe",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Multiescamas",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Multisquame",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Multiscale",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マルチスケイル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "多重鳞片",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

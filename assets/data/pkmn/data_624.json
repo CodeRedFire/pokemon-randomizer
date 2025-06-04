@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "コマタナ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Komatana",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "자망칼",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "駒刀小兵",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Scalpion",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Gladiantri",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pawniard",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pawniard",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pawniard",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "コマタナ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "驹刀小兵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/624.png"
+}

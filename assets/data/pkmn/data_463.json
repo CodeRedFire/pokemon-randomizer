@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ベロベルト",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Beroberto",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "내룸벨트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大舌舔",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Coudlangue",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schlurplek",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Lickilicky",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Lickilicky",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Lickilicky",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ベロベルト",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大舌舔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 110
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 95
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png"
+}

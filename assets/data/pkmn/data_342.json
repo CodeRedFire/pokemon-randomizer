@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "シザリガー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Shizariger",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "가재장군",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鐵螯龍蝦",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Colhomard",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Krebutack",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Crawdaunt",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Crawdaunt",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Crawdaunt",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シザリガー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铁螯龙虾",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "dark"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 63
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 85
+        },
+        {
+            "name": "special-attack",
+            "value": 90
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 55
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png"
+}

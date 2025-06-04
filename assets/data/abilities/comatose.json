@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ぜったいねむり",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "절대안깸",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "絕對睡眠",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Hypersommeil",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Dauerschlaf",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Letargo Perenne",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sonno Assoluto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Comatose",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ぜったいねむり",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "绝对睡眠",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

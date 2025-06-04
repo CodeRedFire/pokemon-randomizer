@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "フリーズスキン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "프리즈스킨",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "冰凍皮膚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Peau Gelée",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Frostschicht",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Piel Helada",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pellegelo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Refrigerate",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フリーズスキン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "冰冻皮肤",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "フラージェス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Florges",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "플라제스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "花潔夫人",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Florges",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Florges",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Florges",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Florges",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Florges",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フラージェス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "花洁夫人",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 78
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 68
+        },
+        {
+            "name": "special-attack",
+            "value": 112
+        },
+        {
+            "name": "special-defense",
+            "value": 154
+        },
+        {
+            "name": "speed",
+            "value": 75
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png"
+}

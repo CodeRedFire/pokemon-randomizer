@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ＡＲシステム",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "AR시스템",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "ＡＲ系統",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Système Alpha",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Alpha-System",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sistema Alfa",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sistema Primevo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "RKS System",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ＡＲシステム",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "ＡＲ系统",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

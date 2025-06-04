@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "わざわいのつるぎ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Épée du Fléau",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Unheilsschwert",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Espada Debacle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spada Nefasta",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sword of Ruin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "わざわいのつるぎ",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

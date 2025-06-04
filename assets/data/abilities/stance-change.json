@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "バトルスイッチ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "배틀스위치",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "戰鬥切換",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Déclic Tactique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Taktikwechsel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cambio Táctico",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Accendilotta",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Stance Change",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バトルスイッチ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "战斗切换",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

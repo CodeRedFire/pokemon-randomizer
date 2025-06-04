@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "エネコロロ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Enekororo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "델케티",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "優雅貓",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Delcatty",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Enekoro",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Delcatty",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Delcatty",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Delcatty",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エネコロロ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "优雅猫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ほのお",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "불꽃",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "火",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Feu",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Feuer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Fuego",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fuoco",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Fire",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ほのお",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "火",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/10.png"
+}

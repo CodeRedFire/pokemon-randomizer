@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ムクバード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mukubird",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "찌르버드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "姆克鳥",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Étourvol",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Staravia",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Staravia",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Staravia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Staravia",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ムクバード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "姆克鸟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 55
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png"
+}

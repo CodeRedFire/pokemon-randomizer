@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "トリミアン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Trimmien",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "트리미앙",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "多麗米亞",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Couafarel",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Coiffwaff",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Furfrou",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Furfrou",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Furfrou",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "トリミアン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "多丽米亚",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 102
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676.png"
+}

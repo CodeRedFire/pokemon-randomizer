@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "カイリュー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kairyu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "망나뇽",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "快龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Dracolosse",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Dragoran",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Dragonite",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Dragonite",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dragonite",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カイリュー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "快龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 91
+        },
+        {
+            "name": "attack",
+            "value": 134
+        },
+        {
+            "name": "defense",
+            "value": 95
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
+}

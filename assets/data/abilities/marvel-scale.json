@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ふしぎなうろこ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "이상한비늘",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "神奇鱗片",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Écaille Spéciale",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Notschutz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Escama Especial",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pelledura",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Marvel Scale",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ふしぎなうろこ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "神奇鳞片",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

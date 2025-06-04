@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ツンデツンデ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tundetunde",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "차곡차곡",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "壘磊石",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ama-Ama",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Muramura",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Stakataka",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Stakataka",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Stakataka",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ツンデツンデ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "垒磊石",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 61
+        },
+        {
+            "name": "attack",
+            "value": 131
+        },
+        {
+            "name": "defense",
+            "value": 211
+        },
+        {
+            "name": "special-attack",
+            "value": 53
+        },
+        {
+            "name": "special-defense",
+            "value": 101
+        },
+        {
+            "name": "speed",
+            "value": 13
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/805.png"
+}

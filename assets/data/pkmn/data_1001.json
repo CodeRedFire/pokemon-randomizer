@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "チオンジェン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Chionjen",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "총지엔",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "古簡蝸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chongjian",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Chongjian",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Wo-Chien",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Wo-Chien",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Wo-Chien",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "チオンジェン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "古简蜗",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 85
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 135
+        },
+        {
+            "name": "speed",
+            "value": 70
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1001.png"
+}

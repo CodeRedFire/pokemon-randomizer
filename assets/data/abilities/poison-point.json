@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "どくのトゲ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "독가시",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "毒刺",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Point Poison",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Giftdorn",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Punto Tóxico",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Velenopunto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Poison Point",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "どくのトゲ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "毒刺",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ザルード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Zarude",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "자루도",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "薩戮德",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Zarude",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zarude",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Zarude",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Zarude",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Zarude",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ザルード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "萨戮德",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 105
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 105
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 105
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png"
+}

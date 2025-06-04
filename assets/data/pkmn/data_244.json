@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "エンテイ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Entei",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "앤테이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "炎帝",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Entei",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Entei",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Entei",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Entei",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Entei",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エンテイ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "炎帝",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 115
+        },
+        {
+            "name": "attack",
+            "value": 115
+        },
+        {
+            "name": "defense",
+            "value": 85
+        },
+        {
+            "name": "special-attack",
+            "value": 90
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png"
+}

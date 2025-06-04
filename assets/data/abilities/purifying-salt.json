@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "きよめのしお",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Sel Purificateur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Läutersalz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sal Purificadora",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sale Purificante",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Purifying Salt",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "きよめのしお",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "はじまりのうみ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "시작의바다",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "始源之海",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mer Primaire",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Urmeer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mar del Albor",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mare Primordiale",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Primordial Sea",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "はじまりのうみ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "始源之海",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

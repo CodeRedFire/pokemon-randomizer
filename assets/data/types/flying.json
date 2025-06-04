@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ひこう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "비행",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "飛行",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Vol",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Flug",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Volador",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Volante",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Flying",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ひこう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "飞行",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/3.png"
+}

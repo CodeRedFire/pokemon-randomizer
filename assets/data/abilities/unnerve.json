@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "きんちょうかん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "긴장감",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "緊張感",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tension",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Anspannung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Nerviosismo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Agitazione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Unnerve",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "きんちょうかん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "紧张感",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

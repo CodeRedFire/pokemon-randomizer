@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "カラサリス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Karasalis",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "실쿤",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "甲殼繭",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Armulys",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schaloko",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Silcoon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Silcoon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Silcoon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カラサリス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "甲壳茧",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 35
+        },
+        {
+            "name": "defense",
+            "value": 55
+        },
+        {
+            "name": "special-attack",
+            "value": 25
+        },
+        {
+            "name": "special-defense",
+            "value": 25
+        },
+        {
+            "name": "speed",
+            "value": 15
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png"
+}

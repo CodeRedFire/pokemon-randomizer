@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "じりょく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "자력",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "磁力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Magnépiège",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Magnetfalle",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Imán",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Magnetismo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Magnet Pull",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "じりょく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "磁力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

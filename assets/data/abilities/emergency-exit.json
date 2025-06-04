@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ききかいひ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "위기회피",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "危險迴避",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Repli Tactique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rückzug",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Retirada",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Passoindietro",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Emergency Exit",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ききかいひ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "危险回避",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

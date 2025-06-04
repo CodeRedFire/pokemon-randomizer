@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "じんばいったい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "혼연일체",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "人馬一體",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Osmose Équine",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Reitgespann",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Unidad Ecuestre",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sintonia Equina",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "As One",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "じんばいったい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "人马一体",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

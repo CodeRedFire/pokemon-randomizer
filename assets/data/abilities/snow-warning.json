@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ゆきふらし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "눈퍼뜨리기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "降雪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Alerte Neige",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hagelalarm",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Nevada",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Scendineve",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Snow Warning",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゆきふらし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "降雪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

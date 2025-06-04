@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ルナアーラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Lunala",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "루나아라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "露奈雅拉",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lunala",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Lunala",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Lunala",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Lunala",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Lunala",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ルナアーラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "露奈雅拉",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic",
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 137
+        },
+        {
+            "name": "attack",
+            "value": 113
+        },
+        {
+            "name": "defense",
+            "value": 89
+        },
+        {
+            "name": "special-attack",
+            "value": 137
+        },
+        {
+            "name": "special-defense",
+            "value": 107
+        },
+        {
+            "name": "speed",
+            "value": 97
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png"
+}

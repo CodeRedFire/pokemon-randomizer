@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ぬめぬめ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "미끈미끈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "黏滑",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Poisseux",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Viskosität",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Baba",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Viscosità",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gooey",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ぬめぬめ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "黏滑",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

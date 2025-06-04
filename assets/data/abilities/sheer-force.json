@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ちからずく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "우격다짐",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "強行",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sans Limite",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rohe Gewalt",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Potencia Bruta",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Forzabruta",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sheer Force",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ちからずく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "强行",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ちからもち",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "천하장사",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大力士",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Coloforce",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kraftkoloss",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Potencia",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Macroforza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Huge Power",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ちからもち",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大力士",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

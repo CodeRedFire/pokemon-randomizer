@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ユンゲラー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Yungerer",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "윤겔라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "勇基拉",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Kadabra",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kadabra",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Kadabra",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Kadabra",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Kadabra",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ユンゲラー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "勇基拉",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 35
+        },
+        {
+            "name": "defense",
+            "value": 30
+        },
+        {
+            "name": "special-attack",
+            "value": 120
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 105
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
+}

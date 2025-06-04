@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "シュバルゴ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Chevargo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "슈바르고",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "騎士蝸牛",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lançargot",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Cavalanzas",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Escavalier",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Escavalier",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Escavalier",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シュバルゴ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "骑士蜗牛",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 135
+        },
+        {
+            "name": "defense",
+            "value": 105
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 105
+        },
+        {
+            "name": "speed",
+            "value": 20
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/589.png"
+}

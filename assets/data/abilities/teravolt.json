@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "テラボルテージ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "테라볼티지",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "兆級電壓",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Téra-Voltage",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Teravolt",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Terravoltaje",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Teravolt",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Teravolt",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テラボルテージ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "兆级电压",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ヒーリングシフト",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "힐링시프트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "先行治療",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Prioguérison",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Heilwandel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Primer Auxilio",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Primacura",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Triage",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヒーリングシフト",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "先行治疗",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "うるおいボディ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "촉촉바디",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "濕潤之軀",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Hydratation",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hydration",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hidratación",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Idratazione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Hydration",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "うるおいボディ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "湿润之躯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

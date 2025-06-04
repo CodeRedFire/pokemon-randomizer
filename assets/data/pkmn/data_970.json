@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "キラフロル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kiraflor",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "킬라플로르",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "晶光花",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Floréclat",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Lumiflora",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Glimmora",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Glimmora",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Glimmora",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "キラフロル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "晶光花",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 83
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 130
+        },
+        {
+            "name": "special-defense",
+            "value": 81
+        },
+        {
+            "name": "speed",
+            "value": 86
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/970.png"
+}

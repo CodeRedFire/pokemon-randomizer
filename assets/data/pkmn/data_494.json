@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ビクティニ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Victini",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "비크티니",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "比克提尼",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Victini",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Victini",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Victini",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Victini",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Victini",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ビクティニ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "比克提尼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic",
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png"
+}

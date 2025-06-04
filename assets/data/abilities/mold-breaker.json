@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "かたやぶり",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "틀깨기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "破格",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Brise Moule",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Überbrückung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rompemoldes",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Rompiforma",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mold Breaker",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かたやぶり",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "破格",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

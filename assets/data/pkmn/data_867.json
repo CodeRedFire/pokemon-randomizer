@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "デスバーン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Deathbarn",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "데스판",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "死神板",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tutétékri",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Oghnatoll",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Runerigus",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Runerigus",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Runerigus",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "デスバーン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "迭失板",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground",
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 58
+        },
+        {
+            "name": "attack",
+            "value": 95
+        },
+        {
+            "name": "defense",
+            "value": 145
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 105
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/867.png"
+}

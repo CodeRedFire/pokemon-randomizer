@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "アルクジラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Arukujira",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "터벅고래",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "走鯨",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Piétacé",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Flaniwal",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cetoddle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cetoddle",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cetoddle",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アルクジラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "走鲸",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 108
+        },
+        {
+            "name": "attack",
+            "value": 68
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 30
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 43
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/974.png"
+}

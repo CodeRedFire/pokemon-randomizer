@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "フシデ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Fushide",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "마디네",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "百足蜈蚣",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Venipatte",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Toxiped",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Venipede",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Venipede",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Venipede",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フシデ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "百足蜈蚣",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 30
+        },
+        {
+            "name": "attack",
+            "value": 45
+        },
+        {
+            "name": "defense",
+            "value": 59
+        },
+        {
+            "name": "special-attack",
+            "value": 30
+        },
+        {
+            "name": "special-defense",
+            "value": 39
+        },
+        {
+            "name": "speed",
+            "value": 57
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png"
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "クレベース",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Crebase",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "크레베이스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "冰岩怪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Séracrawl",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Arktilas",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Avalugg",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Avalugg",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Avalugg",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "クレベース",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "冰岩怪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 95
+        },
+        {
+            "name": "attack",
+            "value": 117
+        },
+        {
+            "name": "defense",
+            "value": 184
+        },
+        {
+            "name": "special-attack",
+            "value": 44
+        },
+        {
+            "name": "special-defense",
+            "value": 46
+        },
+        {
+            "name": "speed",
+            "value": 28
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png"
+}

@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "びんじょう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Opportuniste",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Profiteur",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Oportunista",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Scrocco",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Opportunist",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "びんじょう",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

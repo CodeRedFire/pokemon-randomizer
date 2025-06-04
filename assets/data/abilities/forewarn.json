@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "よちむ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "예지몽",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "預知夢",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Prédiction",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Vorwarnung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Alerta",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Premonizione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Forewarn",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "よちむ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "预知梦",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

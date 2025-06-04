@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ヤトウモリ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Yatoumori",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "야도뇽",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "夜盜火蜥",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tritox",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Molunk",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Salandit",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Salandit",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Salandit",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヤトウモリ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "夜盗火蜥",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 48
+        },
+        {
+            "name": "attack",
+            "value": 44
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 71
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 77
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/757.png"
+}

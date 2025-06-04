@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ふかしのこぶし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "보이지않는주먹",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "無形拳",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Poing Invisible",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Verborgene Faust",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Puño Invisible",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pugni Invisibili",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Unseen Fist",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ふかしのこぶし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "无形拳",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

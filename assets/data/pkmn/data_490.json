@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "マナフィ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Manaphy",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "마나피",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "瑪納霏",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Manaphy",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Manaphy",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Manaphy",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Manaphy",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Manaphy",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マナフィ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "玛纳霏",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png"
+}

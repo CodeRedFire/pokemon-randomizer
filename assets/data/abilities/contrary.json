@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "あまのじゃく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "심술꾸러기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "唱反調",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Contestation",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Umkehrung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Respondón",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Inversione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Contrary",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "あまのじゃく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "唱反调",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "みずがため",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "꾸덕꾸덕굳기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "遇水凝固",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sable Humide",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Verklumpen",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hidrorrefuerzo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Idrorinforzo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Water Compaction",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "みずがため",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "遇水凝固",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

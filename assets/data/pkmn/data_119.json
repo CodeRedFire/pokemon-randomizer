@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "アズマオウ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Azumao",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "왕콘치",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "金魚王",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Poissoroy",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Golking",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Seaking",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Seaking",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Seaking",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アズマオウ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "金鱼王",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 92
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 68
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png"
+}

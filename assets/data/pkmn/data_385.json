@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ジラーチ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Jirachi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "지라치",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "基拉祈",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Jirachi",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Jirachi",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Jirachi",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Jirachi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Jirachi",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ジラーチ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "基拉祈",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png"
+}

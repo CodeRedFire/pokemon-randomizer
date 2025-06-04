@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ケンタロス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kentauros",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "켄타로스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "肯泰羅",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tauros",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tauros",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tauros",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tauros",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tauros",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ケンタロス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "肯泰罗",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 95
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 110
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png"
+}

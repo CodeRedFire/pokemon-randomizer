@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ウツボット",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Utsubot",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "우츠보트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大食花",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Empiflor",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sarzenia",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Victreebel",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Victreebel",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Victreebel",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ウツボット",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大食花",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 105
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 70
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png"
+}

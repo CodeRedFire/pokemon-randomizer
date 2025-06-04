@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "オリーヴァ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Oliva",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "올리르바",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "奧利瓦",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Arboliva",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Olithena",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Arboliva",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Arboliva",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Arboliva",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "オリーヴァ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "奥利瓦",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 78
+        },
+        {
+            "name": "attack",
+            "value": 69
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 125
+        },
+        {
+            "name": "special-defense",
+            "value": 109
+        },
+        {
+            "name": "speed",
+            "value": 39
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/930.png"
+}

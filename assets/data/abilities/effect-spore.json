@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ほうし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "포자",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "孢子",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pose Spore",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sporenwirt",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Efecto Espora",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spargispora",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Effect Spore",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ほうし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "孢子",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

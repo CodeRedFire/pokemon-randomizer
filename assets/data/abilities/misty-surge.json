@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ミストメイカー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "미스트메이커",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "薄霧製造者",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Créa-Brume",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Nebel-Erzeuger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Nebulogénesis",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Nebbiogenesi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Misty Surge",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ミストメイカー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "薄雾制造者",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

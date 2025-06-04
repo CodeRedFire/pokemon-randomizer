@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "おどりこ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "무희",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "舞者",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Danseuse",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tänzer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pareja de Baile",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sincrodanza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dancer",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "おどりこ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "舞者",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "うのミサイル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "그대로꿀꺽미사일",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "一口飛彈",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Dégobage",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Würggeschoss",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tragamisil",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Inghiottimissile",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gulp Missile",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "うのミサイル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "一口导弹",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

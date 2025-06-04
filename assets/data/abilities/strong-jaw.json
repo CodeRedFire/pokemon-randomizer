@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "がんじょうあご",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "옹골찬턱",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "強壯之顎",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Prognathe",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Titankiefer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mandíbula Fuerte",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ferromascella",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Strong Jaw",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "がんじょうあご",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "强壮之颚",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

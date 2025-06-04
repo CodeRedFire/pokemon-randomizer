@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "テレパシー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "텔레파시",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "心靈感應",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Télépathe",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Telepathie",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Telepatía",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Telepatia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Telepathy",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テレパシー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "心灵感应",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

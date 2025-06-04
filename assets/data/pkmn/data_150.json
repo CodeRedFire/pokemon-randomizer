@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ミュウツー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mewtwo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "뮤츠",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "超夢",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mewtwo",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mewtu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mewtwo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mewtwo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mewtwo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ミュウツー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "超梦",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 106
+        },
+        {
+            "name": "attack",
+            "value": 110
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 154
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 130
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
+}

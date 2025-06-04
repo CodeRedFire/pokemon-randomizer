@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "カルボウ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Carbou",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "카르본",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "炭小侍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Charbambin",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Knarbon",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Charcadet",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Charcadet",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Charcadet",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カルボウ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "炭小侍",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 35
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/935.png"
+}

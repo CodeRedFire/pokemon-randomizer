@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "トランジスタ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "트랜지스터",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "電晶體",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Transistor",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Transistor",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Transistor",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Transistor",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Transistor",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "トランジスタ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "电晶体",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

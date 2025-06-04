@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "マルマイン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Marumine",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "붐볼",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "頑皮雷彈",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Électrode",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Lektrobal",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Electrode",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Electrode",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Electrode",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マルマイン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "顽皮雷弹",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 150
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png"
+}

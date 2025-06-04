@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "くいしんぼう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "먹보",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "貪吃鬼",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Gloutonnerie",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Völlerei",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Gula",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Voracità",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gluttony",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "くいしんぼう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "贪吃鬼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

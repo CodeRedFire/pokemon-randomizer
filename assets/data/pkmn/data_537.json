@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ガマゲロゲ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Gamageroge",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "두빅굴",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蟾蜍王",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Crapustule",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Branawarz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Seismitoad",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Seismitoad",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Seismitoad",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ガマゲロゲ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蟾蜍王",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 105
+        },
+        {
+            "name": "attack",
+            "value": 95
+        },
+        {
+            "name": "defense",
+            "value": 75
+        },
+        {
+            "name": "special-attack",
+            "value": 85
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 74
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png"
+}

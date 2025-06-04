@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "レジロック",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Regirock",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "레지락",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雷吉洛克",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Regirock",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Regirock",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Regirock",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Regirock",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Regirock",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "レジロック",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "雷吉洛克",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 200
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png"
+}

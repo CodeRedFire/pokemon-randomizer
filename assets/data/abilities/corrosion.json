@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ふしょく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "부식",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "腐蝕",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Corrosion",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Korrosion",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Corrosión",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Corrosione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Corrosion",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ふしょく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "腐蚀",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

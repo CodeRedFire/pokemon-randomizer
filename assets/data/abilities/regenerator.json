@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "さいせいりょく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "재생력",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "再生力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Régé-Force",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Belebekraft",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Regeneración",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Rigenergia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Regenerator",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "さいせいりょく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "再生力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

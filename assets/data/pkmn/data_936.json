@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "グレンアルマ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Gurenarma",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "카디나르마",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "紅蓮鎧騎",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Carmadura",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Crimanzo",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Armarouge",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Armarouge",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Armarouge",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "グレンアルマ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "红莲铠骑",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 85
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 125
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 75
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/936.png"
+}

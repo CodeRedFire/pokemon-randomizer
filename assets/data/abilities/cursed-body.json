@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "のろわれボディ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "저주받은바디",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "詛咒之軀",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Corps Maudit",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tastfluch",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cuerpo Maldito",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Corpofunesto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cursed Body",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "のろわれボディ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "诅咒之躯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

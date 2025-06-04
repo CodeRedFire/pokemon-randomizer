@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "みつあつめ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "꿀모으기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "採蜜",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cherche Miel",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Honigmaul",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Recogemiel",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mielincetta",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Honey Gather",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "みつあつめ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "采蜜",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

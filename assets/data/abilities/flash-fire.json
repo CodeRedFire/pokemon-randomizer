@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "もらいび",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "타오르는불꽃",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "引火",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Torche",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Feuerfänger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Absorbe Fuego",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fuocardore",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Flash Fire",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "もらいび",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "引火",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

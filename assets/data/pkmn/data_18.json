@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ピジョット",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Pigeot",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "피죤투",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大比鳥",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Roucarnage",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tauboss",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pidgeot",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pidgeot",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pidgeot",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ピジョット",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大比鸟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 83
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 75
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 101
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+}

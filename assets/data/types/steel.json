@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "はがね",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "강철",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鋼",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Acier",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Stahl",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Acero",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Acciaio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Steel",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "はがね",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "钢",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/9.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "レディバ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Rediba",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "레디바",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "芭瓢蟲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Coxy",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Ledyba",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ledyba",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ledyba",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ledyba",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "レディバ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "芭瓢虫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 20
+        },
+        {
+            "name": "defense",
+            "value": 30
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 55
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png"
+}

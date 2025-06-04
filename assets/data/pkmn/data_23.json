@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "アーボ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Arbo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "아보",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "阿柏蛇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Abo",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rettan",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ekans",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ekans",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ekans",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アーボ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "阿柏蛇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 35
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 44
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 54
+        },
+        {
+            "name": "speed",
+            "value": 55
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ドデカバシ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dodekabashi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "왕큰부리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "銃嘴大鳥",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Bazoucan",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tukanon",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Toucannon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Toucannon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Toucannon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ドデカバシ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铳嘴大鸟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 75
+        },
+        {
+            "name": "special-attack",
+            "value": 75
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png"
+}

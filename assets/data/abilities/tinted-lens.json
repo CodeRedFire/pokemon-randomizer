@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "いろめがね",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "색안경",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "有色眼鏡",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lentiteintée",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Aufwertung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cromolente",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Lentifumé",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tinted Lens",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "いろめがね",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "有色眼镜",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

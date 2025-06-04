@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ディアルガ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dialga",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "디아루가",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "帝牙盧卡",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Dialga",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Dialga",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Dialga",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Dialga",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dialga",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ディアルガ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "帝牙卢卡",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "steel",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 120
+        },
+        {
+            "name": "special-attack",
+            "value": 150
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png"
+}

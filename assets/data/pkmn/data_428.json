@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ミミロップ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mimilop",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "이어롭",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "長耳兔",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lockpin",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schlapor",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Lopunny",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Lopunny",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Lopunny",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ミミロップ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "长耳兔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 76
+        },
+        {
+            "name": "defense",
+            "value": 84
+        },
+        {
+            "name": "special-attack",
+            "value": 54
+        },
+        {
+            "name": "special-defense",
+            "value": 96
+        },
+        {
+            "name": "speed",
+            "value": 105
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png"
+}

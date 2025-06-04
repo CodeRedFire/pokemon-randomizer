@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "あくしゅう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "악취",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "惡臭",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Puanteur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Duftnote",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hedor",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tanfo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Stench",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "あくしゅう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "恶臭",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "レックウザ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Rayquaza",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "레쿠쟈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "烈空坐",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Rayquaza",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rayquaza",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rayquaza",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Rayquaza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rayquaza",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "レックウザ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "烈空坐",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 105
+        },
+        {
+            "name": "attack",
+            "value": 150
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 150
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 95
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ヘドロえき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "해감액",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "污泥漿",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Suintement",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kloakensoße",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Lodo Líquido",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Melma",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Liquid Ooze",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヘドロえき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "污泥浆",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "とれないにおい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Odeur Tenace",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Duftschwade",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Olor Persistente",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Odore Tenace",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Lingering Aroma",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "とれないにおい",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

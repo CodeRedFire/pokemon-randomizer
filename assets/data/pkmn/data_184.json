@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "マリルリ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Marilli",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "마릴리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "瑪力露麗",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Azumarill",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Azumarill",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Azumarill",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Azumarill",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Azumarill",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マリルリ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "玛力露丽",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png"
+}

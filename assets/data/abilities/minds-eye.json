@@ -1,0 +1,59 @@
+{
+    "names": [
+        {
+            "name": "しんがん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "심안",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "心眼",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Œil Révélateur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Ojo Mental ",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Occhio Interiore ",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mind’s Eye",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "しんがん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "心眼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

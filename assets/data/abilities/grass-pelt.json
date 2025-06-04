@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "くさのけがわ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "풀모피",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "草之毛皮",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Toison Herbue",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pflanzenpelz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Manto Frondoso",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Peloderba",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Grass Pelt",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "くさのけがわ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "草之毛皮",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

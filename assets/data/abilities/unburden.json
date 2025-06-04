@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "かるわざ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "곡예",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "輕裝",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Délestage",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Entlastung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Liviano",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Agiltecnica",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Unburden",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かるわざ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "轻装",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

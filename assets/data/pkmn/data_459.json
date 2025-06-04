@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ユキカブリ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Yukikaburi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "눈쓰개",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雪笠怪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Blizzi",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Shnebedeck",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Snover",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Snover",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Snover",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ユキカブリ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "雪笠怪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 62
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 62
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png"
+}

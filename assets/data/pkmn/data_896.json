@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ブリザポス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Blizzapos",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "블리자포스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雪暴馬",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Blizzeval",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Polaross",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Glastrier",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Glastrier",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Glastrier",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ブリザポス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "雪暴马",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 145
+        },
+        {
+            "name": "defense",
+            "value": 130
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 110
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/896.png"
+}

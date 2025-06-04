@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "わざわいのたま",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Perles du Fléau",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Unheilsjuwelen",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Abalorio Debacle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Monile Nefasto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Beads of Ruin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "わざわいのたま",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

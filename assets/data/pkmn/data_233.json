@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ポリゴン２",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Porygon2",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "폴리곤2",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "多邊獸Ⅱ",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Porygon2",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Porygon2",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Porygon2",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Porygon2",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Porygon2",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ポリゴン２",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "多边兽２型",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 85
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 105
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png"
+}

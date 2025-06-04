@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "カプ・レヒレ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Rehire",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "카푸느지느",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "卡璞・鰭鰭",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tokopisco",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kapu-Kime",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tapu Fini",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tapu Fini",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tapu Fini",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カプ・レヒレ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "卡璞・鳍鳍",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 115
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 130
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png"
+}

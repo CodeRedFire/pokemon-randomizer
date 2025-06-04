@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "パワースポット",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "파워스폿",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "能量點",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cercle d’Énergie",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kraftquelle",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Fuente Energía",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fonte Energetica",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Power Spot",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "パワースポット",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "能量点",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

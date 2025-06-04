@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "リザードン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Lizardon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "리자몽",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "噴火龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Dracaufeu",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Glurak",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Charizard",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Charizard",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Charizard",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "リザードン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "喷火龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 78
+        },
+        {
+            "name": "attack",
+            "value": 84
+        },
+        {
+            "name": "defense",
+            "value": 78
+        },
+        {
+            "name": "special-attack",
+            "value": 109
+        },
+        {
+            "name": "special-defense",
+            "value": 85
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+}

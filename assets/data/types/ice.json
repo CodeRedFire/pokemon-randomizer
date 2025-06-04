@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "こおり",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "얼음",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "冰",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Glace",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Eis",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hielo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ghiaccio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ice",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "こおり",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "冰",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/15.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "テッシード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tesseed",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "철시드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "種子鐵球",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Grindur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kastadur",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ferroseed",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ferroseed",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ferroseed",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テッシード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "种子铁球",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 44
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 91
+        },
+        {
+            "name": "special-attack",
+            "value": 24
+        },
+        {
+            "name": "special-defense",
+            "value": 86
+        },
+        {
+            "name": "speed",
+            "value": 10
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/597.png"
+}

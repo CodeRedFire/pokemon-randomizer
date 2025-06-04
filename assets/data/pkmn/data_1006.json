@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "テツノブジン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tetsunobujin",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "무쇠무인",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鐵武者",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Garde-de-Fer",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Eisenkrieger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ferropaladín",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Eroeferreo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Iron Valiant",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テツノブジン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铁武者",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fairy",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 74
+        },
+        {
+            "name": "attack",
+            "value": 130
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 120
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 116
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1006.png"
+}

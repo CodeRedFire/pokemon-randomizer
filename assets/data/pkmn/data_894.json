@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "レジエレキ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Regieleki",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "레지에레키",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雷吉艾勒奇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Regieleki",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Regieleki",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Regieleki",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Regieleki",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Regieleki",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "レジエレキ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "雷吉艾勒奇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 200
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/894.png"
+}

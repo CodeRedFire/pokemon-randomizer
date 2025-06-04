@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "フレンドガード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "프렌드가드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "友情防守",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Garde-Ami",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Freundeshut",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Compiescolta",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Amicoscudo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Friend Guard",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フレンドガード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "友情防守",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

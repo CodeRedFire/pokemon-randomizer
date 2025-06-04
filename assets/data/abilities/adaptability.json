@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "てきおうりょく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "적응력",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "適應力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Adaptabilité",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Anpassung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Adaptable",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Adattabilità",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Adaptability",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "てきおうりょく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "适应力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ゴース",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Ghos",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "고오스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鬼斯",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Fantominus",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Nebulak",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Gastly",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Gastly",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gastly",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゴース",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "鬼斯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 30
+        },
+        {
+            "name": "attack",
+            "value": 35
+        },
+        {
+            "name": "defense",
+            "value": 30
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 35
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png"
+}

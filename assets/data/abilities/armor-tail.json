@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "テイルアーマー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Armure Caudale",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schweifrüstung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cola Armadura",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Codarmatura",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Armor Tail",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テイルアーマー",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

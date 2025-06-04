@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "フシギバナ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Fushigibana",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "이상해꽃",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "妙蛙花",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Florizarre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Bisaflor",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Venusaur",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Venusaur",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Venusaur",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フシギバナ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "妙蛙花",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 82
+        },
+        {
+            "name": "defense",
+            "value": 83
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+}

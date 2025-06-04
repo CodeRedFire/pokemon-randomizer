@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "メガランチャー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "메가런처",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "超級發射器",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Méga Blaster",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Megawumme",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Megadisparador",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Megalancio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mega Launcher",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "メガランチャー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "超级发射器",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

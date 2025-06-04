@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "コジオ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kojio",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "베베솔트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鹽石寶",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Selutin",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Geosali",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Nacli",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Nacli",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Nacli",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "コジオ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "盐石宝",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 55
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 75
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 35
+        },
+        {
+            "name": "speed",
+            "value": 25
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/932.png"
+}

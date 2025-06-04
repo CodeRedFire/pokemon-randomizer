@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "すてみ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "이판사판",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "捨身",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Téméraire",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Achtlos",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Audaz",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Temerarietà",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Reckless",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "すてみ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "舍身",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

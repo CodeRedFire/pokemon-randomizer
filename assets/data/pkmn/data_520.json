@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ハトーボー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Hatoboh",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "유토브",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "咕咕鴿",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Colombeau",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Navitaub",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tranquill",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tranquill",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tranquill",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ハトーボー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "咕咕鸽",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 62
+        },
+        {
+            "name": "attack",
+            "value": 77
+        },
+        {
+            "name": "defense",
+            "value": 62
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 42
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/520.png"
+}

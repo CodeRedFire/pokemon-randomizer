@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "あく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "악",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "惡",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ténèbres",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Unlicht",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Siniestro",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Buio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dark",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "あく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "恶",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/17.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "キリキザン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kirikizan",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "절각참",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "劈斬司令",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Scalproie",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Caesurio",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Bisharp",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Bisharp",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Bisharp",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "キリキザン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "劈斩司令",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 125
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 70
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/625.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "カプ・コケコ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kokeko",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "카푸꼬꼬꼭",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "卡璞・鳴鳴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tokorico",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kapu-Riki",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tapu Koko",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tapu Koko",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tapu Koko",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カプ・コケコ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "卡璞・鸣鸣",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 115
+        },
+        {
+            "name": "defense",
+            "value": 85
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 130
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png"
+}

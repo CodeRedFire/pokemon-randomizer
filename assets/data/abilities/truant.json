@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "なまけ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "게으름",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "懶惰",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Absentéisme",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schnarchnase",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ausente",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pigrone",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Truant",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "なまけ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "懒惰",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ライトメタル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "라이트메탈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "輕金屬",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Light Metal",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Leichtmetall",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Metal Liviano",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Metalleggero",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Light Metal",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ライトメタル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "轻金属",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

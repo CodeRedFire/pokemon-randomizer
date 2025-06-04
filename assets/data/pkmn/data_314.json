@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "イルミーゼ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Illumise",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "네오비트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "甜甜螢",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lumivole",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Illumise",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Illumise",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Illumise",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Illumise",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "イルミーゼ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "甜甜萤",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 47
+        },
+        {
+            "name": "defense",
+            "value": 75
+        },
+        {
+            "name": "special-attack",
+            "value": 73
+        },
+        {
+            "name": "special-defense",
+            "value": 85
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png"
+}

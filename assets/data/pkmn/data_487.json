@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ギラティナ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Giratina",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "기라티나",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "騎拉帝納",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Giratina",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Giratina",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Giratina",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Giratina",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Giratina",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ギラティナ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "骑拉帝纳",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 150
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 120
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 120
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png"
+}

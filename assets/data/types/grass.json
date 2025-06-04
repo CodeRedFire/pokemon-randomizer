@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "くさ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "풀",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "草",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Plante",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pflanze",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Planta",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Erba",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Grass",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "くさ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "草",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/12.png"
+}

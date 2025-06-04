@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ドードー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dodo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "두두",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "嘟嘟",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Doduo",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Dodu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Doduo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Doduo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Doduo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ドードー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "嘟嘟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 35
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 35
+        },
+        {
+            "name": "speed",
+            "value": 75
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png"
+}

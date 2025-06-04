@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "マイティチェンジ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Supermutation",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Superwechsel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cambio Heroico",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Supercambio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Zero to Hero",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マイティチェンジ",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

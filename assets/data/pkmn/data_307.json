@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "アサナン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Asanan",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "요가랑",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "瑪沙那",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Méditikka",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Meditie",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Meditite",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Meditite",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Meditite",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アサナン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "玛沙那",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting",
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 30
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 55
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png"
+}

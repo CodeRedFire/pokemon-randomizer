@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ひとでなし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "무도한행동",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "不仁不義",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cruauté",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Quälerei",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ensañamiento",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spietatezza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Merciless",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ひとでなし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "不仁不义",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

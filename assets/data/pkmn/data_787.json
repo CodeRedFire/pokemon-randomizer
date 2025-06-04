@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "カプ・ブルル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Bulul",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "카푸브루루",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "卡璞・哞哞",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tokotoro",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kapu-Toro",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tapu Bulu",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tapu Bulu",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tapu Bulu",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カプ・ブルル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "卡璞・哞哞",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 130
+        },
+        {
+            "name": "defense",
+            "value": 115
+        },
+        {
+            "name": "special-attack",
+            "value": 85
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 75
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png"
+}

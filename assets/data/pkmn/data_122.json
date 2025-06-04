@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "バリヤード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Barrierd",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "마임맨",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "魔牆人偶",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "M. Mime",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pantimos",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mr. Mime",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mr. Mime",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mr. Mime",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バリヤード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "魔墙人偶",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 45
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 120
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png"
+}

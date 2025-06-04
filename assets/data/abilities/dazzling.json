@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ビビッドボディ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "비비드바디",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鮮艷之軀",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Corps Coloré",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Buntkörper",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cuerpo Vívido",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Corposgargiante",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dazzling",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ビビッドボディ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "鲜艳之躯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

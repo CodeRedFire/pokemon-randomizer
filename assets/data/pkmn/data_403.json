@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "コリンク",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kolink",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "꼬링크",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "小貓怪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lixy",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sheinux",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Shinx",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Shinx",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Shinx",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "コリンク",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "小猫怪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 34
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 34
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png"
+}

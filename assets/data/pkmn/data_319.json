@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "サメハダー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Samehader",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "샤크니아",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "巨牙鯊",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sharpedo",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tohaido",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sharpedo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sharpedo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sharpedo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "サメハダー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "巨牙鲨",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "dark"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 95
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png"
+}

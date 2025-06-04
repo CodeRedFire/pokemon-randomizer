@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ふとうのけん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "불요의검",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "不撓之劍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lame Indomptable",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kühnes Schwert",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Espada Indómita",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spada Indomita",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Intrepid Sword",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ふとうのけん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "不挠之剑",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

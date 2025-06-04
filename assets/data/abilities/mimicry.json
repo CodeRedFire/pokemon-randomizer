@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ぎたい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "의태",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "擬態",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mimétisme",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mimese",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mimetismo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mimetismo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mimicry",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ぎたい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "拟态",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

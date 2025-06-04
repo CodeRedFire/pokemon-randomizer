@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ホルビー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Horubee",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "파르빗",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "掘掘兔",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sapereau",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Scoppel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Bunnelby",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Bunnelby",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Bunnelby",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ホルビー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "掘掘兔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 38
+        },
+        {
+            "name": "attack",
+            "value": 36
+        },
+        {
+            "name": "defense",
+            "value": 38
+        },
+        {
+            "name": "special-attack",
+            "value": 32
+        },
+        {
+            "name": "special-defense",
+            "value": 36
+        },
+        {
+            "name": "speed",
+            "value": 57
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png"
+}

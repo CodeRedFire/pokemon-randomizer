@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ダルマモード",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "달마모드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "達摩模式",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mode Transe",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Trance-Modus",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Modo Daruma",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Stato Zen",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Zen Mode",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ダルマモード",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "达摩模式",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

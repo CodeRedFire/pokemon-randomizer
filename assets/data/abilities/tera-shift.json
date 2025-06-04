@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "テラスチェンジ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "테라체인지",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "太晶變形",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Téramorphose",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tera-Wandel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Teracambio",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Teramorfosi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tera Shift",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テラスチェンジ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "太晶变形",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

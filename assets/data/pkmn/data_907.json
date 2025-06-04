@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ニャローテ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nyarote",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "나로테",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蒂蕾喵",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Matourgeon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Feliospa",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Floragato",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Floragato",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Floragato",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ニャローテ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蒂蕾喵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 61
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 63
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 63
+        },
+        {
+            "name": "speed",
+            "value": 83
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/907.png"
+}

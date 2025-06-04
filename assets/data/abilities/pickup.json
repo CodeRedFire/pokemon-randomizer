@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ものひろい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "픽업",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "撿拾",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ramassage",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mitnahme",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Recogida",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Raccolta",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pickup",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ものひろい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "捡拾",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

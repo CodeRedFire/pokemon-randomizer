@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "スロースタート",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "슬로스타트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "慢啟動",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Début Calme",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Saumselig",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Inicio Lento",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Lentoinizio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Slow Start",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "スロースタート",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "慢启动",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "バチンキー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Bachinkey",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "채키몽",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "啪咚猴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Badabouin",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Chimstix",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Thwackey",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Thwackey",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Thwackey",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バチンキー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "啪咚猴",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/811.png"
+}

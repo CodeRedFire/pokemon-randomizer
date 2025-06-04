@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "たいねつ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "내열",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "耐熱",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ignifugé",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hitzeschutz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ignífugo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Antifuoco",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Heatproof",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "たいねつ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "耐热",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

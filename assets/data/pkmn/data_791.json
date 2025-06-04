@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ソルガレオ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Solgaleo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "솔가레오",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "索爾迦雷歐",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Solgaleo",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Solgaleo",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Solgaleo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Solgaleo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Solgaleo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ソルガレオ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "索尔迦雷欧",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 137
+        },
+        {
+            "name": "attack",
+            "value": 137
+        },
+        {
+            "name": "defense",
+            "value": 107
+        },
+        {
+            "name": "special-attack",
+            "value": 113
+        },
+        {
+            "name": "special-defense",
+            "value": 89
+        },
+        {
+            "name": "speed",
+            "value": 97
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/791.png"
+}

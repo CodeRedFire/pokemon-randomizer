@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ぼうだん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "방탄",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "防彈",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pare-Balles",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kugelsicher",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Antibalas",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Antiproiettile",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Bulletproof",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ぼうだん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "防弹",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

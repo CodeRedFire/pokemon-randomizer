@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "キノココ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kinococo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "버섯꼬",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蘑蘑菇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Balignon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Knilz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Shroomish",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Shroomish",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Shroomish",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "キノココ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蘑蘑菇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 35
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png"
+}

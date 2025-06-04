@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ダゲキ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dageki",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "타격귀",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "打擊鬼",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Karaclée",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Karadonis",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sawk",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sawk",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sawk",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ダゲキ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "打击鬼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 125
+        },
+        {
+            "name": "defense",
+            "value": 75
+        },
+        {
+            "name": "special-attack",
+            "value": 30
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png"
+}

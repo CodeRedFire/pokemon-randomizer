@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "アロマベール",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "아로마베일",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "芳香幕",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Aroma-Voile",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Dufthülle",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Velo Aroma",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Aromavelo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Aroma Veil",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アロマベール",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "芳香幕",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "シャンデラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Chandela",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "샹델라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "水晶燈火靈",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lugulabre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Skelabra",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Chandelure",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Chandelure",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Chandelure",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シャンデラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "水晶灯火灵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost",
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 145
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png"
+}

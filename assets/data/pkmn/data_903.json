@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "オオニューラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Oonyura",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "포푸니크",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "大狃拉",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Farfurex",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Snieboss",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sneasler",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sneasler",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sneasler",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "オオニューラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "大狃拉",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 130
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 120
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/903.png"
+}

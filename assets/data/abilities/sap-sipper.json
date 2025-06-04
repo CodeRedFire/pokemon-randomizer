@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "そうしょく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "초식",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "食草",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Herbivore",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Vegetarier",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Herbívoro",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mangiaerba",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sap Sipper",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "そうしょく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "食草",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

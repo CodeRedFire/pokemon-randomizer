@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "초라기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "チョンチー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Chonchie",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "燈籠魚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Loupio",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Lampi",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Chinchou",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Chinchou",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Chinchou",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "チョンチー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "灯笼鱼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 38
+        },
+        {
+            "name": "defense",
+            "value": 38
+        },
+        {
+            "name": "special-attack",
+            "value": 56
+        },
+        {
+            "name": "special-defense",
+            "value": 56
+        },
+        {
+            "name": "speed",
+            "value": 67
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png"
+}

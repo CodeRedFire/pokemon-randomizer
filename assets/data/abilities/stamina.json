@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "じきゅうりょく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "지구력",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "持久力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Endurance",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zähigkeit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Firmeza",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sopportazione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Stamina",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "じきゅうりょく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "持久力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

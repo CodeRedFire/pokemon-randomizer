@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "クリアボディ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "클리어바디",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "恆淨之軀",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Corps Sain",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Neutraltorso",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cuerpo Puro",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Corpochiaro",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Clear Body",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "クリアボディ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "恒净之躯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,95 @@
+{
+    "names": [
+        {
+            "name": "ウガツホムラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "꿰뚫는화염",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "破空焰",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Feu-Perçant",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Keilflamme",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Flamariete",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Vampeaguzze",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gouging Fire",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ウガツホムラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "破空焰",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 105
+        },
+        {
+            "name": "attack",
+            "value": 115
+        },
+        {
+            "name": "defense",
+            "value": 121
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 93
+        },
+        {
+            "name": "speed",
+            "value": 91
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1020.png"
+}

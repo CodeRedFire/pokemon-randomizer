@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "すなおこし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "모래날림",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "揚沙",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sable Volant",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sandsturm",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Chorro Arena",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sabbiafiume",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sand Stream",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "すなおこし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "扬沙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "にげあし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "도주",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "逃跑",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Fuite",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Angsthase",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Fuga",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fugafacile",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Run Away",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "にげあし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "逃跑",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

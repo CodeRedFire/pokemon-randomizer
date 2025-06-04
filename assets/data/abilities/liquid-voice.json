@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "うるおいボイス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "촉촉보이스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "濕潤之聲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Hydrata-Son",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Plätscherstimme",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Voz Fluida",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Idrovoce",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Liquid Voice",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "うるおいボイス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "湿润之声",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

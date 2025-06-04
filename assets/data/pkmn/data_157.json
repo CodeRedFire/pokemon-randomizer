@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "バクフーン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Bakphoon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "블레이범",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "火爆獸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Typhlosion",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tornupto",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Typhlosion",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Typhlosion",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Typhlosion",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バクフーン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "火暴兽",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 78
+        },
+        {
+            "name": "attack",
+            "value": 84
+        },
+        {
+            "name": "defense",
+            "value": 78
+        },
+        {
+            "name": "special-attack",
+            "value": 109
+        },
+        {
+            "name": "special-defense",
+            "value": 85
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png"
+}

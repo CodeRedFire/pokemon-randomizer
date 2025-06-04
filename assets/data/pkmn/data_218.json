@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "マグマッグ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Magmag",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "마그마그",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "熔岩蟲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Limagma",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schneckmag",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Slugma",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Slugma",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Slugma",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マグマッグ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "熔岩虫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 20
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png"
+}

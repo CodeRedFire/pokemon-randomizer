@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "イダイナキバ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Idainakiba",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "위대한엄니",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雄偉牙",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Fort-Ivoire",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Riesenzahn",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Colmilargo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Grandizanne",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Great Tusk",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "イダイナキバ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "雄伟牙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 115
+        },
+        {
+            "name": "attack",
+            "value": 131
+        },
+        {
+            "name": "defense",
+            "value": 131
+        },
+        {
+            "name": "special-attack",
+            "value": 53
+        },
+        {
+            "name": "special-defense",
+            "value": 53
+        },
+        {
+            "name": "speed",
+            "value": 87
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/984.png"
+}

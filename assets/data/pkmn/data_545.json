@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ペンドラー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Pendror",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "펜드라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蜈蚣王",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Brutapode",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Cerapendra",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Scolipede",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Scolipede",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Scolipede",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ペンドラー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蜈蚣王",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 89
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 69
+        },
+        {
+            "name": "speed",
+            "value": 112
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png"
+}

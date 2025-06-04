@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "びびり",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "주눅",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "膽怯",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Phobique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hasenfuß",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cobardía",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Paura",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rattled",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "びびり",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "胆怯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

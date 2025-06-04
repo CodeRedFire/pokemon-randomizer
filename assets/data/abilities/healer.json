@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "いやしのこころ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "치유의마음",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "治癒之心",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cœur Soin",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Heilherz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Alma Cura",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Curacuore",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Healer",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "いやしのこころ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "治愈之心",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

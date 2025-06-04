@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "モンジャラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Monjara",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "덩쿠리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蔓藤怪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Saquedeneu",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Tangela",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tangela",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tangela",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tangela",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "モンジャラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蔓藤怪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 115
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png"
+}

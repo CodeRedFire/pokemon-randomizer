@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "バオップ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Baoppu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "바오프",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "爆香猴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Flamajou",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Grillmak",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pansear",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pansear",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pansear",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バオップ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "爆香猴",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 53
+        },
+        {
+            "name": "defense",
+            "value": 48
+        },
+        {
+            "name": "special-attack",
+            "value": 53
+        },
+        {
+            "name": "special-defense",
+            "value": 48
+        },
+        {
+            "name": "speed",
+            "value": 64
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png"
+}

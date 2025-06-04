@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "シビルドン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Shibirudon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "저리더프",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "麻麻鰻魚王",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ohmassacre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zapplarang",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Eelektross",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Eelektross",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Eelektross",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シビルドン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "麻麻鳗鱼王",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 85
+        },
+        {
+            "name": "attack",
+            "value": 115
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 105
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png"
+}

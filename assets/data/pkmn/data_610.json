@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "キバゴ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kibago",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "터검니",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "牙牙",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Coupenotte",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Milza",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Axew",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Axew",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Axew",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "キバゴ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "牙牙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 46
+        },
+        {
+            "name": "attack",
+            "value": 87
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 30
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 57
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png"
+}

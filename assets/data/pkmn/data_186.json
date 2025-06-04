@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ニョロトノ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nyorotono",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "왕구리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蚊香蛙皇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tarpaud",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Quaxo",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Politoed",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Politoed",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Politoed",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ニョロトノ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蚊香蛙皇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 90
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 75
+        },
+        {
+            "name": "special-attack",
+            "value": 90
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 70
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png"
+}

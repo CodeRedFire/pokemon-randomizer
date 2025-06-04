@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "アバゴーラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Abagoura",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "늑골라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "肋骨海龜",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mégapagos",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Karippas",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Carracosta",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Carracosta",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Carracosta",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アバゴーラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "肋骨海龟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 74
+        },
+        {
+            "name": "attack",
+            "value": 108
+        },
+        {
+            "name": "defense",
+            "value": 133
+        },
+        {
+            "name": "special-attack",
+            "value": 83
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 32
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png"
+}

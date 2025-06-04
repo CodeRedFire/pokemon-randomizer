@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "すなかき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "모래헤치기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "撥沙",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Baigne Sable",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sandscharrer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ímpetu Arena",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Remasabbia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sand Rush",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "すなかき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "拨沙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

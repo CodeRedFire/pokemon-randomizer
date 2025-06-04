@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "フィルター",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "필터",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "過濾",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Filtre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Filter",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Filtro",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Filtro",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Filter",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フィルター",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "过滤",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

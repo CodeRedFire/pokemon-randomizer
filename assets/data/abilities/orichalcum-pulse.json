@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "ひひいろのこどう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Pouls Orichalque",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Orichalkum-Puls",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Latido Oricalco",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ritmo d’Oricalco",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Orichalcum Pulse",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ひひいろのこどう",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

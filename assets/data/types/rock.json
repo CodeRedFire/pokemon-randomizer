@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "いわ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "바위",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "岩石",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Roche",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Gestein",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Roca",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Roccia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rock",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "いわ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "岩石",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/6.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "はりきり",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "의욕",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "活力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Agitation",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Übereifer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Entusiasmo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tuttafretta",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Hustle",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "はりきり",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "活力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

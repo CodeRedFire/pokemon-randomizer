@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ナゾノクサ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nazonokusa",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "뚜벅쵸",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "走路草",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mystherbe",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Myrapla",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Oddish",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Oddish",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Oddish",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ナゾノクサ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "走路草",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 55
+        },
+        {
+            "name": "special-attack",
+            "value": 75
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
+}

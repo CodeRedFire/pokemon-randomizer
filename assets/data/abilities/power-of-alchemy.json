@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "かがくのちから",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "과학의힘",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "化學之力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Osmose",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Chemiekraft",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Reacción Química",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Forza Chimica",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Power of Alchemy",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かがくのちから",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "化学之力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

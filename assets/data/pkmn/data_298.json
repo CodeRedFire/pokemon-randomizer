@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ルリリ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Ruriri",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "루리리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "露力麗",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Azurill",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Azurill",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Azurill",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Azurill",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Azurill",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ルリリ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "露力丽",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 20
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 20
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 20
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png"
+}

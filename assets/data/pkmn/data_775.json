@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ネッコアラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nekkoara",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "자말라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "樹枕尾熊",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Dodoala",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Koalelu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Komala",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Komala",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Komala",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ネッコアラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "树枕尾熊",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 115
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 75
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/775.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "モトトカゲ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mototokage",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "모토마",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "摩托蜥",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Motorizard",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mopex",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cyclizar",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cyclizar",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cyclizar",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "モトトカゲ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "摩托蜥",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon",
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 95
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 85
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 121
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/967.png"
+}

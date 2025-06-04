@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ガチゴラス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Gachigoras",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "견고라스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "怪顎龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Rexillius",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Monargoras",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tyrantrum",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tyrantrum",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tyrantrum",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ガチゴラス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "怪颚龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 82
+        },
+        {
+            "name": "attack",
+            "value": 121
+        },
+        {
+            "name": "defense",
+            "value": 119
+        },
+        {
+            "name": "special-attack",
+            "value": 69
+        },
+        {
+            "name": "special-defense",
+            "value": 59
+        },
+        {
+            "name": "speed",
+            "value": 71
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/697.png"
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "シビシラス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Shibishirasu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "저리어",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "麻麻小魚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Anchwatt",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zapplardin",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tynamo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tynamo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tynamo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シビシラス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "麻麻小鱼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 35
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/602.png"
+}

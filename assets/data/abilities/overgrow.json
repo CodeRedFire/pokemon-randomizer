@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "しんりょく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "심록",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "茂盛",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Engrais",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Notdünger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Espesura",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Erbaiuto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Overgrow",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "しんりょく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "茂盛",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

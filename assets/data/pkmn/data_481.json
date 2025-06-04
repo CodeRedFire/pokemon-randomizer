@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "エムリット",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Emrit",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "엠라이트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "艾姆利多",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Créfollet",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Vesprit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mesprit",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mesprit",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mesprit",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エムリット",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "艾姆利多",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 105
+        },
+        {
+            "name": "defense",
+            "value": 105
+        },
+        {
+            "name": "special-attack",
+            "value": 105
+        },
+        {
+            "name": "special-defense",
+            "value": 105
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png"
+}

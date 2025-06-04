@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "カーリーヘアー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "컬리헤어",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "捲髮",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mèche Rebelle",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Lockenkopf",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rizos Rebeldes",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Boccolidoro",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tangling Hair",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カーリーヘアー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "卷发",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

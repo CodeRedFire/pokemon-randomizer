@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ニャルマー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nyarmar",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "나옹마",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "魅力喵",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chaglam",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Charmian",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Glameow",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Glameow",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Glameow",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ニャルマー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "魅力喵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 49
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 42
+        },
+        {
+            "name": "special-attack",
+            "value": 42
+        },
+        {
+            "name": "special-defense",
+            "value": 37
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png"
+}

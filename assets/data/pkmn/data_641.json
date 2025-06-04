@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "トルネロス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Tornelos",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "토네로스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "龍捲雲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Boréas",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Boreos",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tornadus",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tornadus",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tornadus",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "トルネロス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "龙卷云",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 79
+        },
+        {
+            "name": "attack",
+            "value": 115
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 125
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 111
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png"
+}

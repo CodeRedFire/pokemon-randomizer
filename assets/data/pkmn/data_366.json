@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "パールル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Pearlulu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "진주몽",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "珍珠貝",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Coquiperl",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Perlu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Clamperl",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Clamperl",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Clamperl",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "パールル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "珍珠贝",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 35
+        },
+        {
+            "name": "attack",
+            "value": 64
+        },
+        {
+            "name": "defense",
+            "value": 85
+        },
+        {
+            "name": "special-attack",
+            "value": 74
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 32
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png"
+}

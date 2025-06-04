@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ひでり",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "가뭄",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "日照",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sécheresse",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Dürre",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sequía",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Siccità",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Drought",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ひでり",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "日照",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

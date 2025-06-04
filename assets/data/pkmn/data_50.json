@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ディグダ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Digda",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "디그다",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "地鼠",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Taupiqueur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Digda",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Diglett",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Diglett",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Diglett",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ディグダ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "地鼠",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 10
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 25
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 95
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
+}

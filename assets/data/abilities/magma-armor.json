@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "マグマのよろい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "마그마의무장",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "熔岩鎧甲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Armumagma",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Magmapanzer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Escudo Magma",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Magmascudo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Magma Armor",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マグマのよろい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "熔岩铠甲",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

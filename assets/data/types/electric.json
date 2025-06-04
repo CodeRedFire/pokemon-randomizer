@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "でんき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "전기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "電",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Électrik",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Elektro",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Eléctrico",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Elettro",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Electric",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "でんき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "电",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/13.png"
+}

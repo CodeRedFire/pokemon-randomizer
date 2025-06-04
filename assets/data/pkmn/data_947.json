@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "アノホラグサ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Anohoragusa",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "공푸리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "怖納噬草",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Virevorreur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Horrerba",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Brambleghast",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Brambleghast",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Brambleghast",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アノホラグサ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "怖纳噬草",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 55
+        },
+        {
+            "name": "attack",
+            "value": 115
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/947.png"
+}

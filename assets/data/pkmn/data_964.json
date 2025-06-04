@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "イルカマン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Irukaman",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "돌핀맨",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "海豚俠",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Superdofin",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Delfinator",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Palafin",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Palafin",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Palafin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "イルカマン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "海豚侠",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 70
+        },
+        {
+            "name": "defense",
+            "value": 72
+        },
+        {
+            "name": "special-attack",
+            "value": 53
+        },
+        {
+            "name": "special-defense",
+            "value": 62
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/964.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "セビエ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Sebie",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "드니차",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "涼脊龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Frigodo",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Frospino",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Frigibax",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Frigibax",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Frigibax",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "セビエ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "凉脊龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon",
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 55
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/996.png"
+}

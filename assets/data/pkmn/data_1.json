@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "フシギダネ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Fushigidane",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "이상해씨",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "妙蛙種子",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Bulbizarre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Bisasam",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Bulbasaur",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Bulbasaur",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Bulbasaur",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フシギダネ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "妙蛙种子",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 49
+        },
+        {
+            "name": "defense",
+            "value": 49
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+}

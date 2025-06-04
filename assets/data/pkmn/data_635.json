@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "サザンドラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Sazandora",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "삼삼드래",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "三首惡龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Trioxhydre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Trikephalo",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hydreigon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Hydreigon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Hydreigon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "サザンドラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "三首恶龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 92
+        },
+        {
+            "name": "attack",
+            "value": 105
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 125
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 98
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png"
+}

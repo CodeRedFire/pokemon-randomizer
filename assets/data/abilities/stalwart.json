@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "すじがねいり",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "굳건한신념",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "堅毅",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Nerfs d’Acier",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Stahlrückgrat",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Acérrimo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Volontà di Ferro",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Stalwart",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "すじがねいり",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "坚毅",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

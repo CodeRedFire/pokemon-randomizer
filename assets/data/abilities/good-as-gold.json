@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "おうごんのからだ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Corps en Or",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Goldkörper",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cuerpo Áureo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Corpo Aureo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Good as Gold",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "おうごんのからだ",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

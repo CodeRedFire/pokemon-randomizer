@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ようりょくそ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "엽록소",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "葉綠素",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chlorophylle",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Chlorophyll",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Clorofila",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Clorofilla",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Chlorophyll",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ようりょくそ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "叶绿素",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

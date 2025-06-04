@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ウネルミナモ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Uneruminamo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "굽이치는물결",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "波盪水",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Serpente-Eau",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Windewoge",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ondulagua",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Acquecrespe",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Walking Wake",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ウネルミナモ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "波荡水",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 99
+        },
+        {
+            "name": "attack",
+            "value": 83
+        },
+        {
+            "name": "defense",
+            "value": 91
+        },
+        {
+            "name": "special-attack",
+            "value": 125
+        },
+        {
+            "name": "special-defense",
+            "value": 83
+        },
+        {
+            "name": "speed",
+            "value": 109
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1009.png"
+}

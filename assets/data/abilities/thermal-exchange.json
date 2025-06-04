@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "ねつこうかん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Thermodynamique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Thermowandel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Termoscambio",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Termoscambio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Thermal Exchange",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ねつこうかん",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

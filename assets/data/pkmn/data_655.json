@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "マフォクシー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mahoxy",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "마폭시",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "妖火紅狐",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Goupelin",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Fennexis",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Delphox",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Delphox",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Delphox",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マフォクシー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "妖火红狐",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 69
+        },
+        {
+            "name": "defense",
+            "value": 72
+        },
+        {
+            "name": "special-attack",
+            "value": 114
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 104
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png"
+}

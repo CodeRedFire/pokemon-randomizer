@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "シシコ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Shishiko",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "레오꼬",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "小獅獅",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Hélionceau",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Leufeo",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Litleo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Litleo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Litleo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シシコ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "小狮狮",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 62
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 58
+        },
+        {
+            "name": "special-attack",
+            "value": 73
+        },
+        {
+            "name": "special-defense",
+            "value": 54
+        },
+        {
+            "name": "speed",
+            "value": 72
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/667.png"
+}

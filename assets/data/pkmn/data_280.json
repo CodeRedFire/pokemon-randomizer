@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ラルトス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Ralts",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "랄토스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "拉魯拉絲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tarsal",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Trasla",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ralts",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ralts",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ralts",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ラルトス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "拉鲁拉丝",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 28
+        },
+        {
+            "name": "attack",
+            "value": 25
+        },
+        {
+            "name": "defense",
+            "value": 25
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 35
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png"
+}

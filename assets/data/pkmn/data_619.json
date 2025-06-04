@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "コジョフー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kojofu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "비조푸",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "功夫鼬",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Kungfouine",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Lin-Fu",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mienfoo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mienfoo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mienfoo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "コジョフー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "功夫鼬",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png"
+}

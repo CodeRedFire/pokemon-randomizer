@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ギルガルド",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Gillgard",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "킬가르도",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "堅盾劍怪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Exagide",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Durengard",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Aegislash",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Aegislash",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Aegislash",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ギルガルド",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "坚盾剑怪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "steel",
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 140
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 140
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png"
+}

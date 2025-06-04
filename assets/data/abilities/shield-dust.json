@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "りんぷん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "인분",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鱗粉",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Écran Poudre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Puderabwehr",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Polvo Escudo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Polvoscudo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Shield Dust",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "りんぷん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "鳞粉",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ほのおのからだ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "불꽃몸",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "火焰之軀",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Corps Ardent",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Flammkörper",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cuerpo Llama",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Corpodifuoco",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Flame Body",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ほのおのからだ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "火焰之躯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

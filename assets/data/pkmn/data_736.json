@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "アゴジムシ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Agojimushi",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "턱지충이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "強顎雞母蟲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Larvibule",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mabula",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Grubbin",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Grubbin",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Grubbin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アゴジムシ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "强颚鸡母虫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 47
+        },
+        {
+            "name": "attack",
+            "value": 62
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 46
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/736.png"
+}

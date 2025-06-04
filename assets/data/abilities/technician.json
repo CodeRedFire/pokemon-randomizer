@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "テクニシャン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "테크니션",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "技術高手",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Technicien",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Techniker",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Experto",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tecnico",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Technician",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "テクニシャン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "技术高手",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

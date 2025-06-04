@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ノーマルスキン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "노말스킨",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "一般皮膚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Normalise",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Regulierung",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Normalidad",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Normalità",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Normalize",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ノーマルスキン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "一般皮肤",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

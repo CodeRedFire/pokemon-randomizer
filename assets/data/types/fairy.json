@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "フェアリー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "페어리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "妖精",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Fée",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Fee",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hada",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Folletto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Fairy",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フェアリー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "妖精",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/18.png"
+}

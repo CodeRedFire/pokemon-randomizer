@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ジヘッド",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dihead",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "디헤드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雙首暴龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Diamat",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Duodino",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Zweilous",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Zweilous",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Zweilous",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ジヘッド",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "双首暴龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 72
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 58
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png"
+}

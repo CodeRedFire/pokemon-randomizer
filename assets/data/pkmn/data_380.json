@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ラティアス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Latias",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "라티아스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "拉帝亞斯",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Latias",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Latias",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Latias",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Latias",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Latias",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ラティアス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "拉帝亚斯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon",
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 110
+        },
+        {
+            "name": "special-defense",
+            "value": 130
+        },
+        {
+            "name": "speed",
+            "value": 110
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png"
+}

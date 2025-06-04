@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "わるいてぐせ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "나쁜손버릇",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "順手牽羊",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pickpocket",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Langfinger",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hurto",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Arraffalesto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pickpocket",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "わるいてぐせ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "顺手牵羊",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

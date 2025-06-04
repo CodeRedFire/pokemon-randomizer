@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "オーラブレイク",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "오라브레이크",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "氣場破壞",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Aura Inversée",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Aura-Umkehr",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rompeaura",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Frangiaura",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Aura Break",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "オーラブレイク",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "气场破坏",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ゼロフォーミング",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "제로포밍",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "歸零化境",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Téraformation 0",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Teraforming Null",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Teraformación 0",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Zeroformazione",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Teraform Zero",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゼロフォーミング",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "归零化境",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

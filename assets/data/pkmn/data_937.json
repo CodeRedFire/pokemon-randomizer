@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ソウブレイズ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Soublades",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "파라블레이즈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蒼炎刃鬼",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Malvalame",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Azugladis",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ceruledge",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ceruledge",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ceruledge",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ソウブレイズ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "苍炎刃鬼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 125
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/937.png"
+}

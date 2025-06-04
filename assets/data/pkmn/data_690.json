@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "クズモー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kuzumo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "수레기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "垃垃藻",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Venalgue",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Algitt",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Skrelp",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Skrelp",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Skrelp",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "クズモー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "垃垃藻",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 60
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/690.png"
+}

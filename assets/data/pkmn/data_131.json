@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ラプラス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Laplace",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "라프라스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "拉普拉斯",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Lokhlass",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Lapras",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Lapras",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Lapras",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Lapras",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ラプラス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "拉普拉斯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 130
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 85
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png"
+}

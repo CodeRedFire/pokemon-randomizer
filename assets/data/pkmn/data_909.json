@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ホゲータ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Hogator",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "뜨아거",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "呆火鱷",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chochodile",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Krokel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Fuecoco",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fuecoco",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Fuecoco",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ホゲータ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "呆火鳄",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 67
+        },
+        {
+            "name": "attack",
+            "value": 45
+        },
+        {
+            "name": "defense",
+            "value": 59
+        },
+        {
+            "name": "special-attack",
+            "value": 63
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 36
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/909.png"
+}

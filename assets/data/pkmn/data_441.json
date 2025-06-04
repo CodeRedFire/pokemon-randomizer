@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ペラップ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Perap",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "페라페",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "聒噪鳥",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Pijako",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Plaudagei",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Chatot",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Chatot",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Chatot",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ペラップ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "聒噪鸟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 76
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 92
+        },
+        {
+            "name": "special-defense",
+            "value": 42
+        },
+        {
+            "name": "speed",
+            "value": 91
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "かそく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "가속",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "加速",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Turbo",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Temposchub",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Impulso",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Acceleratore",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Speed Boost",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かそく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "加速",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

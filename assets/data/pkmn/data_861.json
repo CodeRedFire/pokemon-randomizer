@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "オーロンゲ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Ohlonge",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "오롱털",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "長毛巨魔",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Angoliath",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Olangaar",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Grimmsnarl",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Grimmsnarl",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Grimmsnarl",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "オーロンゲ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "长毛巨魔",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 95
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/861.png"
+}

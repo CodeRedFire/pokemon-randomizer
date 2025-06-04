@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "サンダース",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Thunders",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "쥬피썬더",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雷伊布",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Voltali",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Blitza",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Jolteon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Jolteon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Jolteon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "サンダース",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "雷伊布",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 110
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 130
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png"
+}

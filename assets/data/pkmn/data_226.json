@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "マンタイン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mantain",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "만타인",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "巨翅飛魚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Démanta",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mantax",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mantine",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mantine",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mantine",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マンタイン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "巨翅飞鱼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 85
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 140
+        },
+        {
+            "name": "speed",
+            "value": 70
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png"
+}

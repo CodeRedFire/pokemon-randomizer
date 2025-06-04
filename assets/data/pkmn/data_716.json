@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ゼルネアス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Xerneas",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "제르네아스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "哲爾尼亞斯",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Xerneas",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Xerneas",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Xerneas",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Xerneas",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Xerneas",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゼルネアス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "哲尔尼亚斯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 126
+        },
+        {
+            "name": "attack",
+            "value": 131
+        },
+        {
+            "name": "defense",
+            "value": 95
+        },
+        {
+            "name": "special-attack",
+            "value": 131
+        },
+        {
+            "name": "special-defense",
+            "value": 98
+        },
+        {
+            "name": "speed",
+            "value": 99
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png"
+}

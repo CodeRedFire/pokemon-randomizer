@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ハリマロン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Harimaron",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "도치마론",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "哈力栗",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Marisson",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Igamaro",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Chespin",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Chespin",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Chespin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ハリマロン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "哈力栗",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 56
+        },
+        {
+            "name": "attack",
+            "value": 61
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 48
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 38
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/650.png"
+}

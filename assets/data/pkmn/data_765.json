@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ヤレユータン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Yareyuutan",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "하랑우탄",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "智揮猩",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Gouroutan",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kommandutan",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Oranguru",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Oranguru",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Oranguru",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヤレユータン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "智挥猩",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal",
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 90
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 90
+        },
+        {
+            "name": "special-defense",
+            "value": 110
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/765.png"
+}

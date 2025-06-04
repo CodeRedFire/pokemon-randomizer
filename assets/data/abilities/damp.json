@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "しめりけ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "습기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "濕氣",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Moiteur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Feuchtigkeit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Humedad",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Umidità",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Damp",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "しめりけ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "湿气",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

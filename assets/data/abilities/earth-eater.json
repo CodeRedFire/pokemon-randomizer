@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "どしょく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Absorbe-Terre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Bodenschmaus",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Geofagia",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mangiaterra",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Earth Eater",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "どしょく",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

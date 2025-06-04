@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "レシラム",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Reshiram",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "레시라무",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "萊希拉姆",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Reshiram",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Reshiram",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Reshiram",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Reshiram",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Reshiram",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "レシラム",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "莱希拉姆",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon",
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 150
+        },
+        {
+            "name": "special-defense",
+            "value": 120
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png"
+}

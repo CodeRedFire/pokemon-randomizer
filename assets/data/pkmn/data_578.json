@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ダブラン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Doublan",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "듀란",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雙卵細胞球",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Méios",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mitodos",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Duosion",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Duosion",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Duosion",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ダブラン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "双卵细胞球",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 125
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png"
+}

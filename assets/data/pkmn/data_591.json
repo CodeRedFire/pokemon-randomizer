@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "モロバレル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Morobareru",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "뽀록나",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "敗露球菇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Gaulet",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hutsassa",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Amoonguss",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Amoonguss",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Amoonguss",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "モロバレル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "败露球菇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 114
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 85
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "サイドン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Sidon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "코뿌리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鑽角犀獸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Rhinoféros",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Rizeros",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rhydon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Rhydon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rhydon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "サイドン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "钻角犀兽",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground",
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 105
+        },
+        {
+            "name": "attack",
+            "value": 130
+        },
+        {
+            "name": "defense",
+            "value": 120
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 40
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png"
+}

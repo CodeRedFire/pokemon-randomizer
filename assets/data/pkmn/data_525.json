@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ガントル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Gantle",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "암트르",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "地幔岩",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Géolithe",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sedimantur",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Boldore",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Boldore",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Boldore",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ガントル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "地幔岩",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 105
+        },
+        {
+            "name": "defense",
+            "value": 105
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 20
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png"
+}

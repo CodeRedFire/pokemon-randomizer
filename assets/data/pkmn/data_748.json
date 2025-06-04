@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ドヒドイデ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dohidoide",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "더시마사리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "超壞星",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Prédastérie",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Aggrostella",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Toxapex",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Toxapex",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Toxapex",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ドヒドイデ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "超坏星",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 63
+        },
+        {
+            "name": "defense",
+            "value": 152
+        },
+        {
+            "name": "special-attack",
+            "value": 53
+        },
+        {
+            "name": "special-defense",
+            "value": 142
+        },
+        {
+            "name": "speed",
+            "value": 35
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png"
+}

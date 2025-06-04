@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "マジックミラー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "매직미러",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "魔法鏡",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Miroir Magik",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Magiespiegel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Espejo Mágico",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Magispecchio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Magic Bounce",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マジックミラー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "魔法镜",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

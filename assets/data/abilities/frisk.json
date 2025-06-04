@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "おみとおし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "통찰",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "察覺",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Fouille",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schnüffler",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cacheo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Indagine",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Frisk",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "おみとおし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "察觉",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

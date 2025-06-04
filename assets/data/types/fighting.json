@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "かくとう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "격투",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "格鬥",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Combat",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kampf",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Lucha",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Lotta",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Fighting",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かくとう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "格斗",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/2.png"
+}

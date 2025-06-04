@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ケッキング",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kekking",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "게을킹",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "請假王",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Monaflèmit",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Letarking",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Slaking",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Slaking",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Slaking",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ケッキング",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "请假王",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 150
+        },
+        {
+            "name": "attack",
+            "value": 160
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png"
+}

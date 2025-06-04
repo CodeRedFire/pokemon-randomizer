@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "フェアリーオーラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "페어리오라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "妖精氣場",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Aura Féérique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Feenaura",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Aura Feérica",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Aurafolletto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Fairy Aura",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フェアリーオーラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "妖精气场",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

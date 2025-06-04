@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ゾロアーク",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Zoroark",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "조로아크",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "索羅亞克",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Zoroark",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zoroark",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Zoroark",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Zoroark",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Zoroark",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゾロアーク",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "索罗亚克",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 105
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 120
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 105
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png"
+}

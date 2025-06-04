@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ゴーリキー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Goriky",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "근육몬",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "豪力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Machopeur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Maschock",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Machoke",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Machoke",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Machoke",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゴーリキー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "豪力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png"
+}

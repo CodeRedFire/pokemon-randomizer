@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "コオリッポ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Korippo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "빙큐보",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "冰砌鵝",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Bekaglaçon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kubuin",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Eiscue",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Eiscue",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Eiscue",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "コオリッポ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "冰砌鹅",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 110
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875.png"
+}

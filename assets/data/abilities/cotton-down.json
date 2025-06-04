@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "わたげ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "솜털",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "棉絮",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Effilochage",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wollflaum",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pelusa",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Lanugine",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cotton Down",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "わたげ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "棉絮",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

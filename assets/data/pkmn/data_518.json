@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ムシャーナ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Musharna",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "몽얌나",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "夢夢蝕",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mushana",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Somnivora",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Musharna",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Musharna",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Musharna",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ムシャーナ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "梦梦蚀",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 116
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 85
+        },
+        {
+            "name": "special-attack",
+            "value": 107
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 29
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png"
+}

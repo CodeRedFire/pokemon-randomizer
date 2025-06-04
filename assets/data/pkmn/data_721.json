@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ボルケニオン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Volcanion",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "볼케니온",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "波爾凱尼恩",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Volcanion",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Volcanion",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Volcanion",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Volcanion",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Volcanion",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ボルケニオン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "波尔凯尼恩",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 110
+        },
+        {
+            "name": "defense",
+            "value": 120
+        },
+        {
+            "name": "special-attack",
+            "value": 130
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 70
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png"
+}

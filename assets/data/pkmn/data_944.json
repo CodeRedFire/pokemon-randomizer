@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "シルシュルー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Shirushrew",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "땃쭈르",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "滋汁鼴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Gribouraigne",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sproxi",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Shroodle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Shroodle",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Shroodle",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "シルシュルー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "滋汁鼹",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 35
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 35
+        },
+        {
+            "name": "speed",
+            "value": 75
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/944.png"
+}

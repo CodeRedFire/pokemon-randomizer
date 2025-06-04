@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "いかく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "위협",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "威嚇",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Intimidation",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Bedroher",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Intimidación",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Prepotenza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Intimidate",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "いかく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "威吓",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

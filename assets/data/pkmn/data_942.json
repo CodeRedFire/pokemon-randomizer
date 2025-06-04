@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "オラチフ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Orachifu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "오라티프",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "偶叫獒",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Grondogue",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mobtiff",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Maschiff",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Maschiff",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Maschiff",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "オラチフ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "偶叫獒",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 78
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 51
+        },
+        {
+            "name": "speed",
+            "value": 51
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/942.png"
+}

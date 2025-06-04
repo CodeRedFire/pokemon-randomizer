@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "せいでんき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "정전기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "靜電",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Statik",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Statik",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Elec. Estática",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Statico",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Static",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "せいでんき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "静电",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

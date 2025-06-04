@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "サシカマス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Sasikamasu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "찌로꼬치",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "刺梭魚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Embrochet",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pikuda",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Arrokuda",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Arrokuda",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Arrokuda",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "サシカマス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "刺梭鱼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 41
+        },
+        {
+            "name": "attack",
+            "value": 63
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 30
+        },
+        {
+            "name": "speed",
+            "value": 66
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/846.png"
+}

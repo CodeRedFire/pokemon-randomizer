@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ベベノム",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Bevenom",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "베베놈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "毒貝比",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Vémini",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Venicro",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Poipole",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Poipole",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Poipole",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ベベノム",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "毒贝比",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 67
+        },
+        {
+            "name": "attack",
+            "value": 73
+        },
+        {
+            "name": "defense",
+            "value": 67
+        },
+        {
+            "name": "special-attack",
+            "value": 73
+        },
+        {
+            "name": "special-defense",
+            "value": 67
+        },
+        {
+            "name": "speed",
+            "value": 73
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/803.png"
+}

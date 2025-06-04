@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "チゴラス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Chigoras",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "티고라스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "寶寶暴龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ptyranidur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Balgoras",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tyrunt",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tyrunt",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tyrunt",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "チゴラス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "宝宝暴龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 58
+        },
+        {
+            "name": "attack",
+            "value": 89
+        },
+        {
+            "name": "defense",
+            "value": 77
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 45
+        },
+        {
+            "name": "speed",
+            "value": 48
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/696.png"
+}

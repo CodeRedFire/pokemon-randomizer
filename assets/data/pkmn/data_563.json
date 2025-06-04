@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "デスカーン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Desukarn",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "데스니칸",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "死神棺",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tutankafer",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Echnatoll",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cofagrigus",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cofagrigus",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cofagrigus",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "デスカーン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "迭失棺",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 58
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 145
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 105
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png"
+}

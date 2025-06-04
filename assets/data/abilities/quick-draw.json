@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "クイックドロウ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "퀵드로",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "速擊",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tir Vif",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schnellschuss",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mano Rápida",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Colpolesto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Quick Draw",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "クイックドロウ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "速击",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

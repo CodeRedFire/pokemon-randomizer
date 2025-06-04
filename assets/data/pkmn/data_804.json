@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "アーゴヨン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Agoyon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "아고용",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "四顎針龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mandrillon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Agoyon",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Naganadel",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Naganadel",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Naganadel",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アーゴヨン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "四颚针龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 73
+        },
+        {
+            "name": "attack",
+            "value": 73
+        },
+        {
+            "name": "defense",
+            "value": 73
+        },
+        {
+            "name": "special-attack",
+            "value": 127
+        },
+        {
+            "name": "special-defense",
+            "value": 73
+        },
+        {
+            "name": "speed",
+            "value": 121
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/804.png"
+}

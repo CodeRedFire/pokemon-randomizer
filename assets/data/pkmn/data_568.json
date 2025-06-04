@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ヤブクロン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Yabukuron",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "깨봉이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "破破袋",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Miamiasme",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Unratütox",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Trubbish",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Trubbish",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Trubbish",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヤブクロン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "破破袋",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 62
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 62
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/568.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "イトマル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Itomaru",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "페이검",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "圓絲蛛",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mimigal",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Webarak",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Spinarak",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spinarak",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Spinarak",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "イトマル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "圆丝蛛",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png"
+}

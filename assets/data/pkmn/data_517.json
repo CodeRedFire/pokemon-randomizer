@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ムンナ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Munna",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "몽나",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "食夢夢",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Munna",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Somniam",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Munna",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Munna",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Munna",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ムンナ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "食梦梦",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 76
+        },
+        {
+            "name": "attack",
+            "value": 25
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 67
+        },
+        {
+            "name": "special-defense",
+            "value": 55
+        },
+        {
+            "name": "speed",
+            "value": 24
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png"
+}

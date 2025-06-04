@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "モウカザル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mōkazaru",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "파이숭이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "猛火猴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chimpenfeu",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Panpyro",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Monferno",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Monferno",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Monferno",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "モウカザル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "猛火猴",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 64
+        },
+        {
+            "name": "attack",
+            "value": 78
+        },
+        {
+            "name": "defense",
+            "value": 52
+        },
+        {
+            "name": "special-attack",
+            "value": 78
+        },
+        {
+            "name": "special-defense",
+            "value": 52
+        },
+        {
+            "name": "speed",
+            "value": 81
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png"
+}

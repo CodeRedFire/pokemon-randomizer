@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "リベロ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "리베로",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "自由者",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Libéro",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Libero",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Líbero",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Libero",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Libero",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "リベロ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "自由者",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

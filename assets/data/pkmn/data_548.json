@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "チュリネ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Churine",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "치릴리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "百合根娃娃",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chlorobule",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Lilminip",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Petilil",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Petilil",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Petilil",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "チュリネ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "百合根娃娃",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 35
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 70
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png"
+}

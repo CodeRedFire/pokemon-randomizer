@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ミイラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "미라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "木乃伊",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Momie",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mumie",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Momia",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mummia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Mummy",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ミイラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "木乃伊",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

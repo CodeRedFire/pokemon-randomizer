@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "バンギラス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Bangiras",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "마기라스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "班基拉斯",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tyranocif",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Despotar",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tyranitar",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tyranitar",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Tyranitar",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バンギラス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "班基拉斯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "dark"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 134
+        },
+        {
+            "name": "defense",
+            "value": 110
+        },
+        {
+            "name": "special-attack",
+            "value": 95
+        },
+        {
+            "name": "special-defense",
+            "value": 100
+        },
+        {
+            "name": "speed",
+            "value": 61
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png"
+}

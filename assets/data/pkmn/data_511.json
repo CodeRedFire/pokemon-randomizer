@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ヤナップ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Yanappu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "야나프",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "花椰猴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Feuillajou",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Vegimak",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Pansage",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pansage",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Pansage",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヤナップ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "花椰猴",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 53
+        },
+        {
+            "name": "defense",
+            "value": 48
+        },
+        {
+            "name": "special-attack",
+            "value": 53
+        },
+        {
+            "name": "special-defense",
+            "value": 48
+        },
+        {
+            "name": "speed",
+            "value": 64
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png"
+}

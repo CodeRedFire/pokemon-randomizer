@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ズルッグ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Zuruggu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "곤율랭",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "滑滑小子",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Baggiguane",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zurrokex",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Scraggy",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Scraggy",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Scraggy",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ズルッグ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "滑滑小子",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 48
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png"
+}

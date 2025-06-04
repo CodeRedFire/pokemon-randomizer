@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "グレイシア",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Glacia",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "글레이시아",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "冰伊布",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Givrali",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Glaziola",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Glaceon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Glaceon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Glaceon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "グレイシア",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "冰伊布",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 110
+        },
+        {
+            "name": "special-attack",
+            "value": 130
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png"
+}

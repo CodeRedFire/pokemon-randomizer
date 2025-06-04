@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ウツロイド",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Uturoid",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "텅비드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "虛吾伊德",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Zéroïd",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Anego",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Nihilego",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Nihilego",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Nihilego",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ウツロイド",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "虚吾伊德",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 109
+        },
+        {
+            "name": "attack",
+            "value": 53
+        },
+        {
+            "name": "defense",
+            "value": 47
+        },
+        {
+            "name": "special-attack",
+            "value": 127
+        },
+        {
+            "name": "special-defense",
+            "value": 131
+        },
+        {
+            "name": "speed",
+            "value": 103
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/793.png"
+}

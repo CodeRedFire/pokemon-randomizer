@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "フシギソウ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Fushigisou",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "이상해풀",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "妙蛙草",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Herbizarre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Bisaknosp",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ivysaur",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ivysaur",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ivysaur",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フシギソウ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "妙蛙草",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 62
+        },
+        {
+            "name": "defense",
+            "value": 63
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+}

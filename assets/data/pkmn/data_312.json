@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "マイナン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Minun",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "마이농",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "負電拍拍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Négapi",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Minun",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Minun",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Minun",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Minun",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マイナン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "負电拍拍",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 75
+        },
+        {
+            "name": "special-defense",
+            "value": 85
+        },
+        {
+            "name": "speed",
+            "value": 95
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png"
+}

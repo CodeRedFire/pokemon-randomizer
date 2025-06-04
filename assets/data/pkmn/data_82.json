@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "レアコイル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Rarecoil",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "레어코일",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "三合一磁怪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Magnéton",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Magneton",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Magneton",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Magneton",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Magneton",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "レアコイル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "三合一磁怪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 95
+        },
+        {
+            "name": "special-attack",
+            "value": 120
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 70
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png"
+}

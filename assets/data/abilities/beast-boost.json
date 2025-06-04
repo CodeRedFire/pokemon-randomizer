@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ビーストブースト",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "비스트부스트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "異獸提升",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Boost Chimère",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Bestien-Boost",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ultraimpulso",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Ultraboost",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Beast Boost",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ビーストブースト",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "异兽提升",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

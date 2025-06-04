@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "メグロコ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Meguroco",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "깜눈크",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "黑眼鱷",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mascaïman",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Ganovil",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sandile",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sandile",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sandile",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "メグロコ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "黑眼鳄",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground",
+        "dark"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 72
+        },
+        {
+            "name": "defense",
+            "value": 35
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 35
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png"
+}

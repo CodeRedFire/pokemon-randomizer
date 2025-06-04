@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "どくのくさり",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "독사슬",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "毒鎖鏈",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chaîne Toxique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Giftkette",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cadena Tóxica",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Catena Tossica",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Toxic Chain",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "どくのくさり",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "毒锁链",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

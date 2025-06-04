@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "アーマーガア",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Armorga",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "아머까오",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鋼鎧鴉",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Corvaillus",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Krarmor",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Corviknight",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Corviknight",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Corviknight",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "アーマーガア",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "钢铠鸦",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "flying",
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 98
+        },
+        {
+            "name": "attack",
+            "value": 87
+        },
+        {
+            "name": "defense",
+            "value": 105
+        },
+        {
+            "name": "special-attack",
+            "value": 53
+        },
+        {
+            "name": "special-defense",
+            "value": 85
+        },
+        {
+            "name": "speed",
+            "value": 67
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "へんげんじざい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "변환자재",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "變幻自如",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Protéen",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wandlungskunst",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mutatipo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Mutatipo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Protean",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "へんげんじざい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "变幻自如",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

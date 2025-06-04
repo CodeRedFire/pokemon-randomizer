@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "しろいけむり",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "하얀연기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "白色煙霧",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Écran Fumée",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pulverrauch",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Humo Blanco",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fumochiaro",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "White Smoke",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "しろいけむり",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "白色烟雾",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

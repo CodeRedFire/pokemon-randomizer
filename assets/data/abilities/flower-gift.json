@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "フラワーギフト",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "플라워기프트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "花之禮",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Don Floral",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Pflanzengabe",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Don Floral",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Regalfiore",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Flower Gift",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フラワーギフト",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "花之礼",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ふくつのこころ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "불굴의마음",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "不屈之心",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Impassible",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Felsenfest",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Impasible",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cuordeciso",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Steadfast",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ふくつのこころ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "不屈之心",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

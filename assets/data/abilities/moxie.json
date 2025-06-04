@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "じしんかじょう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "자기과신",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "自信過度",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Impudence",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hochmut",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Autoestima",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Arroganza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Moxie",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "じしんかじょう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "自信过度",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ステラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": " Stella",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": " 스텔라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "星晶",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Stellaire",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Stellar",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Astral",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Astrale",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Stellar",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ステラ",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/19.png"
+}

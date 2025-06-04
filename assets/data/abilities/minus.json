@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "マイナス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "마이너스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "負電",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Moins",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Minus",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Menos",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Meno",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Minus",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マイナス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "负电",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

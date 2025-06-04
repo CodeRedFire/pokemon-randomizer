@@ -1,0 +1,95 @@
+{
+    "names": [
+        {
+            "name": "マシマシラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "이야후",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "願增猿",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Fortusimia",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Benesaru",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Munkidori",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Munkidori",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Munkidori",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マシマシラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "愿增猿",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 88
+        },
+        {
+            "name": "attack",
+            "value": 75
+        },
+        {
+            "name": "defense",
+            "value": 66
+        },
+        {
+            "name": "special-attack",
+            "value": 130
+        },
+        {
+            "name": "special-defense",
+            "value": 90
+        },
+        {
+            "name": "speed",
+            "value": 106
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1015.png"
+}

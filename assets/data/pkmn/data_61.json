@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ニョロゾ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nyorozo",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "슈륙챙이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蚊香君",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Têtarte",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Quaputzi",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Poliwhirl",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Poliwhirl",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Poliwhirl",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ニョロゾ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "蚊香君",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 65
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png"
+}

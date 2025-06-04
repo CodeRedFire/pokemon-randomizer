@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "フラワーベール",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "플라워베일",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "花幕",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Flora-Voile",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Blütenhülle",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Velo Flor",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fiorvelo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Flower Veil",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フラワーベール",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "花幕",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

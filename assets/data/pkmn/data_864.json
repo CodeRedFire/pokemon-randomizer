@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "サニゴーン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Sunigoon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "산호르곤",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "魔靈珊瑚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Corayôme",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Gorgasonn",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cursola",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cursola",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Cursola",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "サニゴーン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "魔灵珊瑚",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 95
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 145
+        },
+        {
+            "name": "special-defense",
+            "value": 130
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/864.png"
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "カメテテ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kametete",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "거북손손",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "龜腳腳",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Opermine",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Bithora",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Binacle",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Binacle",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Binacle",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カメテテ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "龟脚脚",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock",
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 42
+        },
+        {
+            "name": "attack",
+            "value": 52
+        },
+        {
+            "name": "defense",
+            "value": 67
+        },
+        {
+            "name": "special-attack",
+            "value": 39
+        },
+        {
+            "name": "special-defense",
+            "value": 56
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/688.png"
+}

@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "しれいとう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Commandant",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kommandant",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Comandar",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Torre di Comando",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Commander",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "しれいとう",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

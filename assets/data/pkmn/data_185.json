@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ウソッキー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Usokkie",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "꼬지모",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "樹才怪",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Simularbre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mogelbaum",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sudowoodo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sudowoodo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sudowoodo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ウソッキー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "树才怪",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 115
+        },
+        {
+            "name": "special-attack",
+            "value": 30
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png"
+}

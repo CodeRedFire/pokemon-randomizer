@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "マルチタイプ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "멀티타입",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "多屬性",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Multi-Type",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Variabilität",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Multitipo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Multitipo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Multitype",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マルチタイプ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "多属性",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

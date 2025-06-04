@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "クエスパトラ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Cuespatra",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "클레스퍼트라",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "超能艷鴕",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cléopsytra",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Psiopatra",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Espathra",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Espathra",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Espathra",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "クエスパトラ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "超能艳鸵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 95
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 101
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 105
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/956.png"
+}

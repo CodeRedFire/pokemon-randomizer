@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "するどいめ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "날카로운눈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "銳利目光",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Regard Vif",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Adlerauge",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Vista Lince",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sguardofermo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Keen Eye",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "するどいめ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "锐利目光",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

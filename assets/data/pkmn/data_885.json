@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ドラメシヤ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dorameshiya",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "드라꼰",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "多龍梅西亞",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Fantyrm",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Grolldra",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Dreepy",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Dreepy",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dreepy",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ドラメシヤ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "多龙梅西亚",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dragon",
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 28
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 30
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 30
+        },
+        {
+            "name": "speed",
+            "value": 82
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/885.png"
+}

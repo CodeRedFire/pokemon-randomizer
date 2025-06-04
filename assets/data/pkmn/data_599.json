@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ギアル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Giaru",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "기어르",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "齒輪兒",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tic",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Klikk",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Klink",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Klink",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Klink",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ギアル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "齿轮儿",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "steel"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 55
+        },
+        {
+            "name": "defense",
+            "value": 70
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png"
+}

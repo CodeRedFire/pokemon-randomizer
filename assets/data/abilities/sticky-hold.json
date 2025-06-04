@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ねんちゃく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "점착",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "黏著",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Glu",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Klebekörper",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Viscosidad",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Antifurto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sticky Hold",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ねんちゃく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "黏着",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

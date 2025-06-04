@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "かちき",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "승기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "好勝",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Battant",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Unbeugsamkeit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Tenacidad",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tenacia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Competitive",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "かちき",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "好胜",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

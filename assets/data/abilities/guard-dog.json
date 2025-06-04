@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "ばんけん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Chien de Garde",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wachhund",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Perro Guardián",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cane da Guardia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Guard Dog",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ばんけん",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

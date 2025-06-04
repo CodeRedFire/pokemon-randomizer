@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "エネコ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Eneco",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "에나비",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "向尾喵",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Skitty",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Eneco",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Skitty",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Skitty",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Skitty",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エネコ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "向尾喵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 45
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 35
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png"
+}

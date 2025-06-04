@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "パンクロック",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "펑크록",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "龐克搖滾",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Punk Rock",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Punk Rock",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Punk Rock",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Punk Rock",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Punk Rock",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "パンクロック",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "庞克摇滚",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

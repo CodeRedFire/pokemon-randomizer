@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ブロロローム",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Burororoom",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "부르르룸",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "普隆隆姆",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Vrombotor",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Knattatox",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Revavroom",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Revavroom",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Revavroom",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ブロロローム",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "普隆隆姆",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "steel",
+        "poison"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 119
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 54
+        },
+        {
+            "name": "special-defense",
+            "value": 67
+        },
+        {
+            "name": "speed",
+            "value": 90
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/966.png"
+}

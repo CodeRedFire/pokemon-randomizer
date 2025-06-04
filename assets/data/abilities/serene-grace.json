@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "てんのめぐみ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "하늘의은총",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "天恩",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Sérénité",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Edelmut",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Dicha",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Leggiadro",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Serene Grace",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "てんのめぐみ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "天恩",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

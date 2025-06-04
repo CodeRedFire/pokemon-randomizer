@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "じゅうなん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "유연",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "柔軟",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Échauffement",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Flexibilität",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Flexibilidad",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Scioltezza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Limber",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "じゅうなん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "柔软",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

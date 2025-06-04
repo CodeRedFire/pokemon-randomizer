@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "オーロット",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Ohrot",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "대로트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "朽木妖",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Desséliande",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Trombork",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Trevenant",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Trevenant",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Trevenant",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "オーロット",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "朽木妖",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 85
+        },
+        {
+            "name": "attack",
+            "value": 110
+        },
+        {
+            "name": "defense",
+            "value": 76
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 82
+        },
+        {
+            "name": "speed",
+            "value": 56
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/709.png"
+}

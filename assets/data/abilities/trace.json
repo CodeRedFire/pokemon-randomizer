@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "トレース",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "트레이스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "複製",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Calque",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Erfassen",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rastro",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Traccia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Trace",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "トレース",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "复制",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

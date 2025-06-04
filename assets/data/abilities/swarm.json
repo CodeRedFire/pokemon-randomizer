@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "むしのしらせ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "벌레의알림",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蟲之預感",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Essaim",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Hexaplaga",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Enjambre",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Aiutinsetto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Swarm",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "むしのしらせ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "虫之预感",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

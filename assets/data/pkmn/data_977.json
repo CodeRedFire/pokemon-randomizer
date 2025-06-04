@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ヘイラッシャ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Heyrusher",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "어써러셔",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "吃吼霸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Oyacata",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Heerashai",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Dondozo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Dondozo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dondozo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヘイラッシャ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "吃吼霸",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 150
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 115
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 35
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/977.png"
+}

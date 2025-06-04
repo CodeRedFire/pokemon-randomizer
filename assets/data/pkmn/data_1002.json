@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "パオジアン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Paojian",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "파오젠",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "古劍豹",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Baojian",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Baojian",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Chien-Pao",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Chien-Pao",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Chien-Pao",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "パオジアン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "古剑豹",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "dark",
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 90
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 135
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1002.png"
+}

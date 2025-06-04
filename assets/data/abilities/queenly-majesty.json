@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "じょおうのいげん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "여왕의위엄",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "女王的威嚴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Prestance Royale",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Majestät",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Regia Presencia",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Regalità",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Queenly Majesty",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "じょおうのいげん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "女王的威严",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

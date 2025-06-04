@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "リーシャン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Lisyan",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "랑딸랑",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鈴鐺響",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Korillon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Klingplim",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Chingling",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Chingling",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Chingling",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "リーシャン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铃铛响",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 30
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 65
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png"
+}

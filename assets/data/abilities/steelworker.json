@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "はがねつかい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "강철술사",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鋼能力者",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Expert Acier",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Stahlprofi",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Acero Templado",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Tempracciaio",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Steelworker",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "はがねつかい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "钢能力者",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

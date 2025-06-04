@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "フワライド",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Fuwaride",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "둥실라이드",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "隨風球",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Grodrive",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Drifzepeli",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Drifblim",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Drifblim",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Drifblim",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フワライド",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "随风球",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost",
+        "flying"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 150
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 44
+        },
+        {
+            "name": "special-attack",
+            "value": 90
+        },
+        {
+            "name": "special-defense",
+            "value": 54
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png"
+}

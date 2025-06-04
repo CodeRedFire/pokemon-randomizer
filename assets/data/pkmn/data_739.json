@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "マケンカニ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Makenkani",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "오기지게",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "好勝蟹",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Crabagarre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Krabbox",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Crabrawler",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Crabrawler",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Crabrawler",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マケンカニ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "好胜蟹",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 47
+        },
+        {
+            "name": "attack",
+            "value": 82
+        },
+        {
+            "name": "defense",
+            "value": 57
+        },
+        {
+            "name": "special-attack",
+            "value": 42
+        },
+        {
+            "name": "special-defense",
+            "value": 47
+        },
+        {
+            "name": "speed",
+            "value": 63
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/739.png"
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "へんしょく",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "변색",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "變色",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Homochromie",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Farbwechsel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cambio Color",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cambiacolore",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Color Change",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "へんしょく",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "变色",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

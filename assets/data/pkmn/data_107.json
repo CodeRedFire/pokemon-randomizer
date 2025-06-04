@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "エビワラー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Ebiwalar",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "홍수몬",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "快拳郎",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tygnon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Nockchan",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hitmonchan",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Hitmonchan",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Hitmonchan",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エビワラー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "快拳郎",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 105
+        },
+        {
+            "name": "defense",
+            "value": 79
+        },
+        {
+            "name": "special-attack",
+            "value": 35
+        },
+        {
+            "name": "special-defense",
+            "value": 110
+        },
+        {
+            "name": "speed",
+            "value": 76
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png"
+}

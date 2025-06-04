@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ミブリム",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Mibrim",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "몸지브림",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "迷布莉姆",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Bibichut",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Brimova",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Hatenna",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Hatenna",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Hatenna",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ミブリム",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "迷布莉姆",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 42
+        },
+        {
+            "name": "attack",
+            "value": 30
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 56
+        },
+        {
+            "name": "special-defense",
+            "value": 53
+        },
+        {
+            "name": "speed",
+            "value": 39
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/856.png"
+}

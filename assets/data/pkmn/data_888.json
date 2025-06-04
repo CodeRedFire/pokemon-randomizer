@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ザシアン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Zacian",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "자시안",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "蒼響",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Zacian",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Zacian",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Zacian",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Zacian",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Zacian",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ザシアン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "苍响",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 92
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 115
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 115
+        },
+        {
+            "name": "speed",
+            "value": 138
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888.png"
+}

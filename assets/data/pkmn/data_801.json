@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "マギアナ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Magearna",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "마기아나",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "瑪機雅娜",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Magearna",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Magearna",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Magearna",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Magearna",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Magearna",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "マギアナ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "玛机雅娜",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "steel",
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 95
+        },
+        {
+            "name": "defense",
+            "value": 115
+        },
+        {
+            "name": "special-attack",
+            "value": 130
+        },
+        {
+            "name": "special-defense",
+            "value": 115
+        },
+        {
+            "name": "speed",
+            "value": 65
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png"
+}

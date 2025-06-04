@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "カジッチュ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Kajicchu",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "과사삭벌레",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "啃果蟲",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Verpom",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Knapfel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Applin",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Applin",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Applin",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "カジッチュ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "啃果虫",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 40
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 20
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/840.png"
+}

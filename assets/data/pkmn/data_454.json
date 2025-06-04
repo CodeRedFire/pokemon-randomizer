@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ドクロッグ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dokurog",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "독개굴",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "毒骷蛙",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Coatox",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Toxiquak",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Toxicroak",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Toxicroak",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Toxicroak",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ドクロッグ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "毒骷蛙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "poison",
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 83
+        },
+        {
+            "name": "attack",
+            "value": 106
+        },
+        {
+            "name": "defense",
+            "value": 65
+        },
+        {
+            "name": "special-attack",
+            "value": 86
+        },
+        {
+            "name": "special-defense",
+            "value": 65
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png"
+}

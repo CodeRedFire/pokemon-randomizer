@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "コータス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Cotoise",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "코터스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "煤炭龜",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chartor",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Qurtel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Torkoal",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Torkoal",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Torkoal",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "コータス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "煤炭龟",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 85
+        },
+        {
+            "name": "defense",
+            "value": 140
+        },
+        {
+            "name": "special-attack",
+            "value": 85
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 20
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png"
+}

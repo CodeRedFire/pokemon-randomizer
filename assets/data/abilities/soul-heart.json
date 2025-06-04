@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ソウルハート",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "소울하트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "魂心",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Animacœur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Seelenherz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Coránima",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Cuoreanima",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Soul-Heart",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ソウルハート",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "魂心",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

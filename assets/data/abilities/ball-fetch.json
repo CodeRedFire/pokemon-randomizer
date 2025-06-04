@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "たまひろい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "볼줍기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "撿球",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Ramasse Ball",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Apport",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Recogebolas",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Raccattapalle",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ball Fetch",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "たまひろい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "捡球",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

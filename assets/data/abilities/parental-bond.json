@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "おやこあい",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "부자유친",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "親子愛",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Amour Filial",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Familienbande",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Amor Filial",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Amorefiliale",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Parental Bond",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "おやこあい",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "亲子爱",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

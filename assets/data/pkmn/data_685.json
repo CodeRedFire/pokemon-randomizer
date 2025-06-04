@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ペロリーム",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Peroream",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "나루림",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "胖甜妮",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cupcanaille",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Sabbaione",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Slurpuff",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Slurpuff",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Slurpuff",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ペロリーム",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "胖甜妮",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fairy"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 82
+        },
+        {
+            "name": "attack",
+            "value": 80
+        },
+        {
+            "name": "defense",
+            "value": 86
+        },
+        {
+            "name": "special-attack",
+            "value": 85
+        },
+        {
+            "name": "special-defense",
+            "value": 75
+        },
+        {
+            "name": "speed",
+            "value": 72
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png"
+}

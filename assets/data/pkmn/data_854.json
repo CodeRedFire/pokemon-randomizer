@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ヤバチャ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Yabacha",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "데인차",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "來悲茶",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Théffroi",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Fatalitee",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Sinistea",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sinistea",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Sinistea",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ヤバチャ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "来悲茶",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 40
+        },
+        {
+            "name": "attack",
+            "value": 45
+        },
+        {
+            "name": "defense",
+            "value": 45
+        },
+        {
+            "name": "special-attack",
+            "value": 74
+        },
+        {
+            "name": "special-defense",
+            "value": 54
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/854.png"
+}

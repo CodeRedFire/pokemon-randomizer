@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "ドジョッチ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dojoach",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "미꾸리",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "泥泥鰍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Barloche",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Schmerbe",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Barboach",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Barboach",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Barboach",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ドジョッチ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "泥泥鳅",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water",
+        "ground"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 48
+        },
+        {
+            "name": "defense",
+            "value": 43
+        },
+        {
+            "name": "special-attack",
+            "value": 46
+        },
+        {
+            "name": "special-defense",
+            "value": 41
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png"
+}

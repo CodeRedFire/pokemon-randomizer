@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "フライゴン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Frygon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "플라이곤",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "沙漠蜻蜓",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Libégon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Libelldra",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Flygon",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Flygon",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Flygon",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "フライゴン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "沙漠蜻蜓",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ground",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 80
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 80
+        },
+        {
+            "name": "speed",
+            "value": 100
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png"
+}

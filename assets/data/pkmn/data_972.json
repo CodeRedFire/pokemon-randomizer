@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ハカドッグ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Hakadog",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "묘두기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "墓揚犬",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Tomberro",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Friedwuff",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Houndstone",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Houndstone",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Houndstone",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ハカドッグ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "墓扬犬",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 72
+        },
+        {
+            "name": "attack",
+            "value": 101
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 50
+        },
+        {
+            "name": "special-defense",
+            "value": 97
+        },
+        {
+            "name": "speed",
+            "value": 68
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/972.png"
+}

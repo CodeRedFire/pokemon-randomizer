@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "デンジュモク",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Denjyumoku",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "전수목",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "電束木",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Câblifère",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Voltriant",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Xurkitree",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Xurkitree",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Xurkitree",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "デンジュモク",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "电束木",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 83
+        },
+        {
+            "name": "attack",
+            "value": 89
+        },
+        {
+            "name": "defense",
+            "value": 71
+        },
+        {
+            "name": "special-attack",
+            "value": 173
+        },
+        {
+            "name": "special-defense",
+            "value": 71
+        },
+        {
+            "name": "speed",
+            "value": 83
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/796.png"
+}

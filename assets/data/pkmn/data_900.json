@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "バサギリ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Basagiri",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "사마자르",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "劈斧螳螂",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Hachécateur",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Axantor",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Kleavor",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Kleavor",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Kleavor",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "バサギリ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "劈斧螳螂",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug",
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 70
+        },
+        {
+            "name": "attack",
+            "value": 135
+        },
+        {
+            "name": "defense",
+            "value": 95
+        },
+        {
+            "name": "special-attack",
+            "value": 45
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/900.png"
+}

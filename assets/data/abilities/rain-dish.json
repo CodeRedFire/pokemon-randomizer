@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "あめうけざら",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "젖은접시",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雨盤",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cuvette",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Regengenuss",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Cura Lluvia",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Copripioggia",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rain Dish",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "あめうけざら",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "雨盘",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "メェークル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Meecle",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "메이클",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "坐騎小羊",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Cabriolaine",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Mähikel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Skiddo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Skiddo",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Skiddo",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "メェークル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "坐骑小羊",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "grass"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 66
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 48
+        },
+        {
+            "name": "special-attack",
+            "value": 62
+        },
+        {
+            "name": "special-defense",
+            "value": 57
+        },
+        {
+            "name": "speed",
+            "value": 52
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/672.png"
+}

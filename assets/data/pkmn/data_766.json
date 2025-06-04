@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ナゲツケサル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Nagetukesaru",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "내던숭이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "投擲猴",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Quartermac",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Quartermak",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Passimian",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Passimian",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Passimian",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ナゲツケサル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "投掷猴",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fighting"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 100
+        },
+        {
+            "name": "attack",
+            "value": 120
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 40
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 80
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/766.png"
+}

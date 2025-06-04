@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ナイトメア",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "나이트메어",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "夢魘",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Mauvais Rêve",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Alptraum",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Mal Sueño",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Sogniamari",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Bad Dreams",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ナイトメア",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "梦魇",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "どくぼうそう",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "독폭주",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "中毒激升",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Rage Poison",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Giftwahn",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Ímpetu Tóxico",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Velenimpeto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Toxic Boost",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "どくぼうそう",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "中毒激升",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

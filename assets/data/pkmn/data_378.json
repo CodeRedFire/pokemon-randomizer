@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "レジアイス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Regice",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "레지아이스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雷吉艾斯",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Regice",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Regice",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Regice",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Regice",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Regice",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "レジアイス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "雷吉艾斯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ice"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 80
+        },
+        {
+            "name": "attack",
+            "value": 50
+        },
+        {
+            "name": "defense",
+            "value": 100
+        },
+        {
+            "name": "special-attack",
+            "value": 100
+        },
+        {
+            "name": "special-defense",
+            "value": 200
+        },
+        {
+            "name": "speed",
+            "value": 50
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png"
+}

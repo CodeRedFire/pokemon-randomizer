@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "トランセル",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Trancell",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "단데기",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鐵甲蛹",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chrysacier",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Safcon",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Metapod",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Metapod",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Metapod",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "トランセル",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "铁甲蛹",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "bug"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 20
+        },
+        {
+            "name": "defense",
+            "value": 55
+        },
+        {
+            "name": "special-attack",
+            "value": 25
+        },
+        {
+            "name": "special-defense",
+            "value": 25
+        },
+        {
+            "name": "speed",
+            "value": 30
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+}

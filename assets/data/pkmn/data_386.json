@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "デオキシス",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Deoxys",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "테오키스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "代歐奇希斯",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Deoxys",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Deoxys",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Deoxys",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Deoxys",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Deoxys",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "デオキシス",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "代欧奇希斯",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "psychic"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 50
+        },
+        {
+            "name": "attack",
+            "value": 150
+        },
+        {
+            "name": "defense",
+            "value": 50
+        },
+        {
+            "name": "special-attack",
+            "value": 150
+        },
+        {
+            "name": "special-defense",
+            "value": 50
+        },
+        {
+            "name": "speed",
+            "value": 150
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png"
+}

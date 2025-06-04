@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "にげごし",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "도망태세",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "躍躍欲逃",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Escampette",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Reißaus",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Huida",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fuggifuggi",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Wimp Out",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "にげごし",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "跃跃欲逃",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

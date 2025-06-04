@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ばけのかわ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "탈",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "畫皮",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Fantômasque",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Kostümspuk",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Disfraz",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Fantasmanto",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Disguise",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ばけのかわ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "画皮",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

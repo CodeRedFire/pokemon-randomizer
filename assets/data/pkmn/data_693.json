@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ブロスター",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Bloster",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "블로스터",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鋼炮臂蝦",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Gamblast",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wummer",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Clawitzer",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Clawitzer",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Clawitzer",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ブロスター",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "钢炮臂虾",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "water"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 71
+        },
+        {
+            "name": "attack",
+            "value": 73
+        },
+        {
+            "name": "defense",
+            "value": 88
+        },
+        {
+            "name": "special-attack",
+            "value": 120
+        },
+        {
+            "name": "special-defense",
+            "value": 89
+        },
+        {
+            "name": "speed",
+            "value": 59
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/693.png"
+}

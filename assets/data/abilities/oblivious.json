@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "どんかん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "둔감",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "遲鈍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Benêt",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Dösigkeit",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Despiste",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Indifferenza",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Oblivious",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "どんかん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "迟钝",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

@@ -1,0 +1,101 @@
+{
+    "names": [
+        {
+            "name": "パッチラゴン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Patchiragon",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "파치래곤",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "雷鳥龍",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Galvagon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Lectragon",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Dracozolt",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Dracozolt",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Dracozolt",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "パッチラゴン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "雷鸟龙",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "electric",
+        "dragon"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 90
+        },
+        {
+            "name": "attack",
+            "value": 100
+        },
+        {
+            "name": "defense",
+            "value": 90
+        },
+        {
+            "name": "special-attack",
+            "value": 80
+        },
+        {
+            "name": "special-defense",
+            "value": 70
+        },
+        {
+            "name": "speed",
+            "value": 75
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/880.png"
+}

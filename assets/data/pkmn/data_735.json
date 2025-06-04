@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "デカグース",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Dekagoose",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "형사구스",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "貓鼬探長",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Argouste",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Manguspektor",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Gumshoos",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Gumshoos",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Gumshoos",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "デカグース",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "猫鼬探长",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "normal"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 88
+        },
+        {
+            "name": "attack",
+            "value": 110
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 55
+        },
+        {
+            "name": "special-defense",
+            "value": 60
+        },
+        {
+            "name": "speed",
+            "value": 45
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png"
+}

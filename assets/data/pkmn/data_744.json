@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "イワンコ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Iwanko",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "암멍이",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "岩狗狗",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Rocabot",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Wuffels",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Rockruff",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Rockruff",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Rockruff",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "イワンコ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "岩狗狗",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "rock"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 45
+        },
+        {
+            "name": "attack",
+            "value": 65
+        },
+        {
+            "name": "defense",
+            "value": 40
+        },
+        {
+            "name": "special-attack",
+            "value": 30
+        },
+        {
+            "name": "special-defense",
+            "value": 40
+        },
+        {
+            "name": "speed",
+            "value": 60
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/744.png"
+}

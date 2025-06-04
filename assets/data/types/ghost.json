@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "ゴースト",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "고스트",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "幽靈",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Spectre",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Geist",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Fantasma",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Spettro",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Ghost",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ゴースト",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "幽灵",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/8.png"
+}

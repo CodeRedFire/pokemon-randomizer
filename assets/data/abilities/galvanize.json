@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "エレキスキン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "일렉트릭스킨",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "電氣皮膚",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Peau Électrique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Elektrohaut",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Piel Eléctrica",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Pellelettro",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Galvanize",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "エレキスキン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "电气皮肤",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

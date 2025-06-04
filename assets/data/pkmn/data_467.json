@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ブーバーン",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Booburn",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "마그마번",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "鴨嘴炎獸",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Maganon",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Magbrant",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Magmortar",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Magmortar",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Magmortar",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ブーバーン",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "鸭嘴炎兽",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "fire"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 75
+        },
+        {
+            "name": "attack",
+            "value": 95
+        },
+        {
+            "name": "defense",
+            "value": 67
+        },
+        {
+            "name": "special-attack",
+            "value": 125
+        },
+        {
+            "name": "special-defense",
+            "value": 95
+        },
+        {
+            "name": "speed",
+            "value": 83
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png"
+}

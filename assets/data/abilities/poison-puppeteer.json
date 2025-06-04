@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "どくくぐつ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "독조종",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "毒傀儡",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Emprise Toxique",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Giftpuppenspiel",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Títere Tóxico",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Malia Tossica",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Poison Puppeteer",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "どくくぐつ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "毒傀儡",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

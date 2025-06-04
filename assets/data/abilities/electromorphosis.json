@@ -1,0 +1,47 @@
+{
+    "names": [
+        {
+            "name": "でんきにかえる",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Grecharge",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Dynamo",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Dinamo",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Convertivolt",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Electromorphosis",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "でんきにかえる",
+            "language": {
+                "name": "ja"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

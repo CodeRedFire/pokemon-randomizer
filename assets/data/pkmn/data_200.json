@@ -1,0 +1,100 @@
+{
+    "names": [
+        {
+            "name": "ムウマ",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "Muma",
+            "language": {
+                "name": "roomaji"
+            }
+        },
+        {
+            "name": "무우마",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "夢妖",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Feuforêve",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Traunfugil",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Misdreavus",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Misdreavus",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Misdreavus",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "ムウマ",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "梦妖",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "types": [
+        "ghost"
+    ],
+    "stats": [
+        {
+            "name": "hp",
+            "value": 60
+        },
+        {
+            "name": "attack",
+            "value": 60
+        },
+        {
+            "name": "defense",
+            "value": 60
+        },
+        {
+            "name": "special-attack",
+            "value": 85
+        },
+        {
+            "name": "special-defense",
+            "value": 85
+        },
+        {
+            "name": "speed",
+            "value": 85
+        }
+    ],
+    "front_sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png"
+}

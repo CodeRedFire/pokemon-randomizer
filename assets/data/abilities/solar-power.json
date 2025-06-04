@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "サンパワー",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "선파워",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "太陽之力",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Force Soleil",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Solarkraft",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Poder Solar",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Solarpotere",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Solar Power",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "サンパワー",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "太阳之力",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}

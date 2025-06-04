@@ -1,0 +1,65 @@
+{
+    "names": [
+        {
+            "name": "きょううん",
+            "language": {
+                "name": "ja-Hrkt"
+            }
+        },
+        {
+            "name": "대운",
+            "language": {
+                "name": "ko"
+            }
+        },
+        {
+            "name": "超幸運",
+            "language": {
+                "name": "zh-Hant"
+            }
+        },
+        {
+            "name": "Chanceux",
+            "language": {
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Glückspilz",
+            "language": {
+                "name": "de"
+            }
+        },
+        {
+            "name": "Afortunado",
+            "language": {
+                "name": "es"
+            }
+        },
+        {
+            "name": "Supersorte",
+            "language": {
+                "name": "it"
+            }
+        },
+        {
+            "name": "Super Luck",
+            "language": {
+                "name": "en"
+            }
+        },
+        {
+            "name": "きょううん",
+            "language": {
+                "name": "ja"
+            }
+        },
+        {
+            "name": "超幸运",
+            "language": {
+                "name": "zh-Hans"
+            }
+        }
+    ],
+    "front_sprite_url": ""
+}
