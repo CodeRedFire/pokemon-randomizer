@@ -11,8 +11,15 @@ for (let i = 0; i < 6; i++) {
 </script>
 
 <template>
+  <div class="main-container">
   <Pokemon v-for="i in selectedPokemonIds" :num-pokedex="i"/>
+  </div>
 </template>
 
 <style scoped>
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 </style>
