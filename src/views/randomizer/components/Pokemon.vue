@@ -14,6 +14,8 @@ const type2Color = ref("transparent");
 
 onMounted(async () => {
   try {
+    imgUrl.value = `/assets/sprites/pkmn/sprite_${props.numPokedex}.png`;
+
     const response = await fetch(`/assets/data/pkmn/data_${props.numPokedex}.json`);
 
     if (!response.ok) {
@@ -27,7 +29,6 @@ onMounted(async () => {
     } else {
       type2Color.value = ColorType[jsonData.value["types"][0]];
     }
-    imgUrl.value = `/assets/sprites/pkmn/sprite_${props.numPokedex}.png`;
   } catch (err) {
     error.value = err.message;
     console.error('Failed to load JSON:', err);
@@ -68,7 +69,7 @@ onMounted(async () => {
   2px -2px 2px #000,
   0px 2px 2px #000;
   letter-spacing: 1px;
-  margin: 2px;
+  margin: 4px;
 }
 
 .numero {
@@ -93,7 +94,7 @@ onMounted(async () => {
   bottom: 0;
   left: 0;
   width: 100%;
-  font-size: 32px;
+  font-size: 28px;
   font-weight: bold;
   text-align: center;
   padding-bottom: 8px;

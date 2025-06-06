@@ -1,5 +1,5 @@
 <script setup>
-import Pokemon from "@/components/Pokemon.vue";
+import Pokemon from "@/views/randomizer/components/Pokemon.vue";
 import {MaxValues} from "@/enums/max_values.js";
 import {computed, onMounted} from "vue";
 import { config_store } from '@/store/config_store.js'
