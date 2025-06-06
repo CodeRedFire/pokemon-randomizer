@@ -21,7 +21,6 @@ onMounted(async () => {
     }
 
     jsonData.value = await response.json();
-    console.log('JSON Data:', jsonData.value);
     type1Color.value = ColorType[jsonData.value["types"][0]];
     if (jsonData.value["types"][1]) {
       type2Color.value = ColorType[jsonData.value["types"][1]];
