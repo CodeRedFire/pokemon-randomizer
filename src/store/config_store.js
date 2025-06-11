@@ -6,7 +6,6 @@ export const config_store = reactive({
     nbrPokemon: 3,
     pkmnList: [],
     randomizeList() {
-        console.log("Randomizing list");
         let selectedPokemonIdsList = []
 
         for (let i = 0; i < this.nbrPokemon; i++) {

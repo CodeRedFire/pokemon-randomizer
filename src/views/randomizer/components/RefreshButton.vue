@@ -3,7 +3,7 @@ import { config_store } from '@/store/config_store.js'
 </script>
 
 <template>
-<button class="refresh" @click="config_store.randomizeList()">Surprise me!</button>
+<button class="refresh" @click="config_store.randomizeList()">{{ $t("randomizer.btn_label")}}</button>
 </template>
 
 <style scoped>

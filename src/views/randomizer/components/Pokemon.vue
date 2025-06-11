@@ -2,6 +2,8 @@
 import {onMounted, ref} from "vue";
 import {ColorType} from "@/enums/color_type.js";
 import {config_store} from "@/store/config_store.js";
+import {Languages} from "@/enums/languages.js";
+import {convert} from "hangul-romanization";
 
 const props = defineProps({
   numPokedex: Number,
@@ -36,6 +38,22 @@ onMounted(async () => {
     imgUrl.value = null;
   }
 });
+
+function displayName(jsonData) {
+  let lang = config_store.displayedLanguage
+
+  if (lang == Languages.koreanLatin || lang == Languages.koreanHangul) {
+    lang = "ko";
+  }
+
+  let name = jsonData["names"].filter((n) => n["language"]["name"] == lang)[0]["name"];
+
+  if (config_store.displayedLanguage == Languages.koreanLatin) {
+    return convert(name);
+  }
+
+  return name;
+}
 </script>
 
 <template>
@@ -43,7 +61,7 @@ onMounted(async () => {
     <div class="numero">#{{ numPokedex }}</div>
     <img class="sprite" v-if="imgUrl" :src="imgUrl"/>
     <div class="name" v-if="jsonData">{{
-        jsonData["names"].filter((n) => n["language"]["name"] == config_store.displayedLanguage)[0]["name"]
+        displayName(jsonData)
       }}
     </div>
   </div>

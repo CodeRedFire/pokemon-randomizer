@@ -1,7 +1,8 @@
 export const Languages = {
     japaneseHiraganaKatakana: "jaHrkt",
     japaneseRoomaji: "roomaji",
-    korean: "ko",
+    koreanLatin: "koLatin",
+    koreanHangul: "koHangul",
     traditionalChinese: "zhHant",
     french: "fr",
     english: "en",
