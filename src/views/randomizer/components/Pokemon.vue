@@ -4,6 +4,7 @@ import {ColorType} from "@/enums/color_type.js";
 import {config_store} from "@/store/config_store.js";
 import {Languages} from "@/enums/languages.js";
 import {convert} from "hangul-romanization";
+import { transliterate as tr } from 'transliteration';
 
 const props = defineProps({
   numPokedex: Number,
@@ -42,14 +43,22 @@ onMounted(async () => {
 function displayName(jsonData) {
   let lang = config_store.displayedLanguage
 
+  // Select the right store language name for the pokemon
   if (lang == Languages.koreanLatin || lang == Languages.koreanHangul) {
     lang = "ko";
+  }
+  if (lang == Languages.chineseLatin) {
+    lang = "zhHant";
   }
 
   let name = jsonData["names"].filter((n) => n["language"]["name"] == lang)[0]["name"];
 
+  // Execute a convertion to latin alphabet
   if (config_store.displayedLanguage == Languages.koreanLatin) {
     return convert(name);
+  }
+  if (config_store.displayedLanguage == Languages.chineseLatin) {
+    return tr(name);
   }
 
   return name;

@@ -11,4 +11,5 @@ export const Languages = {
     italian: "it",
     japanese: "ja",
     simplifiedChinese: "zhHans",
+    chineseLatin: "zhLatin",
 };

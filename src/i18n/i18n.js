@@ -17,7 +17,8 @@ export const i18n = createI18n({
                 es: "Spanish",
                 it: "Italian",
                 ja: "Japanese",
-                zhHans: "Simplified Chinese"
+                zhHans: "Simplified Chinese",
+                zhLatin: "Chinese (Latin alphabet)"
             },
             randomizer: {
                 btn_label: "Surprise me!"
@@ -36,7 +37,8 @@ export const i18n = createI18n({
                 es: "Espagnol",
                 it: "Italien",
                 ja: "Japonais",
-                zhHans: "Chinois simplifié"
+                zhHans: "Chinois simplifié",
+                zhLatin: "Chinois (alphabet latin)"
             },
             randomizer: {
                 btn_label: "Surprends moi !"

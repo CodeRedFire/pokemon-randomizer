@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "hangul-romanization": "^1.0.1",
+    "transliteration": "^2.3.5",
     "vue": "^3.5.13",
     "vue-i18n": "^11.1.5"
   },
