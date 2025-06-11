@@ -3,7 +3,7 @@
         {
             "name": "ヘイガニ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "龍蝦小兵",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "龙虾小兵",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

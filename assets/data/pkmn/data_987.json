@@ -3,7 +3,7 @@
         {
             "name": "ハバタクカミ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "振翼髮",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "振翼发",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

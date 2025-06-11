@@ -3,7 +3,7 @@
         {
             "name": "はがねつかい",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "鋼能力者",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "钢能力者",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

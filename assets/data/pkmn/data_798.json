@@ -3,7 +3,7 @@
         {
             "name": "カミツルギ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "紙御劍",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "纸御剑",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

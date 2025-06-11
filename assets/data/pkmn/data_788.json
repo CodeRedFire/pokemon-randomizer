@@ -3,7 +3,7 @@
         {
             "name": "カプ・レヒレ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "卡璞・鰭鰭",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "卡璞・鳍鳍",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

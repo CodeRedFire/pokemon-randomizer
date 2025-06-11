@@ -3,7 +3,7 @@
         {
             "name": "ハーデリア",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "哈約克",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "哈约克",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

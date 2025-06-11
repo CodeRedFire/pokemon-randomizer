@@ -3,7 +3,7 @@
         {
             "name": "ニャヒート",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "炎熱喵",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "炎热喵",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

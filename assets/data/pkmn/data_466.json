@@ -3,7 +3,7 @@
         {
             "name": "エレキブル",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "電擊魔獸",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "电击魔兽",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

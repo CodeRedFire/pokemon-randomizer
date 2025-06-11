@@ -3,7 +3,7 @@
         {
             "name": "クエスパトラ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "超能艷鴕",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "超能艳鸵",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

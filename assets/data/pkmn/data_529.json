@@ -3,7 +3,7 @@
         {
             "name": "モグリュー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "螺釘地鼠",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "螺钉地鼠",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

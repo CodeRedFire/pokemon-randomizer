@@ -3,7 +3,7 @@
         {
             "name": "ウェーニバル",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "狂歡浪舞鴨",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "狂欢浪舞鸭",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

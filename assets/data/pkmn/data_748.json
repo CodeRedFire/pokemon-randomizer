@@ -3,7 +3,7 @@
         {
             "name": "ドヒドイデ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "超壞星",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "超坏星",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

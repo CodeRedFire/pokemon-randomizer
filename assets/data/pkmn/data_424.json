@@ -3,7 +3,7 @@
         {
             "name": "エテボース",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "雙尾怪手",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "双尾怪手",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

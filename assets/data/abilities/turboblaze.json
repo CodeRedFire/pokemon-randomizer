@@ -3,7 +3,7 @@
         {
             "name": "ターボブレイズ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "渦輪火焰",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "涡轮火焰",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

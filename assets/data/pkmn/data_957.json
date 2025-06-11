@@ -3,7 +3,7 @@
         {
             "name": "カヌチャン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "小鍛匠",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "小锻匠",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

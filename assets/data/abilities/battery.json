@@ -3,7 +3,7 @@
         {
             "name": "バッテリー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "蓄電池",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "蓄电池",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

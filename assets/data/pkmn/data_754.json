@@ -3,7 +3,7 @@
         {
             "name": "ラランテス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "蘭螳花",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "兰螳花",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

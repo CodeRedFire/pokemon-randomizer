@@ -3,7 +3,7 @@
         {
             "name": "すなかき",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "撥沙",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "拨沙",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

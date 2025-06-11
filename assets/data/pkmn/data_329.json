@@ -3,7 +3,7 @@
         {
             "name": "ビブラーバ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "超音波幼蟲",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "超音波幼虫",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

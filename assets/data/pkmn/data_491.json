@@ -3,7 +3,7 @@
         {
             "name": "ダークライ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "達克萊伊",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "达克莱伊",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

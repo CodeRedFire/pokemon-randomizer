@@ -3,7 +3,7 @@
         {
             "name": "ヨクバリス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "藏飽栗鼠",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "藏饱栗鼠",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

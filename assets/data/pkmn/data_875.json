@@ -3,7 +3,7 @@
         {
             "name": "コオリッポ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "冰砌鵝",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "冰砌鹅",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

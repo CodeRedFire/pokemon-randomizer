@@ -3,7 +3,7 @@
         {
             "name": "マギアナ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "瑪機雅娜",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "玛机雅娜",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

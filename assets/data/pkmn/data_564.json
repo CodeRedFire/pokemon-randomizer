@@ -3,7 +3,7 @@
         {
             "name": "プロトーガ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "原蓋海龜",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "原盖海龟",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "セレビィ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "時拉比",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "时拉比",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

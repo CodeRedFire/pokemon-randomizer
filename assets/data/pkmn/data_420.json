@@ -3,7 +3,7 @@
         {
             "name": "チェリンボ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "櫻花寶",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "樱花宝",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

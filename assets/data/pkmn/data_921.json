@@ -3,7 +3,7 @@
         {
             "name": "パモ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "布撥",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "布拨",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

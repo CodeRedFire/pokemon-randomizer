@@ -20,6 +20,7 @@ settings
   text-decoration: none;
   color: #000;
   opacity: 0.5;
+  z-index: 200;
 }
 .settingsButton:hover {
   opacity: 0.8;

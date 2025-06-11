@@ -3,7 +3,7 @@
         {
             "name": "ひでり",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "日照",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "日照",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

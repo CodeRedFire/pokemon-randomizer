@@ -3,7 +3,7 @@
         {
             "name": "よわき",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "軟弱",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "软弱",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

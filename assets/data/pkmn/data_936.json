@@ -3,7 +3,7 @@
         {
             "name": "グレンアルマ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "紅蓮鎧騎",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "红莲铠骑",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

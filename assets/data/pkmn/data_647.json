@@ -3,7 +3,7 @@
         {
             "name": "ケルディオ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "凱路迪歐",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "凯路迪欧",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

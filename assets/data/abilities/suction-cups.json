@@ -3,7 +3,7 @@
         {
             "name": "きゅうばん",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "吸盤",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "吸盘",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "ストリンダー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "顫弦蠑螈",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "颤弦蝾螈",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

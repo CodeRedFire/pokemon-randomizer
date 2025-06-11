@@ -3,7 +3,7 @@
         {
             "name": "ダブラン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "雙卵細胞球",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "双卵细胞球",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

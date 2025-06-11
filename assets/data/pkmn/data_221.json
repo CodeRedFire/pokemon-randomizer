@@ -3,7 +3,7 @@
         {
             "name": "イノムー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "長毛豬",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "长毛猪",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

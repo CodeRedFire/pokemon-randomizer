@@ -3,7 +3,7 @@
         {
             "name": "ひとでなし",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "不仁不義",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "不仁不义",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

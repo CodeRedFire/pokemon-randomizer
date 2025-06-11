@@ -3,7 +3,7 @@
         {
             "name": "スワームチェンジ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "群聚變形",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "群聚变形",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

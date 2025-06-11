@@ -3,7 +3,7 @@
         {
             "name": "アラブルタケ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "猛惡菇",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "猛恶菇",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

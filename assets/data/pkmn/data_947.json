@@ -3,7 +3,7 @@
         {
             "name": "アノホラグサ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "怖納噬草",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "怖纳噬草",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "エレキメイカー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "電氣製造者",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "电气制造者",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

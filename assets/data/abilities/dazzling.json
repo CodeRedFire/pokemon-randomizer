@@ -3,7 +3,7 @@
         {
             "name": "ビビッドボディ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "鮮艷之軀",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "鲜艳之躯",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

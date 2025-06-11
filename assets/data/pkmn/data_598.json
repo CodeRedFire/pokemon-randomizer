@@ -3,7 +3,7 @@
         {
             "name": "ナットレイ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "堅果啞鈴",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "坚果哑铃",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

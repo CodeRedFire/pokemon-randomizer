@@ -3,7 +3,7 @@
         {
             "name": "コレクレー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "索財靈",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "索财灵",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

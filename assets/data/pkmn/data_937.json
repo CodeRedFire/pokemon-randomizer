@@ -3,7 +3,7 @@
         {
             "name": "ソウブレイズ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "蒼炎刃鬼",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "苍炎刃鬼",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

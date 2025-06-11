@@ -3,7 +3,7 @@
         {
             "name": "ウソッキー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "樹才怪",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "树才怪",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "モノズ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "單首龍",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "单首龙",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

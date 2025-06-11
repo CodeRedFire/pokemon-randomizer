@@ -3,7 +3,7 @@
         {
             "name": "メガランチャー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "超級發射器",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "超级发射器",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

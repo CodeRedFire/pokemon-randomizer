@@ -3,7 +3,7 @@
         {
             "name": "チョボマキ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "小嘴蝸",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "小嘴蜗",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

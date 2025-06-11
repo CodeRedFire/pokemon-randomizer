@@ -3,7 +3,7 @@
         {
             "name": "コジョンド",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "師父鼬",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "师父鼬",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

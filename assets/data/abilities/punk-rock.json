@@ -3,7 +3,7 @@
         {
             "name": "パンクロック",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "龐克搖滾",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "庞克摇滚",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

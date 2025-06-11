@@ -3,7 +3,7 @@
         {
             "name": "きずなへんげ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "牽絆變身",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "牵绊变身",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

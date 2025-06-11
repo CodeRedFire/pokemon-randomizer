@@ -3,7 +3,7 @@
         {
             "name": "マシマシラ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "願增猿",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "愿增猿",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

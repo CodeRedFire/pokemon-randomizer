@@ -3,7 +3,7 @@
         {
             "name": "オーラブレイク",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "氣場破壞",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "气场破坏",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

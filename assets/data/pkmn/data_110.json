@@ -3,7 +3,7 @@
         {
             "name": "マタドガス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "雙彈瓦斯",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "双弹瓦斯",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

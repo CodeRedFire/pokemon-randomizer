@@ -1,5 +1,6 @@
 import { reactive } from 'vue'
 import {MaxValues} from "@/enums/max_values.js";
+import {i18n} from "@/i18n/i18n.js";
 
 export const config_store = reactive({
     nbrPokemon: 3,
@@ -16,5 +17,6 @@ export const config_store = reactive({
             selectedPokemonIdsList.push(newValue)
         }
         this.pkmnList = selectedPokemonIdsList;
-    }
+    },
+    displayedLanguage: i18n.global.locale,
 })

@@ -3,7 +3,7 @@
         {
             "name": "ダルマモード",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "達摩模式",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "达摩模式",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

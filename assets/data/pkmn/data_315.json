@@ -3,7 +3,7 @@
         {
             "name": "ロゼリア",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "毒薔薇",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "毒蔷薇",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

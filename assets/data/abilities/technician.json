@@ -3,7 +3,7 @@
         {
             "name": "テクニシャン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "技術高手",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "技术高手",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "モトトカゲ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "摩托蜥",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "摩托蜥",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

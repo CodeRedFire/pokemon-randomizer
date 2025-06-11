@@ -3,7 +3,7 @@
         {
             "name": "さまようたましい",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "遊魂",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "游魂",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

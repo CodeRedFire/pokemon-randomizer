@@ -3,7 +3,7 @@
         {
             "name": "ひこう",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "飛行",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "飞行",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "いかく",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "威嚇",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "威吓",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

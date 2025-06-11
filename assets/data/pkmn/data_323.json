@@ -3,7 +3,7 @@
         {
             "name": "バクーダ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "噴火駝",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "喷火驼",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

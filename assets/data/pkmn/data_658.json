@@ -3,7 +3,7 @@
         {
             "name": "ゲッコウガ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "甲賀忍蛙",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "甲贺忍蛙",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

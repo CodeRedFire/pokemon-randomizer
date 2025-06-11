@@ -3,7 +3,7 @@
         {
             "name": "オノンド",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "斧牙龍",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "斧牙龙",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

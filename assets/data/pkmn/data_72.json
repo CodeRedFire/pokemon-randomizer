@@ -3,7 +3,7 @@
         {
             "name": "メノクラゲ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "瑪瑙水母",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "玛瑙水母",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

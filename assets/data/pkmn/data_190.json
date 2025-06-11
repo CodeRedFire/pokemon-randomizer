@@ -3,7 +3,7 @@
         {
             "name": "エイパム",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "長尾怪手",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "长尾怪手",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "イダイトウ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "幽尾玄魚",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "幽尾玄鱼",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

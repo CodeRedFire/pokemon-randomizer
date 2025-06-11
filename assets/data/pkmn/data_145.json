@@ -3,7 +3,7 @@
         {
             "name": "サンダー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "閃電鳥",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "闪电鸟",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

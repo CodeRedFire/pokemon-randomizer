@@ -3,7 +3,7 @@
         {
             "name": "ドジョッチ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "泥泥鰍",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "泥泥鳅",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

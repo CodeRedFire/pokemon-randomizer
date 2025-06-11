@@ -3,7 +3,7 @@
         {
             "name": "マフィティフ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "獒教父",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "獒教父",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

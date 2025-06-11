@@ -3,7 +3,7 @@
         {
             "name": "サクラビス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "櫻花魚",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "樱花鱼",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "ラビフット",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "騰蹴小將",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "腾蹴小将",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

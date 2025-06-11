@@ -3,7 +3,7 @@
         {
             "name": "ヤミカラス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "黑暗鴉",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "黑暗鸦",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "ズガドーン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "砰頭小丑",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "砰头小丑",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

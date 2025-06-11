@@ -3,7 +3,7 @@
         {
             "name": "ソルロック",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "太陽岩",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "太阳岩",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

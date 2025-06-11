@@ -3,7 +3,7 @@
         {
             "name": "テッカグヤ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "鐵火輝夜",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "铁火辉夜",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

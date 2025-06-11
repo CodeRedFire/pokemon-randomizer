@@ -3,7 +3,7 @@
         {
             "name": "パウワウ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "小海獅",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "小海狮",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

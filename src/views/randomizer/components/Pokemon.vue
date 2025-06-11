@@ -1,6 +1,7 @@
 <script setup>
 import {onMounted, ref} from "vue";
 import {ColorType} from "@/enums/color_type.js";
+import {config_store} from "@/store/config_store.js";
 
 const props = defineProps({
   numPokedex: Number,
@@ -42,7 +43,7 @@ onMounted(async () => {
     <div class="numero">#{{ numPokedex }}</div>
     <img class="sprite" v-if="imgUrl" :src="imgUrl"/>
     <div class="name" v-if="jsonData">{{
-        jsonData["names"].filter((n) => n["language"]["name"] == "fr")[0]["name"]
+        jsonData["names"].filter((n) => n["language"]["name"] == config_store.displayedLanguage)[0]["name"]
       }}
     </div>
   </div>

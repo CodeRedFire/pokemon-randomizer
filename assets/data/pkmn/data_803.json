@@ -3,7 +3,7 @@
         {
             "name": "ベベノム",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "毒貝比",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "毒贝比",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "メェークル",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "坐騎小羊",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "坐骑小羊",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

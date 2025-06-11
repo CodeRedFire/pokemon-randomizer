@@ -3,7 +3,7 @@
         {
             "name": "ベラカス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "蟲甲聖",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "虫甲圣",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

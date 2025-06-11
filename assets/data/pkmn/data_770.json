@@ -3,7 +3,7 @@
         {
             "name": "シロデスナ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "噬沙堡爺",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "噬沙堡爷",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

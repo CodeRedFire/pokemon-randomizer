@@ -3,7 +3,7 @@
         {
             "name": "アグノム",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "亞克諾姆",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "亚克诺姆",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

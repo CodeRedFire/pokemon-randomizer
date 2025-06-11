@@ -3,7 +3,7 @@
         {
             "name": "サニゴーン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "魔靈珊瑚",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "魔灵珊瑚",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

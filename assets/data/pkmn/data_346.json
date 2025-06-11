@@ -3,7 +3,7 @@
         {
             "name": "ユレイドル",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "搖籃百合",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "摇篮百合",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "ヒンバス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "醜醜魚",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "丑丑鱼",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

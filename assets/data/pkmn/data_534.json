@@ -3,7 +3,7 @@
         {
             "name": "ローブシン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "修建老匠",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "修建老匠",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

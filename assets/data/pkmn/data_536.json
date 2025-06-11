@@ -3,7 +3,7 @@
         {
             "name": "ガマガル",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "藍蟾蜍",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "蓝蟾蜍",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

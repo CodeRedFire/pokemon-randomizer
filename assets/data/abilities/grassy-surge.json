@@ -3,7 +3,7 @@
         {
             "name": "グラスメイカー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "青草製造者",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "青草制造者",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

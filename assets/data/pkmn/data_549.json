@@ -3,7 +3,7 @@
         {
             "name": "ドレディア",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "裙兒小姐",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "裙儿小姐",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

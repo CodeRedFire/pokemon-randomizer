@@ -3,7 +3,7 @@
         {
             "name": "やるき",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "幹勁",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "干劲",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

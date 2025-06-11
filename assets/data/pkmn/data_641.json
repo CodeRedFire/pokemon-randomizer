@@ -3,7 +3,7 @@
         {
             "name": "トルネロス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "龍捲雲",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "龙卷云",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

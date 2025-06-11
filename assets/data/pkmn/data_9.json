@@ -3,7 +3,7 @@
         {
             "name": "カメックス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "水箭龜",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "水箭龟",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

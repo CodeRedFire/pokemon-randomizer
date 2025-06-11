@@ -3,7 +3,7 @@
         {
             "name": "ホエルコ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "吼吼鯨",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "吼吼鲸",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

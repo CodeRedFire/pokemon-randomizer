@@ -3,7 +3,7 @@
         {
             "name": "レイスポス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "靈幽馬",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "灵幽马",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

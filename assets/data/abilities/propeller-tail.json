@@ -3,7 +3,7 @@
         {
             "name": "スクリューおびれ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "螺旋尾鰭",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "螺旋尾鳍",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

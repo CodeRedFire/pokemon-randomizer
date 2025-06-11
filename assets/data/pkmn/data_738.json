@@ -3,7 +3,7 @@
         {
             "name": "クワガノン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "鍬農炮蟲",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "锹农炮虫",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

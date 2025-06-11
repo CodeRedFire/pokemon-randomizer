@@ -3,7 +3,7 @@
         {
             "name": "ＡＲシステム",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "ＡＲ系統",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "ＡＲ系统",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

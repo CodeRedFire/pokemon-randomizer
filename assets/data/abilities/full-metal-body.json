@@ -3,7 +3,7 @@
         {
             "name": "メタルプロテクト",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "金屬防護",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "金属防护",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

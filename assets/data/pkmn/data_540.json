@@ -3,7 +3,7 @@
         {
             "name": "クルミル",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "蟲寶包",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "虫宝包",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

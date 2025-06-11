@@ -3,7 +3,7 @@
         {
             "name": "きけんよち",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "危險預知",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "危险预知",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

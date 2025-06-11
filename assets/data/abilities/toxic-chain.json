@@ -3,7 +3,7 @@
         {
             "name": "どくのくさり",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "毒鎖鏈",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "毒锁链",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

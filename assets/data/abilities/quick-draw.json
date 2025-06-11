@@ -3,7 +3,7 @@
         {
             "name": "クイックドロウ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "速擊",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "速击",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

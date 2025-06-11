@@ -3,7 +3,7 @@
         {
             "name": "ヤレユータン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "智揮猩",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "智挥猩",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

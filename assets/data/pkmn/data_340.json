@@ -3,7 +3,7 @@
         {
             "name": "ナマズン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "鯰魚王",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "鲶鱼王",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

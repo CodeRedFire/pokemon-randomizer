@@ -3,7 +3,7 @@
         {
             "name": "コソクムシ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "膽小蟲",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "胆小虫",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

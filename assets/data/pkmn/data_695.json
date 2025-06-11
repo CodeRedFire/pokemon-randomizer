@@ -3,7 +3,7 @@
         {
             "name": "エレザード",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "光電傘蜥",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "光电伞蜥",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

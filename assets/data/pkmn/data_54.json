@@ -3,7 +3,7 @@
         {
             "name": "コダック",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "可達鴨",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "可达鸭",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

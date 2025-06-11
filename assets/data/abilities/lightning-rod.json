@@ -3,7 +3,7 @@
         {
             "name": "ひらいしん",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "避雷針",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "避雷针",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "ダークオーラ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "暗黑氣場",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "暗黑气场",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

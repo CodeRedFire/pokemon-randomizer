@@ -3,7 +3,7 @@
         {
             "name": "カブトプス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "鐮刀盔",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "镰刀盔",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

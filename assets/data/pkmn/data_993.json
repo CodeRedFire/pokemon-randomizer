@@ -3,7 +3,7 @@
         {
             "name": "テツノコウベ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "鐵脖頸",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "铁脖颈",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

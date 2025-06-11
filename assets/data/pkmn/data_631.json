@@ -3,7 +3,7 @@
         {
             "name": "クイタラン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "熔蟻獸",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "熔蚁兽",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

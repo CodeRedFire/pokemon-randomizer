@@ -3,7 +3,7 @@
         {
             "name": "はがねのせいしん",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "鋼之意志",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "钢之意志",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

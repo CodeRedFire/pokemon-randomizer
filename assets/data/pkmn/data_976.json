@@ -3,7 +3,7 @@
         {
             "name": "ミガルーサ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "輕身鱈",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "轻身鳕",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

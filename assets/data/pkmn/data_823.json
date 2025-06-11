@@ -3,7 +3,7 @@
         {
             "name": "アーマーガア",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "鋼鎧鴉",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "钢铠鸦",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

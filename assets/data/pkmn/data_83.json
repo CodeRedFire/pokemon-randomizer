@@ -3,7 +3,7 @@
         {
             "name": "カモネギ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "大蔥鴨",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "大葱鸭",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

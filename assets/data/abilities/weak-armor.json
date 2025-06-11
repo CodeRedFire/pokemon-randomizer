@@ -3,7 +3,7 @@
         {
             "name": "くだけるよろい",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "碎裂鎧甲",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "碎裂铠甲",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

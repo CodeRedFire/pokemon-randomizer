@@ -3,7 +3,7 @@
         {
             "name": "ブロスター",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "鋼炮臂蝦",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "钢炮臂虾",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

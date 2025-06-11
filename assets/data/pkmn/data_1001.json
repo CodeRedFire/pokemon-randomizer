@@ -3,7 +3,7 @@
         {
             "name": "チオンジェン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "古簡蝸",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "古简蜗",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

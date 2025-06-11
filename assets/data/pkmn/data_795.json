@@ -3,7 +3,7 @@
         {
             "name": "フェローチェ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "費洛美螂",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "费洛美螂",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

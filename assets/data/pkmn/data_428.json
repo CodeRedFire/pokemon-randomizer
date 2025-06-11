@@ -3,7 +3,7 @@
         {
             "name": "ミミロップ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "長耳兔",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "长耳兔",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "フォクスライ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "狐大盜",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "猾大狐",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

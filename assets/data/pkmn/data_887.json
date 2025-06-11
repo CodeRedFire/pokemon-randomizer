@@ -3,7 +3,7 @@
         {
             "name": "ドラパルト",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "多龍巴魯托",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "多龙巴鲁托",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

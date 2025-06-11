@@ -3,7 +3,7 @@
         {
             "name": "イリュージョン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "幻覺",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "幻觉",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

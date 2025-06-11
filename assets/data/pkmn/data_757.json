@@ -3,7 +3,7 @@
         {
             "name": "ヤトウモリ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "夜盜火蜥",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "夜盗火蜥",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

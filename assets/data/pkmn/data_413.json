@@ -3,7 +3,7 @@
         {
             "name": "ミノマダム",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "結草貴婦",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "结草贵妇",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

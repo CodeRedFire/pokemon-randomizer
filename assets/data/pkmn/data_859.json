@@ -3,7 +3,7 @@
         {
             "name": "ベロバー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "搗蛋小妖",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "捣蛋小妖",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

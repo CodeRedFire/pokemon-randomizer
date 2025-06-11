@@ -3,7 +3,7 @@
         {
             "name": "とびだすなかみ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "飛出的內在物",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "飞出的内在物",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

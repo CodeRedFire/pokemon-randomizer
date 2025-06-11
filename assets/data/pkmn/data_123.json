@@ -3,7 +3,7 @@
         {
             "name": "ストライク",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "飛天螳螂",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "飞天螳螂",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

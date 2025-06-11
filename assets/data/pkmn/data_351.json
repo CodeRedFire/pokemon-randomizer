@@ -3,7 +3,7 @@
         {
             "name": "ポワルン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "飄浮泡泡",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "飘浮泡泡",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

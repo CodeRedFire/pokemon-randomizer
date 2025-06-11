@@ -3,7 +3,7 @@
         {
             "name": "ネイティ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "天然雀",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "天然雀",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "はらぺこスイッチ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "飽了又餓",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "饱了又饿",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

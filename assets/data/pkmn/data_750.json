@@ -3,7 +3,7 @@
         {
             "name": "バンバドロ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "重泥挽馬",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "重泥挽马",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

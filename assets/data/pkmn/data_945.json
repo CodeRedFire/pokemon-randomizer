@@ -3,7 +3,7 @@
         {
             "name": "タギングル",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "塗標客",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "涂标客",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

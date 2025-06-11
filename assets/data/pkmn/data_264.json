@@ -3,7 +3,7 @@
         {
             "name": "マッスグマ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "直衝熊",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "直冲熊",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

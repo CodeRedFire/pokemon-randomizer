@@ -3,7 +3,7 @@
         {
             "name": "トリトドン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "海兔獸",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "海兔兽",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

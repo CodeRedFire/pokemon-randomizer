@@ -3,7 +3,7 @@
         {
             "name": "ポリゴン２",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "多邊獸Ⅱ",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "多边兽２型",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "カメテテ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "龜腳腳",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "龟脚脚",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

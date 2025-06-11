@@ -3,7 +3,7 @@
         {
             "name": "アブリボン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "蝶結萌虻",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "蝶结萌虻",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

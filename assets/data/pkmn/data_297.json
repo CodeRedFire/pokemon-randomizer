@@ -3,7 +3,7 @@
         {
             "name": "ハリテヤマ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "鐵掌力士",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "铁掌力士",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

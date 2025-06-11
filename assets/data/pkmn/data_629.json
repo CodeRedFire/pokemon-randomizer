@@ -3,7 +3,7 @@
         {
             "name": "バルチャイ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "禿鷹丫頭",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "秃鹰丫头",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

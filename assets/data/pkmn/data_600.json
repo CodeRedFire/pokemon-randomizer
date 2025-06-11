@@ -3,7 +3,7 @@
         {
             "name": "ギギアル",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "齒輪組",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "齿轮组",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

@@ -3,7 +3,7 @@
         {
             "name": "ヨガパワー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "瑜伽之力",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "瑜伽之力",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

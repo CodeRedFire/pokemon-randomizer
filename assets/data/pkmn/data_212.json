@@ -3,7 +3,7 @@
         {
             "name": "ハッサム",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "巨鉗螳螂",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "巨钳螳螂",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

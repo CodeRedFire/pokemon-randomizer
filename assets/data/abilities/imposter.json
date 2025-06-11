@@ -3,7 +3,7 @@
         {
             "name": "かわりもの",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "變身者",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "变身者",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

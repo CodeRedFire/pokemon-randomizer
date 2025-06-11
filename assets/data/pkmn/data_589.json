@@ -3,7 +3,7 @@
         {
             "name": "シュバルゴ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "騎士蝸牛",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "骑士蜗牛",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

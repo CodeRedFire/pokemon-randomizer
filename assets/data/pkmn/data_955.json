@@ -3,7 +3,7 @@
         {
             "name": "ヒラヒナ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "飄飄雛",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "飘飘雏",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

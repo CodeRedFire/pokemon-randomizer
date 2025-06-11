@@ -3,7 +3,7 @@
         {
             "name": "イオルブ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "以歐路普",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "以欧路普",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

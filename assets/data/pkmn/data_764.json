@@ -3,7 +3,7 @@
         {
             "name": "キュワワー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "花療環環",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "花疗环环",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

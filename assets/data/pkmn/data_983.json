@@ -3,7 +3,7 @@
         {
             "name": "ドドゲザン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "仆刀將軍",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "仆刀将军",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

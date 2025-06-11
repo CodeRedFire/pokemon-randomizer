@@ -3,7 +3,7 @@
         {
             "name": "ふしぎなまもり",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "神奇守護",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -57,7 +57,7 @@
         {
             "name": "神奇守护",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

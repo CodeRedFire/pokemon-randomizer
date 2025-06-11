@@ -3,7 +3,7 @@
         {
             "name": "サワムラー",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "飛腿郎",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "飞腿郎",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

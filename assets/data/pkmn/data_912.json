@@ -3,7 +3,7 @@
         {
             "name": "クワッス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "潤水鴨",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "润水鸭",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

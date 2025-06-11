@@ -3,7 +3,7 @@
         {
             "name": "ラウドボーン",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "骨紋巨聲鱷",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "骨纹巨声鳄",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

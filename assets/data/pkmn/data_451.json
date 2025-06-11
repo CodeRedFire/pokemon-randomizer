@@ -3,7 +3,7 @@
         {
             "name": "スコルピ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "鉗尾蠍",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "钳尾蝎",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

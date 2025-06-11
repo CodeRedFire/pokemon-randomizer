@@ -3,7 +3,7 @@
         {
             "name": "フシギダネ",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "妙蛙種子",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "妙蛙种子",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],

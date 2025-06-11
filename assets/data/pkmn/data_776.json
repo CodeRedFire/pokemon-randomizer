@@ -3,7 +3,7 @@
         {
             "name": "バクガメス",
             "language": {
-                "name": "ja-Hrkt"
+                "name": "jaHrkt"
             }
         },
         {
@@ -21,7 +21,7 @@
         {
             "name": "爆焰龜獸",
             "language": {
-                "name": "zh-Hant"
+                "name": "zhHant"
             }
         },
         {
@@ -63,7 +63,7 @@
         {
             "name": "爆焰龟兽",
             "language": {
-                "name": "zh-Hans"
+                "name": "zhHans"
             }
         }
     ],
