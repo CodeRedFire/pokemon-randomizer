@@ -22,6 +22,11 @@ export const i18n = createI18n({
             },
             randomizer: {
                 btn_label: "Surprise me!"
+            },
+            config: {
+                language: "Language",
+                nbrPkmn: "Number of Pokémons to show",
+                randomizerLanguage: "Starter name language displayed",
             }
         },
         fr: {
@@ -42,6 +47,11 @@ export const i18n = createI18n({
             },
             randomizer: {
                 btn_label: "Surprends moi !"
+            },
+            config: {
+                language: "Langue",
+                nbrPkmn: "Nombre de Pokémons à afficher",
+                randomizerLanguage: "Langue utilisée pour les starters",
             }
         }
     }

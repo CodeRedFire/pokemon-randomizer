@@ -8,7 +8,7 @@
   - [x] Types (sprites, noms)
 - [x] Faire un randomizer classique (3 pokémons - FR)
 - [] Configurer le randomizer
-  - [] Afficher d'autres langues (EN, ES, JP...)
+  - [x] Afficher d'autres langues (EN, ES, JP...)
   - [] Nom uniquement
   - [] Meilleur stat uniquement
   - [] Plus basse stat uniquement
