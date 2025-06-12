@@ -57,7 +57,7 @@ onMounted(async () => {
     error.value = err.message;
     console.error('Failed to load JSON:', err);
     imgUrl.value = null;
-  }
+  };
 });
 
 function displayName(jsonData) {
@@ -146,13 +146,20 @@ function displayWorstStat(jsonData) {
     <div class="sprite centeredText" v-if="jsonData && isNumberShow && !isAllShow">
       #{{ numPokedex }}
     </div>
+    <div class="sprite centeredText" v-if="jsonData && isTypeShow && !isAllShow"
+         style="display: grid;">
+      <img v-for="t in jsonData.types" :key="t" :src="`/assets/sprites/types/${t}.png`"/>
+    </div>
     <div class="sprite centeredText" v-if="jsonData && isBestStatShow">
       {{displayBestStat(jsonData)}}
     </div>
     <div class="sprite centeredText" v-if="jsonData && isWorstStatShow">
       {{displayWorstStat(jsonData)}}
     </div>
-    <div class="name" v-if="jsonData && isNameShow">{{
+    <div class="sprite centeredText" style="font-size: 28px" v-if="jsonData && isNameShow && !isAllShow">
+      {{displayName(jsonData)}}
+    </div>
+    <div class="name" v-if="jsonData && isNameShow  && isAllShow">{{
         displayName(jsonData)
       }}
     </div>
