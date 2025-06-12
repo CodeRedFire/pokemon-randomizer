@@ -24,6 +24,7 @@ const isTypeShow = ref(false);
 const isNameShow = ref(false);
 const isBestStatShow = ref(false);
 const isWorstStatShow = ref(false);
+const isRevealed = ref(false);
 
 onMounted(async () => {
   // Manage display of informations
@@ -137,29 +138,44 @@ function displayWorstStat(jsonData) {
 
   return `${statName[smallestObject.name]} : ${smallestObject.value}`
 }
+
+function toggleReveal() {
+  isRevealed.value = !isRevealed.value;
+  if (isTypeShow.value || isRevealed.value) {
+    type1Color.value = ColorType[jsonData.value["types"][0]];
+    if (jsonData.value["types"][1]) {
+      type2Color.value = ColorType[jsonData.value["types"][1]];
+    } else {
+      type2Color.value = ColorType[jsonData.value["types"][0]];
+    }
+  } else {
+    type1Color.value = "transparent";
+    type2Color.value = "transparent";
+  }
+}
 </script>
 
 <template>
-  <div class="container">
-    <div class="numero" v-if="isImgShow">#{{ numPokedex }}</div>
-    <img class="sprite" v-if="imgUrl && isImgShow" :src="imgUrl"/>
-    <div class="sprite centeredText" v-if="jsonData && isNumberShow && !isAllShow">
+  <div class="container" @click="toggleReveal()">
+    <div class="numero" v-if="isImgShow || isRevealed">#{{ numPokedex }}</div>
+    <img class="sprite" v-if="imgUrl && isImgShow || isRevealed" :src="imgUrl"/>
+    <div class="sprite centeredText" v-if="jsonData && isNumberShow && !isAllShow && !isRevealed">
       #{{ numPokedex }}
     </div>
-    <div class="sprite centeredText" v-if="jsonData && isTypeShow && !isAllShow"
+    <div class="sprite centeredText" v-if="jsonData && isTypeShow && !isAllShow && !isRevealed"
          style="display: grid;">
       <img v-for="t in jsonData.types" :key="t" :src="`/assets/sprites/types/${t}.png`"/>
     </div>
-    <div class="sprite centeredText" v-if="jsonData && isBestStatShow">
+    <div class="sprite centeredText" v-if="jsonData && isBestStatShow && !isRevealed">
       {{displayBestStat(jsonData)}}
     </div>
-    <div class="sprite centeredText" v-if="jsonData && isWorstStatShow">
+    <div class="sprite centeredText" v-if="jsonData && isWorstStatShow && !isRevealed">
       {{displayWorstStat(jsonData)}}
     </div>
-    <div class="sprite centeredText" style="font-size: 28px" v-if="jsonData && isNameShow && !isAllShow">
+    <div class="sprite centeredText" style="font-size: 28px" v-if="jsonData && isNameShow && !isAllShow && !isRevealed">
       {{displayName(jsonData)}}
     </div>
-    <div class="name" v-if="jsonData && isNameShow  && isAllShow">{{
+    <div class="name" v-if="jsonData && isNameShow  && isAllShow || isRevealed">{{
         displayName(jsonData)
       }}
     </div>
@@ -172,6 +188,7 @@ function displayWorstStat(jsonData) {
   --hauteur: 280px;
   width: var(--largeur);
   height: var(--hauteur);
+  cursor: pointer;
   position: relative;
   background: linear-gradient(45deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.5) 10%, transparent 40%, transparent 60%, rgba(0, 0, 0, 0.5) 90%, rgba(0, 0, 0, 0.8) 100%),
   linear-gradient(135deg, v-bind('type1Color') 30%, v-bind('type2Color') 70%);
@@ -188,6 +205,12 @@ function displayWorstStat(jsonData) {
   0px 2px 2px #000;
   letter-spacing: 1px;
   margin: 4px;
+  transition: transform 0.4s linear;
+  transform: scale(1);
+}
+
+.container:hover {
+  transform: scale(1.05);
 }
 
 .numero {
