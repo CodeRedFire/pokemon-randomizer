@@ -27,6 +27,13 @@ export const i18n = createI18n({
                 language: "Language",
                 nbrPkmn: "Number of Pokémons to show",
                 randomizerLanguage: "Starter name language displayed",
+                displayedInformations: "Displayed informations",
+                all: "All",
+                nameOnly: "Name only",
+                bestStat: "Best stat",
+                worstStat: "Worst stat",
+                type: "Type",
+                pokedexNumber: "Pokedex number",
             }
         },
         fr: {
@@ -52,6 +59,13 @@ export const i18n = createI18n({
                 language: "Langue",
                 nbrPkmn: "Nombre de Pokémons à afficher",
                 randomizerLanguage: "Langue utilisée pour les starters",
+                displayedInformations: "Informations affichées",
+                all: "Tout",
+                nameOnly: "Nom uniquement",
+                bestStat: "Meilleure statistique",
+                worstStat: "Pire statistique",
+                type: "Type",
+                pokedexNumber: "Numéro de Pokédex",
             }
         }
     }

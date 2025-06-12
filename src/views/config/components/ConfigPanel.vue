@@ -2,6 +2,7 @@
 import {config_store} from '@/store/config_store.js'
 import {MaxValues} from "@/enums/max_values.js";
 import {Languages} from "@/enums/languages.js";
+import {DisplayedDataOptions} from "@/enums/displayed_data.js";
 </script>
 
 <template>
@@ -23,6 +24,13 @@ import {Languages} from "@/enums/languages.js";
       <div>{{ $t("config.randomizerLanguage") }}</div>
       <select v-model="config_store.displayedLanguage">
         <option v-for="l in Languages" :value="l"> {{ $t("languages['" + l + "']") }}</option>
+      </select>
+    </div>
+
+    <div class="line">
+      <div>{{ $t("config.displayedInformations") }}</div>
+      <select v-model="config_store.displayedInformations">
+        <option v-for="d in DisplayedDataOptions" :value="d"> {{ $t("config['" + d + "']") }}</option>
       </select>
     </div>
   </div>
@@ -52,6 +60,14 @@ import {Languages} from "@/enums/languages.js";
 }
 
 .line select {
-  width: 208px;
+  width: 218px;
+}
+
+input, select {
+  border: solid rgba(52, 67, 94, 0.4) 1px;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 14px;
+  color: #34435e;
 }
 </style>

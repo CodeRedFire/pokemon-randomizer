@@ -5,6 +5,7 @@ import {config_store} from "@/store/config_store.js";
 import {Languages} from "@/enums/languages.js";
 import {convert} from "hangul-romanization";
 import { transliterate as tr } from 'transliteration';
+import {DisplayedDataOptions} from "@/enums/displayed_data.js";
 
 const props = defineProps({
   numPokedex: Number,
@@ -16,7 +17,24 @@ const imgUrl = ref(null);
 const type1Color = ref("transparent");
 const type2Color = ref("transparent");
 
+const isAllShow = ref(false);
+const isImgShow = ref(false);
+const isNumberShow = ref(false);
+const isTypeShow = ref(false);
+const isNameShow = ref(false);
+const isBestStatShow = ref(false);
+const isWorstStatShow = ref(false);
+
 onMounted(async () => {
+  // Manage display of informations
+  isAllShow.value = config_store.displayedInformations === DisplayedDataOptions.all;
+  isImgShow.value = config_store.displayedInformations === DisplayedDataOptions.all;
+  isNumberShow.value = config_store.displayedInformations === DisplayedDataOptions.all || config_store.displayedInformations === DisplayedDataOptions.pokedexNumber;
+  isTypeShow.value = config_store.displayedInformations === DisplayedDataOptions.all || config_store.displayedInformations === DisplayedDataOptions.type;
+  isNameShow.value = config_store.displayedInformations === DisplayedDataOptions.all || config_store.displayedInformations === DisplayedDataOptions.nameOnly;
+  isBestStatShow.value = config_store.displayedInformations === DisplayedDataOptions.bestStat;
+  isWorstStatShow.value = config_store.displayedInformations === DisplayedDataOptions.worstStat;
+
   try {
     imgUrl.value = `/assets/sprites/pkmn/sprite_${props.numPokedex}.png`;
 
@@ -27,11 +45,13 @@ onMounted(async () => {
     }
 
     jsonData.value = await response.json();
-    type1Color.value = ColorType[jsonData.value["types"][0]];
-    if (jsonData.value["types"][1]) {
-      type2Color.value = ColorType[jsonData.value["types"][1]];
-    } else {
-      type2Color.value = ColorType[jsonData.value["types"][0]];
+    if (isTypeShow.value) {
+      type1Color.value = ColorType[jsonData.value["types"][0]];
+      if (jsonData.value["types"][1]) {
+        type2Color.value = ColorType[jsonData.value["types"][1]];
+      } else {
+        type2Color.value = ColorType[jsonData.value["types"][0]];
+      }
     }
   } catch (err) {
     error.value = err.message;
@@ -63,13 +83,76 @@ function displayName(jsonData) {
 
   return name;
 }
+
+function displayBestStat(jsonData) {
+  let objetAvecPlusGrandeValeur = null;
+  let plusGrandeValeur = -Infinity;
+
+  for (const item of jsonData.stats) {
+    if (item.value > plusGrandeValeur) {
+      plusGrandeValeur = item.value;
+      objetAvecPlusGrandeValeur = item;
+    }
+  }
+
+  if (!objetAvecPlusGrandeValeur) {
+    console.log("Le tableau est vide ou ne contient pas d'objets valides.");
+  }
+
+  let statName = {
+    "hp": "HP",
+    "attack": "Atk",
+    "defense": "Def",
+    "special-attack": "SpA",
+    "special-defense": "SpD",
+    "speed": "Spe",
+  };
+
+  return `${statName[objetAvecPlusGrandeValeur.name]} : ${objetAvecPlusGrandeValeur.value}`
+}
+
+function displayWorstStat(jsonData) {
+  let smallestObject = null;
+  let smallestValue = Infinity;
+
+  for (const item of jsonData.stats) {
+    if (item.value < smallestValue) {
+      smallestValue = item.value;
+      smallestObject = item;
+    }
+  }
+
+  if (!smallestObject) {
+    console.log("Le tableau est vide ou ne contient pas d'objets valides.");
+  }
+
+  let statName = {
+    "hp": "HP",
+    "attack": "Atk",
+    "defense": "Def",
+    "special-attack": "SpA",
+    "special-defense": "SpD",
+    "speed": "Spe",
+  };
+
+  return `${statName[smallestObject.name]} : ${smallestObject.value}`
+}
 </script>
 
 <template>
   <div class="container">
-    <div class="numero">#{{ numPokedex }}</div>
-    <img class="sprite" v-if="imgUrl" :src="imgUrl"/>
-    <div class="name" v-if="jsonData">{{
+    <div class="numero" v-if="isImgShow">#{{ numPokedex }}</div>
+    <img class="sprite" v-if="imgUrl && isImgShow" :src="imgUrl"/>
+    <div class="sprite centeredText" v-if="jsonData && isNumberShow && !isAllShow">
+      #{{ numPokedex }}
+    </div>
+    <div class="sprite centeredText" v-if="jsonData && isBestStatShow">
+      {{displayBestStat(jsonData)}}
+    </div>
+    <div class="sprite centeredText" v-if="jsonData && isWorstStatShow">
+      {{displayWorstStat(jsonData)}}
+    </div>
+    <div class="name" v-if="jsonData && isNameShow">{{
         displayName(jsonData)
       }}
     </div>
@@ -126,5 +209,12 @@ function displayName(jsonData) {
   font-weight: bold;
   text-align: center;
   padding-bottom: 8px;
+}
+
+.centeredText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
 }
 </style>
