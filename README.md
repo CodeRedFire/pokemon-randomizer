@@ -7,14 +7,14 @@
   - [x] Capacités
   - [x] Types (sprites, noms)
 - [x] Faire un randomizer classique (3 pokémons - FR)
-- [] Configurer le randomizer
+- [x] Configurer le randomizer
   - [x] Afficher d'autres langues (EN, ES, JP...)
-  - [] Nom uniquement
-  - [] Meilleur stat uniquement
-  - [] Plus basse stat uniquement
-  - [] Type uniquement
+  - [x] Nom uniquement
+  - [x] Meilleur stat uniquement
+  - [x] Plus basse stat uniquement
+  - [x] Type uniquement
   - [x] Choisir le nombre de pokémons à randomizer
-  - [] Numéro de pokédex uniquement
+  - [x] Numéro de pokédex uniquement
 - [] Randomizer capacité
 - [] Définir nombre joueurs participants (max 8)
   - [] Définir pseudo pour chaque joueur
