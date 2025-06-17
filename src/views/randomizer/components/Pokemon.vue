@@ -37,9 +37,9 @@ onMounted(async () => {
   isWorstStatShow.value = config_store.displayedInformations === DisplayedDataOptions.worstStat;
 
   try {
-    imgUrl.value = `/assets/sprites/pkmn/sprite_${props.numPokedex}.png`;
+    imgUrl.value = `/pokemon-randomizer/assets/sprites/pkmn/sprite_${props.numPokedex}.png`;
 
-    const response = await fetch(`/assets/data/pkmn/data_${props.numPokedex}.json`);
+    const response = await fetch(`/pokemon-randomizer/assets/data/pkmn/data_${props.numPokedex}.json`);
 
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
@@ -164,7 +164,7 @@ function toggleReveal() {
     </div>
     <div class="sprite centeredText" v-if="jsonData && isTypeShow && !isAllShow && !isRevealed"
          style="display: grid;">
-      <img v-for="t in jsonData.types" :key="t" :src="`/assets/sprites/types/${t}.png`"/>
+      <img v-for="t in jsonData.types" :key="t" :src="`/pokemon-randomizer/assets/sprites/types/${t}.png`"/>
     </div>
     <div class="sprite centeredText" v-if="jsonData && isBestStatShow && !isRevealed">
       {{displayBestStat(jsonData)}}
