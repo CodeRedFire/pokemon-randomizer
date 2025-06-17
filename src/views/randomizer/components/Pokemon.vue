@@ -4,8 +4,9 @@ import {ColorType} from "@/enums/color_type.js";
 import {config_store} from "@/store/config_store.js";
 import {Languages} from "@/enums/languages.js";
 import {convert} from "hangul-romanization";
-import { transliterate as tr } from 'transliteration';
+import {transliterate as tr} from 'transliteration';
 import {DisplayedDataOptions} from "@/enums/displayed_data.js";
+import {selection_store} from "@/store/selection_store.js";
 
 const props = defineProps({
   numPokedex: Number,
@@ -58,7 +59,8 @@ onMounted(async () => {
     error.value = err.message;
     console.error('Failed to load JSON:', err);
     imgUrl.value = null;
-  };
+  }
+  ;
 });
 
 function displayName(jsonData) {
@@ -167,17 +169,24 @@ function toggleReveal() {
       <img v-for="t in jsonData.types" :key="t" :src="`/pokemon-randomizer/assets/sprites/types/${t}.png`"/>
     </div>
     <div class="sprite centeredText" v-if="jsonData && isBestStatShow && !isRevealed">
-      {{displayBestStat(jsonData)}}
+      {{ displayBestStat(jsonData) }}
     </div>
     <div class="sprite centeredText" v-if="jsonData && isWorstStatShow && !isRevealed">
-      {{displayWorstStat(jsonData)}}
+      {{ displayWorstStat(jsonData) }}
     </div>
     <div class="sprite centeredText" style="font-size: 28px" v-if="jsonData && isNameShow && !isAllShow && !isRevealed">
-      {{displayName(jsonData)}}
+      {{ displayName(jsonData) }}
     </div>
     <div class="name" v-if="jsonData && isNameShow  && isAllShow || isRevealed">{{
         displayName(jsonData)
       }}
+    </div>
+
+    <div class="checkBtn" :title="$t('randomizer.selection_tooltip')"
+      @click="selection_store.selectedPkmn(numPokedex)">
+      <span class="material-symbols-rounded">
+      check
+      </span>
     </div>
   </div>
 </template>
@@ -246,5 +255,20 @@ function toggleReveal() {
   align-items: center;
   justify-content: center;
   font-size: 40px;
+}
+
+.checkBtn {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  display: flex;
+}
+.checkBtn .material-symbols-rounded {
+  font-size: 28px;
+  text-shadow: none;
+  opacity: 0.4;
+}
+.checkBtn .material-symbols-rounded:hover {
+  opacity: 1;
 }
 </style>

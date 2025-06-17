@@ -1,9 +1,15 @@
 <script setup>
 import { config_store } from '@/store/config_store.js'
+import {selection_store} from "@/store/selection_store.js";
+
+function refresh() {
+  config_store.randomizeList();
+  selection_store.next();
+}
 </script>
 
 <template>
-<button class="refresh" @click="config_store.randomizeList()">{{ $t("randomizer.btn_label")}}</button>
+<button class="refresh" @click="refresh()">{{ $t("randomizer.btn_label")}}</button>
 </template>
 
 <style scoped>

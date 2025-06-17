@@ -21,7 +21,8 @@ export const i18n = createI18n({
                 zhLatin: "Chinese (Latin alphabet)"
             },
             randomizer: {
-                btn_label: "Surprise me!"
+                btn_label: "Surprise me!",
+                selection_tooltip: "Select the pokémon"
             },
             config: {
                 language: "Language",
@@ -53,7 +54,8 @@ export const i18n = createI18n({
                 zhLatin: "Chinois (alphabet latin)"
             },
             randomizer: {
-                btn_label: "Surprends moi !"
+                btn_label: "Surprends moi !",
+                selection_tooltip: "Sélectionne le pokémon"
             },
             config: {
                 language: "Langue",
