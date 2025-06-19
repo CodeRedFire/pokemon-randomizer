@@ -24,5 +24,6 @@ const selectedPokemonIds = computed(() => {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  padding-bottom: 140px;
 }
 </style>

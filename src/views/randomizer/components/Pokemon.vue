@@ -266,7 +266,7 @@ function toggleReveal() {
 .checkBtn .material-symbols-rounded {
   font-size: 28px;
   text-shadow: none;
-  opacity: 0.4;
+  opacity: 0.2;
 }
 .checkBtn .material-symbols-rounded:hover {
   opacity: 1;

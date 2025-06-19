@@ -33,8 +33,8 @@ const props = defineProps({
   cursor: pointer;
 }
 .selected {
-  border: 2px solid #f58a07 !important;
-  box-shadow: inset 0 0 0 2px #f58a07;
+  border: 2px solid #299c6e !important;
+  box-shadow: inset 0 0 0 2px #299c6e;
 }
 
 .sprite {

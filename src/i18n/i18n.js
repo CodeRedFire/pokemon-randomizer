@@ -22,7 +22,10 @@ export const i18n = createI18n({
             },
             randomizer: {
                 btn_label: "Surprise me!",
-                selection_tooltip: "Select the pokémon"
+                selection_tooltip: "Select the pokémon",
+                team: {
+                    reset_tooltip: "Reset the selected team"
+                }
             },
             config: {
                 language: "Language",
@@ -55,7 +58,10 @@ export const i18n = createI18n({
             },
             randomizer: {
                 btn_label: "Surprends moi !",
-                selection_tooltip: "Sélectionne le pokémon"
+                selection_tooltip: "Sélectionne le pokémon",
+                team: {
+                    reset_tooltip: "Réinitialise l'équipe sélectionnée"
+                }
             },
             config: {
                 language: "Langue",

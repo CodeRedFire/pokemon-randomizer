@@ -2,42 +2,36 @@
 import ListPokemon from "@/views/randomizer/components/ListPokemon.vue";
 import RefreshButton from "@/views/randomizer/components/RefreshButton.vue";
 import SettingsButton from "@/views/randomizer/components/SettingsButton.vue";
-import {selection_store} from "@/store/selection_store.js";
-import Pokeball from "@/views/randomizer/components/Pokeball.vue";
+import Team from "@/views/randomizer/components/Team.vue";
 </script>
 
 <template>
   <SettingsButton/>
-  <ListPokemon/>
+  <div class="randomizerContainer">
+    <ListPokemon/>
+  </div>
   <div class="refreshContainer">
-  <RefreshButton />
+    <RefreshButton />
   </div>
-  <div class="teamBuilderContainer">
-    <Pokeball v-for="(pkmnNum, index) in selection_store.selectedPkmnList" :pkmnNum="pkmnNum"
-    :index="index"></Pokeball>
-
-    <span class="material-symbols-rounded resetBtn" @click="selection_store.reset()">
-    refresh
-    </span>
-  </div>
+  <Team></Team>
 </template>
 
 <style scoped>
+.randomizerContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+}
 .refreshContainer {
   width: 100%;
   margin-top: 80px;
+  margin-bottom: 80px;
   text-align: center;
-}
-
-.teamBuilderContainer {
-  display: flex;
-  flex-wrap: wrap;
-  position: sticky;
-  bottom: 8px;
-  z-index: 200;
-  margin-top: 40px;
-}
-.resetBtn {
-  cursor: pointer;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 </style>
