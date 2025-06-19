@@ -1,13 +1,17 @@
 <script setup>
 
+function goBack() {
+  console.log("go back");
+  window.history.back();
+}
 </script>
 
 <template>
-  <a href="#/">
+  <div @click="goBack()">
     <span class="material-symbols-rounded backButton">
 arrow_back
 </span>
-  </a>
+  </div>
 </template>
 
 <style scoped>
@@ -18,6 +22,7 @@ arrow_back
   color: #000;
   opacity: 0.5;
 }
+
 .backButton:hover {
   opacity: 0.8;
 }

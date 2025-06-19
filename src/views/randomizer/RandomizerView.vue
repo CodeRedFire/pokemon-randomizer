@@ -1,7 +1,7 @@
 <script setup>
 import ListPokemon from "@/views/randomizer/components/ListPokemon.vue";
 import RefreshButton from "@/views/randomizer/components/RefreshButton.vue";
-import SettingsButton from "@/views/randomizer/components/SettingsButton.vue";
+import SettingsButton from "@/views/commons/SettingsButton.vue";
 import Team from "@/views/randomizer/components/Team.vue";
 </script>
 
