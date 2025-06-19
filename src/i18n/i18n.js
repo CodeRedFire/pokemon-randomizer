@@ -38,6 +38,10 @@ export const i18n = createI18n({
                 worstStat: "Worst stat",
                 type: "Type",
                 pokedexNumber: "Pokedex number",
+            },
+            menu: {
+                randomizer: "Pokémon Randomizer",
+                battleship: "Battleship",
             }
         },
         fr: {
@@ -74,6 +78,10 @@ export const i18n = createI18n({
                 worstStat: "Pire statistique",
                 type: "Type",
                 pokedexNumber: "Numéro de Pokédex",
+            },
+            menu: {
+                randomizer: "Randomizer Pokémon",
+                battleship: "Bataille Navale",
             }
         }
     }
