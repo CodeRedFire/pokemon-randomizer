@@ -2,16 +2,15 @@
 const props = defineProps({
   link: String,
   title: String,
+  img: String,
 })
 </script>
 
 <template>
   <a :href="props.link">
-    <div>
-      {{props.title}}
-      <span class="material-symbols-rounded">
-arrow_forward_ios
-</span>
+    <div class="itemContainer">
+      <img :src="props.img"/>
+      <div class="itemTitle">{{props.title}}</div>
     </div>
   </a>
 </template>
@@ -21,8 +20,7 @@ a {
   text-decoration: none;
 }
 
-div {
-  background-color: #1976D2;
+.itemContainer {
   padding: 20px 12px;
   margin: 20px;
   border-radius: 8px;
@@ -32,18 +30,27 @@ div {
   letter-spacing: 0.5px;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
   position: relative;
+  width: 200px;
+  height: 200px;
 }
 
-div:hover {
-  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
-  background-color: #104b85;
-}
-
-.material-symbols-rounded {
+.itemTitle {
   position: absolute;
-  right: 12px;
-  top: 18px;
-  font-size: 24px;
-  opacity: 0.5;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  padding: 20px 0px 12px 0px;
+  background: linear-gradient(transparent 0%, #222222 40%);
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
 }
+img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
 </style>

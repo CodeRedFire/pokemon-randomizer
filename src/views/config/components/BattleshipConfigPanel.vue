@@ -3,16 +3,21 @@ import {config_store} from '@/store/config_store.js'
 import {MaxValues} from "@/enums/max_values.js";
 import {Languages} from "@/enums/languages.js";
 import {DisplayedDataOptions} from "@/enums/displayed_data.js";
+import {battleship_store} from "@/store/battleship_store.js";
 </script>
 
 <template>
-  <h2>{{ $t("config.general.title") }}</h2>
+  <h2>{{ $t("config.battleship.title") }}</h2>
   <div class="container">
     <div class="line">
-      <div>{{ $t("config.general.language") }}</div>
-      <select v-model="$i18n.locale">
-        <option v-for="locale in $i18n.availableLocales" :key="`locale-${locale}`" :value="locale">{{ locale }}</option>
-      </select>
+      <div>{{ $t("config.battleship.column") }}</div>
+      <input type="number" min="1" :max="10"
+             v-model="battleship_store.nbrColumns">
+    </div>
+    <div class="line">
+      <div>{{ $t("config.battleship.row") }}</div>
+      <input type="number" min="1" :max="10"
+             v-model="battleship_store.nbrRows">
     </div>
   </div>
 </template>

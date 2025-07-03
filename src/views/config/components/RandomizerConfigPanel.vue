@@ -6,12 +6,25 @@ import {DisplayedDataOptions} from "@/enums/displayed_data.js";
 </script>
 
 <template>
-  <h2>{{ $t("config.general.title") }}</h2>
+  <h2>{{ $t("config.randomizer.title") }}</h2>
   <div class="container">
     <div class="line">
-      <div>{{ $t("config.general.language") }}</div>
-      <select v-model="$i18n.locale">
-        <option v-for="locale in $i18n.availableLocales" :key="`locale-${locale}`" :value="locale">{{ locale }}</option>
+      <div>{{ $t("config.randomizer.nbrPkmn") }}</div>
+      <input type="number" min="1" :max="MaxValues.Pokedex"
+             v-model="config_store.nbrPokemon">
+    </div>
+
+    <div class="line">
+      <div>{{ $t("config.randomizer.randomizerLanguage") }}</div>
+      <select v-model="config_store.displayedLanguage">
+        <option v-for="l in Languages" :value="l"> {{ $t("languages['" + l + "']") }}</option>
+      </select>
+    </div>
+
+    <div class="line">
+      <div>{{ $t("config.randomizer.displayedInformations") }}</div>
+      <select v-model="config_store.displayedInformations">
+        <option v-for="d in DisplayedDataOptions" :value="d"> {{ $t("config.randomizer['" + d + "']") }}</option>
       </select>
     </div>
   </div>
@@ -22,6 +35,7 @@ h2 {
   font-family: "Roboto", sans-serif;
 }
 .container {
+  margin-top: 20px;
   background-color: #D2D7DF;
   padding: 4px 8px;
   border-radius: 8px;

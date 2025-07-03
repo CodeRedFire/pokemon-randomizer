@@ -28,20 +28,32 @@ export const i18n = createI18n({
                 }
             },
             config: {
-                language: "Language",
-                nbrPkmn: "Number of Pokémons to show",
-                randomizerLanguage: "Starter name language displayed",
-                displayedInformations: "Displayed informations",
-                all: "All",
-                nameOnly: "Name only",
-                bestStat: "Best stat",
-                worstStat: "Worst stat",
-                type: "Type",
-                pokedexNumber: "Pokedex number",
+                general: {
+                    title: "General",
+                    language: "Language",
+                },
+                battleship: {
+                    title: "Battleship",
+                    column: "Number of columns",
+                    row: "Number of rows"
+                },
+                randomizer: {
+                    title: "Randomizer",
+                    nbrPkmn: "Number of Pokémons to show",
+                    randomizerLanguage: "Starter name language displayed",
+                    displayedInformations: "Displayed informations",
+                    all: "All",
+                    nameOnly: "Name only",
+                    bestStat: "Best stat",
+                    worstStat: "Worst stat",
+                    type: "Type",
+                    pokedexNumber: "Pokedex number",
+                }
             },
             menu: {
                 randomizer: "Pokémon Randomizer",
                 battleship: "Battleship",
+                title:"Choose your game mode"
             },
             battleship: {
                 regenerate: "Regenerate grid",
@@ -71,20 +83,32 @@ export const i18n = createI18n({
                 }
             },
             config: {
-                language: "Langue",
-                nbrPkmn: "Nombre de Pokémons à afficher",
-                randomizerLanguage: "Langue utilisée pour les starters",
-                displayedInformations: "Informations affichées",
-                all: "Tout",
-                nameOnly: "Nom uniquement",
-                bestStat: "Meilleure statistique",
-                worstStat: "Pire statistique",
-                type: "Type",
-                pokedexNumber: "Numéro de Pokédex",
+                general: {
+                    title: "Général",
+                    language: "Langue",
+                },
+                battleship: {
+                  title: "Bataille Navale",
+                  column: "Nombre de colonnes",
+                  row: "Nombre de lignes"
+                },
+                randomizer: {
+                    title: "Randomizer",
+                    nbrPkmn: "Nombre de Pokémons à afficher",
+                    randomizerLanguage: "Langue utilisée pour les starters",
+                    displayedInformations: "Informations affichées",
+                    all: "Tout",
+                    nameOnly: "Nom uniquement",
+                    bestStat: "Meilleure statistique",
+                    worstStat: "Pire statistique",
+                    type: "Type",
+                    pokedexNumber: "Numéro de Pokédex",
+                }
             },
             menu: {
                 randomizer: "Randomizer Pokémon",
                 battleship: "Bataille Navale",
+                title:"Choisissez votre mode de jeu"
             },
             battleship: {
                 regenerate: "Regénérer la grille",

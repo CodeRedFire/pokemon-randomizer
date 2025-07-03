@@ -3,17 +3,20 @@ import ListPokemon from "@/views/randomizer/components/ListPokemon.vue";
 import RefreshButton from "@/views/randomizer/components/RefreshButton.vue";
 import SettingsButton from "@/views/commons/SettingsButton.vue";
 import Team from "@/views/randomizer/components/Team.vue";
+import MenuButton from "@/views/commons/MenuButton.vue";
 </script>
 
 <template>
   <SettingsButton/>
+  <MenuButton/>
+
   <div class="randomizerContainer">
     <ListPokemon/>
   </div>
   <div class="refreshContainer">
     <RefreshButton />
   </div>
-  <Team></Team>
+  <Team/>
 </template>
 
 <style scoped>
