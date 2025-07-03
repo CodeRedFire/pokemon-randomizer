@@ -1,12 +1,12 @@
 <script setup>
-import {battleship_store} from "@/store/battleship_store.js";
 import {ref} from "vue";
+import {TileData} from "@/models/TileData.js";
 
 const props = defineProps({
-  nbrPkmn: Number,
+  tileData: TileData,
 })
 
-const bgColor = ref("#829cbc");
+const bgColor = ref(props.tileData.color);
 
 function toogleStatus() {
   if (bgColor.value === "#687FE5") {
@@ -29,7 +29,7 @@ function toogleStatusReverse(e) {
 <template>
   <div @click="toogleStatus()" @contextmenu="toogleStatusReverse">
     <img class="sprite"
-         :src="`/pokemon-randomizer/assets/sprites/pkmn/sprite_${props.nbrPkmn}.png`"/>
+         :src="`/pokemon-randomizer/assets/sprites/pkmn/sprite_${props.tileData.nbrPkmn}.png`"/>
   </div>
 </template>
 

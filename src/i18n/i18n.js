@@ -42,6 +42,9 @@ export const i18n = createI18n({
             menu: {
                 randomizer: "Pokémon Randomizer",
                 battleship: "Battleship",
+            },
+            battleship: {
+                regenerate: "Regenerate grid",
             }
         },
         fr: {
@@ -82,6 +85,9 @@ export const i18n = createI18n({
             menu: {
                 randomizer: "Randomizer Pokémon",
                 battleship: "Bataille Navale",
+            },
+            battleship: {
+                regenerate: "Regénérer la grille",
             }
         }
     }
