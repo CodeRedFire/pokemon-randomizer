@@ -6,24 +6,20 @@ const props = defineProps({
   nbrPkmn: Number,
 })
 
-const bgColor = ref("transparent");
+const bgColor = ref("#829cbc");
 
 function toogleStatus() {
-  if (bgColor.value === "transparent") {
+  if (bgColor.value === "#687FE5") {
+    bgColor.value = "#829cbc";
+  } else {
     bgColor.value = "#687FE5";
-  } else if (bgColor.value === "#687FE5") {
-    bgColor.value = "#FF4F0F";
-  } else if (bgColor.value === "#FF4F0F") {
-    bgColor.value = "transparent";
   }
 }
 
 function toogleStatusReverse(e) {
-  if (bgColor.value === "#687FE5") {
-    bgColor.value = "transparent";
-  } else if (bgColor.value === "#FF4F0F") {
-    bgColor.value = "#687FE5";
-  }else if (bgColor.value === "transparent") {
+  if (bgColor.value === "#FF4F0F") {
+    bgColor.value = "#829cbc";
+  } else {
     bgColor.value = "#FF4F0F";
   }
   e.preventDefault();
@@ -39,9 +35,10 @@ function toogleStatusReverse(e) {
 
 <style scoped>
 div {
-  border: 1px solid rgba(0, 0, 0, 0.4);
-  padding: 8px;
+  margin: 8px;
   background-color: v-bind('bgColor');
+  border-radius: 8px;
+  box-shadow: 4px 4px 6px 0 rgba(0, 0, 0, 0.2);
 }
 div:hover {
   cursor: pointer;
